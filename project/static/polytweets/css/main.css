@@ -1,0 +1,139 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+body {
+	padding-top: 0;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+.questionContainer {
+	
+}
+
+.twitterContainer {
+	
+}
+
+.answersContainer {
+	text-align: center;
+}
+
+.answerButtonContainer {
+	width: 40%;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.answerButtonContainer a {
+	width: 100%;
+}
+
+
+.statusContent {
+	
+}
+
+.statusContentItem {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.progressBarContainer {
+	width: 50%;
+}
+
+
+.questionNumIndicator {
+	text-align: center;
+}
+.nextButtonContainer {
+	width: 25%;
+	text-align: right;
+}
+.scoreContainer {
+	width: 25%;
+	padding-top: 10px;
+	font-size: 1.5em;
+}
+
+
+.content .avatar {
+                float: left;
+                margin-top: 3px;
+                margin-left: -58px;
+                width: 48px;
+                height: 48px;
+                border-radius: 5px;
+                -moz-force-broken-image-icon: 1;
+            } 
+            .content .username{
+                font-size: 13px;
+                color: #8899a6;
+            }
+            
+            .content .time{
+                color: #8899a6;
+            }
+            
+            .content .tweet{
+                font-size: 14px;
+                line-height: 18px;
+            }
+
+
+@media only screen and (max-width: 768px) {
+
+	
+	
+	.statusContentItem {
+		display: block;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.progressBarContainer {
+		width: 100%;
+	}
+
+
+	.nextButtonContainer {
+		width: 100%;
+		text-align: center;
+	}
+	.scoreContainer {
+		width: 100%;
+		text-align: center;
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 480px) {
+	.answerButtonContainer {
+		width: 100%;
+		display: block;
+	}
+	
+	.answerButtonContainer a {
+		width: 100%;
+	}
+	
+	
+
+}
+
+
