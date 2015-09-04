@@ -1,0 +1,51 @@
+[
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "udc"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "plr"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "pdc"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "ps"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "gre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "lib"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.party",
+    "fields": {
+      "name": "pbd"
+    }
+  }
+]

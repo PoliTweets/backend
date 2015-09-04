@@ -1,0 +1,3242 @@
+[
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Savary Géraldine",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "Savary_Recordon"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Nordmann Roger",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "NordmannRoger"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marra Ada",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "ada_marra"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schwaab Jean Christophe",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "jcschwaab"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Amarelle Cesla",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "CeslaAmarelle"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ruiz Rebecca",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "reb_ruiz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bendahan Samuel",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "bendahan"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Dessemontet Pierre",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "pdessemontet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kaufmann Lyonel",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "lyonelkaufmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Uffer Filip",
+      "full_party_name": "PS",
+      "canton": "VD",
+      "handle": "Filipuffer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Berthoud Alexandre",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "A_Berthoud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bettschart-Narbel Florence",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "FloBettschart"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Borloz Frédéric",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "FredericBorloz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Derder Fathi",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "fderder"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gross Forence",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "FlorenceGross"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Guyaz Anne",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "AnneGuyaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Leuba Nicolas",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "LeubaNicolas"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Moret Isabelle",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "IsabelleMoret"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Wehrli Laurent",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "LaurentWehrli"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Arlettaz Vincent",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "VincentArlettaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bernhard Maximilien",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "Ma_Bernhard"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cretegny Laurence",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "Lcretegny"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Dutruy Nicolas",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "dutruy"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fantino Olivier",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "ofantino"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jobin Laurine",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "laurineJoCH"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Klunge Henri",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "hklunge"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Möhl Paola",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "PaolaMhl"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schelker Carole",
+      "full_party_name": "PLR",
+      "canton": "VD",
+      "handle": "CaroleSchelker"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Aebi Michel",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "AebiMichel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Berthet Jérémy",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "kaltezar"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bliesener Ludovic",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "LudoBliesener"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bongard Benoît",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "Ravens_88"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Brandani Florent",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "FlorentBrandani"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Braune Victor",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "VictorBraune"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Delacrétaz Matthieu",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "mdelacretaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Engel Oriane",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "orianeengel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gemesio Denise",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "DeniseGemesio"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hautier Loïc",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "Lhautier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kuntzmann Jonathan",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "jk_jkuntzmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Muller Baptiste",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "baptistemuller"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Racine Quentin",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "QRacine"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Voinçon Lionel",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VD",
+      "handle": "Lionel_Voincon"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Recordon Luc",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "Savary_Recordon"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Thorens Adèle",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "adelethorens"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Van Singer Christian",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "CvanSinger"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Maystre Tinetta",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "TinettaMaystre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Porchet Léonore",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "LeonorePorchet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mischler Maurice",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "MauriceMischler"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Evéquoz Séverine",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "sevequoz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Chinet Mathilde",
+      "full_party_name": "Les Verts",
+      "canton": "VD",
+      "handle": "mathildechinet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rinsoz Lore",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "LRinsoz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Genoud Alice",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "AliceGenoud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jacquet Pierre-Alain",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "pajaquet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Joly Rebecca",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "rebecca_joly"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Raedler David",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "DaRaedler"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jueni Pamela",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "pjueni"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Zangger Anna",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "Smishaa"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Panchard Ilias",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "IliasPanchard"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Anken Daniel",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "DanielAnken"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gutknecht Chloé",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VD",
+      "handle": "ChloeGut"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Glauser Alice",
+      "full_party_name": "UDC",
+      "canton": "VD",
+      "handle": "AliceGlauser"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rapaz Pierre-Yves",
+      "full_party_name": "UDC",
+      "canton": "VD",
+      "handle": "pyrapaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Riesen Werner",
+      "full_party_name": "UDC",
+      "canton": "VD",
+      "handle": "wernerriesen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Voiblet Claude-Alain",
+      "full_party_name": "UDC",
+      "canton": "VD",
+      "handle": "Voiblet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Weissert Cédric",
+      "full_party_name": "UDC",
+      "canton": "VD",
+      "handle": "cedricweissert"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Indermuhle Elouan",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "E_Indermuhle"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ziehli Yoan",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "YohanZiehli"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Verdan Ariane",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "ArianeVerdan"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fardel Nicolas",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "NFardel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Petit Arthur",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "petitarthur87"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Karlen Dylan",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "dylankarlen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Menzi Pablo",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VD",
+      "handle": "mdrlol85"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cantone Camille",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "CamilleCantone"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Clément François",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "franclem2"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Dabboubi Samia",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "samiaDabb"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hamouti Aurélien",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "aurelienhamouti"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gabriel Charlotte",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "CharlottGabriel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Petitpierre Rémi",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "RemiPetitpierre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Pilloud Romain",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "RomainPilloudVD"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Javet Raphaëlle",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "RaphaelleJavet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rilliet Julien",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "jrilliet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rivola Filippo",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "filipporivola"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ramsauer Diana-Alice",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "Daramsauer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Waeber Julien-Clément",
+      "full_party_name": "JUSO",
+      "canton": "VD",
+      "handle": "WaeberJC"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bussat Christine",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "ChristineBussat"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Boschetti Steen",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "BoschettiSteen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bellani Sandra",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "Mobella7"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cramer Stanislas",
+      "full_party_name": "Jeunes PBD",
+      "canton": "VD",
+      "handle": "StanislasCramer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Brennecke Caroline",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "carobrennecke"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Krattiger Quentin",
+      "full_party_name": "Jeunes PBD",
+      "canton": "VD",
+      "handle": "quentin_krattig"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Morin Patrice Eric",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "PAPAMIKE15"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Badoux Gabrielle",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "GabrielleBadoux"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Velasco Meschwitz Maria Laura",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "malow333"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Béglé Claude",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "ClaudeBegle"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Neirynck Jacques",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "NeirynckJ"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cretegny Gérald",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "GerCret"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marion Axel",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "axel_marion"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Donzé Manuel",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "LeManu71"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Poitry Alain-Valery",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "alainvpoitry"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Barbezat Christophe",
+      "full_party_name": "Jeunes PDC",
+      "canton": "VD",
+      "handle": "CBarbezat"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bona Urs",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "BonaUrs"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Chevalley Isabelle",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "I_Chevalley"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Demaurex Aurélien",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "ADemaurex"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Dupertuis Michael",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "Mikedupertuis"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lio Lena",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "lenalio2011"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Miéville Laurent",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "LaurentMieville"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Pointet François",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "isfpo"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Richard Claire",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "ClaireRichard56"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Vionnet Blaise",
+      "full_party_name": "Vert'libéraux",
+      "canton": "VD",
+      "handle": "B_Vionnet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Misiego Céline",
+      "full_party_name": "POP et solidaritéS",
+      "canton": "VD",
+      "handle": "CMisiego"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Decker Joanna",
+      "full_party_name": "POP et solidaritéS",
+      "canton": "VD",
+      "handle": "Joanna_Decker"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Papilloud Anne",
+      "full_party_name": "POP et solidaritéS",
+      "canton": "VD",
+      "handle": "anne_pap"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Sarrasin Larry",
+      "full_party_name": "POP et solidaritéS",
+      "canton": "VD",
+      "handle": "LSzinho_Rompa"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Saouli Guillaume",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "Gsaouli"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marmillod Gaël",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "die_s_man"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Moret Thomas",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "Maurice809"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Berkovits Jean-Luc",
+      "full_party_name": "Vote blanc",
+      "canton": "VD",
+      "handle": "Jealous_nyon"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fornerod Jonas",
+      "full_party_name": "Vote blanc",
+      "canton": "VD",
+      "handle": "jonasfornerod"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Meylan François",
+      "full_party_name": "Indépendants vaudois",
+      "canton": "VD",
+      "handle": "MeylanFinance"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Villard Roland",
+      "full_party_name": "Ecopop",
+      "canton": "VD",
+      "handle": "chevalier70"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Messere Anita",
+      "full_party_name": "Ecopop",
+      "canton": "VD",
+      "handle": "Anita_Messere"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gaillard Houriet Myriam",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "Myriam64"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cornut Sandrine",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "SandrineCornut"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Villa Sylvie",
+      "full_party_name": "PDC",
+      "canton": "VD",
+      "handle": "sylvie_villa"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Raffael Sergi",
+      "full_party_name": "Jeunes PDC",
+      "canton": "VD",
+      "handle": "RaneSendrori"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bachmann François",
+      "full_party_name": "PEV",
+      "canton": "VD",
+      "handle": "FrBachmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rashiti Tefik",
+      "full_party_name": "PBD",
+      "canton": "VD",
+      "handle": "RTefik"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Beldi Ariane",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "SimpleCorrect"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Klein Gabriel",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "gabriel_klein"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Polo Carlos",
+      "full_party_name": "Pirate",
+      "canton": "VD",
+      "handle": "CarlosPoloChois"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Maury Pasquier Liliane",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "votrevoix"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Sommaruga Carlo",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "CarloSommaruga"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Tornare Manuel",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "ManuelTornare"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Tanquerel Thierry",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "thtanquerel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Baranova Olga",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "Ballymag"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Deneys Roger",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "RogerDeneys"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gavilanes Amanda",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "GenderGirl"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ruchet-Bach Audrey",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "RbAudrey"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lottaz Pascal",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "PLottaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Courtens Gaëlle",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "gaelle14juillet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bargetzi Amélie",
+      "full_party_name": "JUSO",
+      "canton": "GE",
+      "handle": "AmelieBargetzi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Wenger Thomas",
+      "full_party_name": "PS",
+      "canton": "GE",
+      "handle": "thomaswenger"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hiltpold Hugues",
+      "full_party_name": "PLR",
+      "canton": "GE",
+      "handle": "hhiltpold"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lüscher Christian",
+      "full_party_name": "PLR",
+      "canton": "GE",
+      "handle": "Cluscher"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Wavre Rolin",
+      "full_party_name": "PLR",
+      "canton": "GE",
+      "handle": "RolinWavre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Genecand Benoît",
+      "full_party_name": "PLR",
+      "canton": "GE",
+      "handle": "BenoitGenecand"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cramer Robert",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "RobertCramer_GE"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mahrer Anne",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "AnneMahrer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bavarel Christian",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "BavarelC"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Eckert Pierre",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "PierreEckert"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Forster Carbonnier Sophie",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "Sophie_ForsterC"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hartmann Esther",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "esterhartmannge"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lefort François",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "FLefortGeneva"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rossiaud Jean",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "jeanrossiaud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Loosli Peter",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "LoosliPeter"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bucher Denis",
+      "full_party_name": "Les Verts",
+      "canton": "GE",
+      "handle": "magix_ch"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Nidegger Yves",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "YvesNidegger"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Amaudruz Céline",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "AmaudruzCeline"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Leyvraz Eric",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "leyvrazrosell"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lussi Patrick",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "PatrickLussi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Dournow David",
+      "full_party_name": "Jeunes UDC",
+      "canton": "GE",
+      "handle": "DaveDournow"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Etienne Max Xavier",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "xm_etienne"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Barazzone Guillaume",
+      "full_party_name": "PDC",
+      "canton": "GE",
+      "handle": "BarazzoneG"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mettan Guy",
+      "full_party_name": "PDC",
+      "canton": "GE",
+      "handle": "GuyMettan"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Buchs Sophie",
+      "full_party_name": "Jeunes PDC",
+      "canton": "GE",
+      "handle": "SophieBuchs"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Piccoli Adriano",
+      "full_party_name": "Jeunes PDC",
+      "canton": "GE",
+      "handle": "PiccoliAdriano"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bayenet Pierre",
+      "full_party_name": "Ensemble à Gauche",
+      "canton": "GE",
+      "handle": "pierrebayenet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ecuyer Annick",
+      "full_party_name": "Ensemble à Gauche",
+      "canton": "GE",
+      "handle": "AnnickEcuyer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Sormanni Daniel",
+      "full_party_name": "MCG",
+      "canton": "GE",
+      "handle": "dsormanni"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Borgeaud Sandra",
+      "full_party_name": "PBD",
+      "canton": "GE",
+      "handle": "SandraBorgeaud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kugel Mark",
+      "full_party_name": "PBD",
+      "canton": "GE",
+      "handle": "markkugel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Thurnherr Laurent",
+      "full_party_name": "PBD",
+      "canton": "GE",
+      "handle": "l_thurnherr"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Piguet Charles",
+      "full_party_name": "PBD",
+      "canton": "GE",
+      "handle": "CharlesPiguet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Seydoux Laurent",
+      "full_party_name": "Vert'libéraux",
+      "canton": "GE",
+      "handle": "LSeydoux"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Peyraud Alexandre",
+      "full_party_name": "Vert'libéraux",
+      "canton": "GE",
+      "handle": "AlexPeyraud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Suardi Joanne",
+      "full_party_name": "PEV",
+      "canton": "GE",
+      "handle": "joanne_suardi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kasteler-Budde Valérie",
+      "full_party_name": "PEV",
+      "canton": "GE",
+      "handle": "valvekabe"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Nurock Julien",
+      "full_party_name": "Jeunes MCG",
+      "canton": "GE",
+      "handle": "JNUROCK"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Chappaz Marc",
+      "full_party_name": "Jeunes MCG",
+      "canton": "GE",
+      "handle": "m_chappaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Morand Louise",
+      "full_party_name": "Jeunes PLR",
+      "canton": "GE",
+      "handle": "morand_louise"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jacquier Jérôme",
+      "full_party_name": "Jeunes PLR",
+      "canton": "GE",
+      "handle": "Jerome_Jacquier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Daher Vincent",
+      "full_party_name": "Jeunes PLR",
+      "canton": "GE",
+      "handle": "VincentDaher"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Naville Laurent",
+      "full_party_name": "Jeunes PLR",
+      "canton": "GE",
+      "handle": "LaurentNaville"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Grognuz Fabien",
+      "full_party_name": "Jeunes PLR",
+      "canton": "GE",
+      "handle": "FabienGrognuz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bertinat Eric",
+      "full_party_name": "UDC",
+      "canton": "GE",
+      "handle": "EBertinat"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marti Karine",
+      "full_party_name": "PDC",
+      "canton": "JU",
+      "handle": "KarineMarti2950"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Wiser Jessica",
+      "full_party_name": "JDC",
+      "canton": "JU",
+      "handle": "Gribouille2101"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Girardin Anaïs",
+      "full_party_name": "JDC",
+      "canton": "JU",
+      "handle": "AnaisGirardin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fedele Pierluigi",
+      "full_party_name": "CS-POP",
+      "canton": "JU",
+      "handle": "FedelePierluigi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Maître Suzanne",
+      "full_party_name": "PCSI",
+      "canton": "JU",
+      "handle": "SuzanneMaitre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bühler Manfred",
+      "full_party_name": "UDC",
+      "canton": "JUBE",
+      "handle": "Buehler4Bern"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Graber Anne-Caroline",
+      "full_party_name": "UDC",
+      "canton": "JUBE",
+      "handle": "acgraber"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schnegg Maël",
+      "full_party_name": "Jeunes UDC",
+      "canton": "JUBE",
+      "handle": "mschnegg"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Coelho Shanna",
+      "full_party_name": "Jeunes UDC",
+      "canton": "JUBE",
+      "handle": "Shanna_BC"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jean-Quartier Caroline",
+      "full_party_name": "PS",
+      "canton": "JUBE",
+      "handle": "carojeanq"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Duarte-Walser José",
+      "full_party_name": "PS",
+      "canton": "JUBE",
+      "handle": "jrdbc"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ait-Mokhtar Nabil",
+      "full_party_name": "PS",
+      "canton": "JUBE",
+      "handle": "nabiladresse"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Haenni Jessica",
+      "full_party_name": "PS",
+      "canton": "JUBE",
+      "handle": "jessica_n_i"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Moser Matthieu",
+      "full_party_name": "Jeunes PLR",
+      "canton": "JUBE",
+      "handle": "MatthieuMoser"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Heyer Virginie",
+      "full_party_name": "PBD",
+      "canton": "JUBE",
+      "handle": "virginieheyer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Oppliger Valérie",
+      "full_party_name": "JPEV",
+      "canton": "JUBE",
+      "handle": "ValerieOppliger"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Amstutz Pierre",
+      "full_party_name": "Les Verts",
+      "canton": "JUBE",
+      "handle": "AmstutzPierre"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Michel Tamara",
+      "full_party_name": "Vert'libéraux",
+      "canton": "JUBE",
+      "handle": "Rationalraetin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Charpié Frédéric",
+      "full_party_name": "La Gauche",
+      "canton": "JUBE",
+      "handle": "DeGauCHe"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Berberat Didier",
+      "full_party_name": "PS",
+      "canton": "NE",
+      "handle": "berberatdidier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Docourt Martine",
+      "full_party_name": "PS",
+      "canton": "NE",
+      "handle": "MartineDocourt"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Maire Jacques-André",
+      "full_party_name": "PS",
+      "canton": "NE",
+      "handle": "MaireJack"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hurni Baptiste",
+      "full_party_name": "PS",
+      "canton": "NE",
+      "handle": "hurnib"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Perret Ducommun Laura",
+      "full_party_name": "PS",
+      "canton": "NE",
+      "handle": "LauraPerret2"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "de Montmollin Antoine",
+      "full_party_name": "JUSO",
+      "canton": "NE",
+      "handle": "A_deMontmollin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Humbert Céline",
+      "full_party_name": "JUSO",
+      "canton": "NE",
+      "handle": "celinehumbert14"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Muhlemann Loïc",
+      "full_party_name": "JUSO",
+      "canton": "NE",
+      "handle": "l_muhlemann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Widmer Aurélie",
+      "full_party_name": "JUSO",
+      "canton": "NE",
+      "handle": "AurelieWidmer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fivaz Fabien",
+      "full_party_name": "Les Verts",
+      "canton": "NE",
+      "handle": "ffivaz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Vara Céline",
+      "full_party_name": "Les Verts",
+      "canton": "NE",
+      "handle": "VaraCeline"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Herrmann Patrick",
+      "full_party_name": "Les Verts",
+      "canton": "NE",
+      "handle": "patrherrmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jurt Andreas",
+      "full_party_name": "PLR",
+      "canton": "NE",
+      "handle": "AndreasJurt"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Comte Raphaël",
+      "full_party_name": "PLR",
+      "canton": "NE",
+      "handle": "RaphaelComteCE"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Arlettaz Marc",
+      "full_party_name": "UDC",
+      "canton": "NE",
+      "handle": "ArlettazMarc"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schär Damien",
+      "full_party_name": "Jeunes UDC",
+      "canton": "NE",
+      "handle": "DamienSchaer"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bregnard Théo",
+      "full_party_name": "POP",
+      "canton": "NE",
+      "handle": "theoo12"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Barbosa Sonia",
+      "full_party_name": "Jeunes PLR",
+      "canton": "NE",
+      "handle": "SoniaBarbosa89"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Barone Michele",
+      "full_party_name": "Jeunes PLR",
+      "canton": "NE",
+      "handle": "Michele__Barone"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Von Allmen Anthony",
+      "full_party_name": "Jeunes PLR",
+      "canton": "NE",
+      "handle": "vonallmenantho"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kienholz Léo",
+      "full_party_name": "Jeunes PLR",
+      "canton": "NE",
+      "handle": "LeoKienholz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jaquet Nicolas",
+      "full_party_name": "PBD",
+      "canton": "NE",
+      "handle": "nicolasjaquet75"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Grandjean Antoine",
+      "full_party_name": "Vert'libéraux",
+      "canton": "NE",
+      "handle": "AntGrandjean"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hild Thierry",
+      "full_party_name": "Vert'libéraux",
+      "canton": "NE",
+      "handle": "HildMac"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Steiert Jean-François",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "steiertjf"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Piller-Carrard Valérie",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "Valerie_Piller\r\n"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schneider Schüttel Ursula",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "uschneiderschue"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bonny David",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "david_bonny"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mauron Pierre",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "PierreMauron"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Levrat Christian",
+      "full_party_name": "PS",
+      "canton": "FR",
+      "handle": "ChristianLevrat"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "De Buman Dominique",
+      "full_party_name": "PDC",
+      "canton": "FR",
+      "handle": "DdeBuman"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bulliard-Marbach Christine",
+      "full_party_name": "PDC",
+      "canton": "FR",
+      "handle": "BulliardMarbach"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Aebischer Susanne",
+      "full_party_name": "PDC",
+      "canton": "FR",
+      "handle": "Aebischer_FR"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Doutaz Jean-Pierre",
+      "full_party_name": "PDC",
+      "canton": "FR",
+      "handle": "doutazjp"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Vonlanthen Beat",
+      "full_party_name": "PDC",
+      "canton": "FR",
+      "handle": "Beat_Vonlanthen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Eggs Alba",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "AlbalaBlanche"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fasel Blaise",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "BlaiseFasel"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schenevey-Haghparast Hasti",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "hasti_h"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Portmann Pierre",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "PierrePortmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Sallin Aude",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "Aude012"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Thebti Khalil",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "kthebti"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Vultier Thibaut",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "ThibautVultier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Genoud Andy",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "AndyGenoud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Philipona Alain",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "Philipona14"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Egger Benjamin",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "BenjaminEgger2"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Peiry Fabien",
+      "full_party_name": "Jeunes PDC",
+      "canton": "FR",
+      "handle": "FabienPeiry"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Grandjean Loris",
+      "full_party_name": "Vert'libéraux",
+      "canton": "FR",
+      "handle": "LorisGrandjeanD"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Grandjean Anaïs",
+      "full_party_name": "Vert'libéraux",
+      "canton": "FR",
+      "handle": "AnaisGrandjean"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Chardonnens Jean-Daniel",
+      "full_party_name": "UDC",
+      "canton": "FR",
+      "handle": "JeanChardonnens"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mesot Roland",
+      "full_party_name": "UDC",
+      "canton": "FR",
+      "handle": "RolandMESOT"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Schläfli Ruedi",
+      "full_party_name": "UDC",
+      "canton": "FR",
+      "handle": "ruedischlalfi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Waeber Emanuel",
+      "full_party_name": "UDC",
+      "canton": "FR",
+      "handle": "EmanuelWaeber"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Losey Michel",
+      "full_party_name": "PLR",
+      "canton": "FR",
+      "handle": "Michellosey"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Glauser Fritz",
+      "full_party_name": "PLR",
+      "canton": "FR",
+      "handle": "FritzGlauser"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gobet Nadine",
+      "full_party_name": "PLR",
+      "canton": "FR",
+      "handle": "NadineGobet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Michellod Savio",
+      "full_party_name": "Jeunes PLR",
+      "canton": "FR",
+      "handle": "SavioMichellod"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Gigandet Yannick",
+      "full_party_name": "Jeunes PLR",
+      "canton": "FR",
+      "handle": "YannickGigandet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Meylan Joël",
+      "full_party_name": "Jeunes PBD",
+      "canton": "FR",
+      "handle": "JoelMeylan"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kubski Grégoire",
+      "full_party_name": "JUSO",
+      "canton": "FR",
+      "handle": "GKubski"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Zurich Simon",
+      "full_party_name": "JUSO",
+      "canton": "FR",
+      "handle": "simonzurich"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Loup Matthieu",
+      "full_party_name": "JUSO",
+      "canton": "FR",
+      "handle": "Matthieu_Loup"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Correia Mélanie",
+      "full_party_name": "JUSO",
+      "canton": "FR",
+      "handle": "MlanieCorreia"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marchand Anthony",
+      "full_party_name": "Jeunes UDC",
+      "canton": "FR",
+      "handle": "MarchandAntho"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mages Dimitri",
+      "full_party_name": "Jeunes UDC",
+      "canton": "FR",
+      "handle": "DimMages"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kolly Sébastien",
+      "full_party_name": "Jeunes UDC",
+      "canton": "FR",
+      "handle": "SebastienKolly"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bardet Nicole",
+      "full_party_name": "Les Verts",
+      "canton": "FR",
+      "handle": "nicole_bardet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Pasquier Nicolas",
+      "full_party_name": "Les Verts",
+      "canton": "FR",
+      "handle": "pasquier_n"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Messer Marc Antoine",
+      "full_party_name": "Les Verts",
+      "canton": "FR",
+      "handle": "messervert"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bonvin-Sansonnens Sylvie",
+      "full_party_name": "Les Verts",
+      "canton": "FR",
+      "handle": "SylvieBonvin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kocher Keran",
+      "full_party_name": "PEV",
+      "canton": "FR",
+      "handle": "KeranKocher"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Hausmann David",
+      "full_party_name": "PEV",
+      "canton": "FR",
+      "handle": "david_hausmann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Buttet Yannick",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "ybuttet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Marchand-Balet Géraldine",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "GMarchand_Balet"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Roduit Benjamin",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "roduitbenjamin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lovisa Blaise",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "blaise_lovisa"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Fournier Jean-René",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "JR_Fournier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Salamin Jean-Pierre",
+      "full_party_name": "PDC",
+      "canton": "VS",
+      "handle": "SalaminJean"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rittmann Médéric",
+      "full_party_name": "Jeunes PDC",
+      "canton": "VS",
+      "handle": "mederiton"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Rossier Sven",
+      "full_party_name": "Jeunes PDC",
+      "canton": "VS",
+      "handle": "svenrossier"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Melly Nicolas",
+      "full_party_name": "Jeunes PDC",
+      "canton": "VS",
+      "handle": "nmy1986"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Reynard Mathias",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "MathiasReynard"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lanthemann Barbara",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "BLanthemann"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bourgeois Gaël",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "gaelbourgeois"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Salamin Olivier",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "OlivierSalamin"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Burgener Thomas",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "ThBurgener"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ibrahim Perruchoud Rima",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "RimaPerruchoud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Nouchi Frédéric",
+      "full_party_name": "PS",
+      "canton": "VS",
+      "handle": "frederic_nouchi"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Glassey Gauthier",
+      "full_party_name": "JUSO",
+      "canton": "VS",
+      "handle": "GauthierGlassey"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Aymon Valentin",
+      "full_party_name": "JUSO",
+      "canton": "VS",
+      "handle": "ValentinAymon"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Ribordy Gael",
+      "full_party_name": "JUSO",
+      "canton": "VS",
+      "handle": "Gaelribordy"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lugon Céline",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VS",
+      "handle": "Pensee_verte"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mascitti Aurelian",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VS",
+      "handle": "aurel_mascitti"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Clerc Mathieu",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VS",
+      "handle": "ClercMat"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Savioz Jérémy",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VS",
+      "handle": "J_Savioz"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bodoira Cédric",
+      "full_party_name": "Jeunes Verts",
+      "canton": "VS",
+      "handle": "ced_89"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Kündig Stoessel Iris",
+      "full_party_name": "PLR",
+      "canton": "VS",
+      "handle": "iris_kndig"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Nantermod Philippe",
+      "full_party_name": "PLR",
+      "canton": "VS",
+      "handle": "nantermod"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Riesen Vincent",
+      "full_party_name": "PLR",
+      "canton": "VS",
+      "handle": "vincentriesen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Avanesiani Artémis",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "avanesiani"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Birbaum Thomas",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "thomas_birbaum"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Aubin Kévin",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "BinUnited"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Puippe David",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "david_puippe"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Balma Théophile",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "TheophileBalma"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Siggen Kilian",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "SiggenK"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Jollien Frédéric",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "JollienF"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Carruzzo Mathieu",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "mcarruzzo"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Mayor Noémie",
+      "full_party_name": "Jeunes PLR",
+      "canton": "VS",
+      "handle": "MayorNoemie"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Addor Jean-Luc",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "udcvr64"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Garcia Ilan",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "IlanGarcia"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Logean Grégory",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "GregoryLogean"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Reichen Nadine",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "NadineReichen"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Desmeules Jérôme",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "desmeulesj"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Pellouchoud Kevin",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "KevPellouchoud"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Lips Aïda",
+      "full_party_name": "UDC",
+      "canton": "VS",
+      "handle": "aida_lips"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Barben Simon",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VS",
+      "handle": "SimonBarben"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Reist Martin",
+      "full_party_name": "Jeunes UDC",
+      "canton": "VS",
+      "handle": "Mart_INNNN"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Cretton Anaïs",
+      "full_party_name": "Centre Gauche-PCS",
+      "canton": "VS",
+      "handle": "anaiscretton"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Bender Marie-Paul",
+      "full_party_name": "Centre Gauche-PCS",
+      "canton": "VS",
+      "handle": "mariebender"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Darbellay Jonathan",
+      "full_party_name": "Centre Gauche-PCS",
+      "canton": "VS",
+      "handle": "Jonathandarb"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.candidate",
+    "fields": {
+      "name": "Theler Maud",
+      "full_party_name": "Centre Gauche-PCS",
+      "canton": "VS",
+      "handle": "Maudtheler"
+    }
+  }
+]
