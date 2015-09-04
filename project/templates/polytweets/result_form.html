@@ -49,11 +49,16 @@
                     </div>
                 </div>
 
-                <form action="#" method="post" class="form-horizontal">{% csrf_token %}
-                    <div class="answersContainer">
-                        {{ form.as_p }}
-                    </div>
-                </form>
+                <div class="answersContainer">
+                    {% for radio in myform.beatles %}
+                        <div class="myradio">
+                            {{ radio }}
+                        </div>
+                    {% endfor %}
+                    <div class="answerButtonContainer"><a class="btn btn-primary btn-lg" href="#" role="button">PS</a></div><div class="answerButtonContainer"><a class="btn btn-danger btn-lg" href="#" role="button">PLR</a></div><div class="answerButtonContainer"><a class="btn btn-primary btn-lg" href="#" role="button">Les Verts</a></div><div class="answerButtonContainer"><a class="btn btn-success btn-lg" href="#" role="button">UDC</a></div>
+                </div>
+
+
 
             </div>
 
