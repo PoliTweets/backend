@@ -1,0 +1,103 @@
+[
+    {
+      "pk": null,
+      "model": "politweets.tweet",
+      "fields": {
+        "handle": "ChristineBussat",
+        "text": "Le Qatar accueillera les fans de foot du monde entier. Pas les réfugiés et leurs enfants. La FIFA doit poser des conditions.",
+        "date": "2015-09-03T17:33:51+00:00",
+        "tweet_id": "639491507670646784"
+      }
+    },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "BoschettiSteen",
+      "text": "Notre pays possède une police efficace mais doit avoir une justice ferme et adaptée à la criminalité transfrontalière http://t.co/uasTvLgyzz",
+      "date": "2015-08-31T14:48:33+00:00",
+      "tweet_id": "638362747273654272"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "BoschettiSteen",
+      "text": "La plateforme animaux-parlement recommande de soutenir ma candidature au Conseil national! http://t.co/E7yvppr4e0 #EF2015",
+      "date": "2015-09-02T14:48:02+00:00",
+      "tweet_id": "639087392738119680"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "BoschettiSteen",
+      "text": "Une excellente nouvelle ! L'initiative populaire ne doit pas être un outil marketing des partis ! http://t.co/lEwcUTl9dQ #EF2015 #CHvote",
+      "date": "2015-08-06T11:42:44+00:00",
+      "tweet_id": "629256288124411904"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PAPAMIKE15",
+      "text": "Faut-il comme le propose Bruno Le Maire expulser tous les étrangers ayant purgé une peine pour terrorisme ? http://t.co/5G29nOxj4B",
+      "date": "2015-08-31T11:40:33+00:00",
+      "tweet_id": "638315434731798528"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CharlesPiguet",
+      "text": "#EF2015 Excellent billet de Gilles Champoud: NON à l'interdiction du voile islamique en Suisse ! les points sur les i http://t.co/7EofkMZvcC",
+      "date": "2015-07-15T12:27:10+00:00",
+      "tweet_id": "621294937770868737"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "malow333",
+      "text": "L'UE est un partenaire et non un concurrent. Pr cela, il est nécessaire de maintenir la voie bilatérale #EF2015",
+      "date": "2015-02-19T10:01:03+00:00",
+      "tweet_id": "568349535824703488"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Mobella7",
+      "text": "#Tesla P85D, enfin une #électrique convaincante! http://t.co/ao7WsK0ZHQ #voiture",
+      "date": "2015-03-14T09:16:15+00:00",
+      "tweet_id": "576673184126222336"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "nicolasjaquet75",
+      "text": "BONSOIR, qui nous suit pour lancer une intiative cantonale pour supprimer le droit à l'administration cantonale d'engager des frontaliers?",
+      "date": "2015-03-28T01:12:07+00:00",
+      "tweet_id": "581624774742380544"
+    }
+  },
+
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "StanislasCramer",
+      "text": "Tous les presidents de parti contre l initiative \"pour la primaute du droit suisse\". Un bon depart #chvote",
+      "date": "2015-03-11T14:08:00+00:00",
+      "tweet_id": "575659439635759105"
+    }
+  }
+]

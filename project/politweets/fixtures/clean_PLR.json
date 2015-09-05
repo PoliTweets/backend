@@ -1,0 +1,212 @@
+[
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "A_Berthoud",
+      "text": "Aujourd'hui, la #Fanfare de #Crissier anime l'Abbaye de Crissier. Les traditions...",
+      "date": "2015-06-28T11:42:24+00:00",
+      "tweet_id": "615123077974896640"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "FredericBorloz",
+      "text": "2012, les Verts étaient contre les JO d’hiver en Suisse; 3 ans plus tard, ils saluent Lausanne 2020. Pas crédibles !",
+      "date": "2015-08-12T14:32:17+00:00",
+      "tweet_id": "631473282680811520"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "fderder",
+      "text": "Au lieu de taper sur la SSR (et racheter des sites de petites annonces), les éditeurs feraient mieux d'innover...",
+      "date": "2015-06-17T07:26:45+00:00",
+      "tweet_id": "611072474109865984"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "FlorenceGross",
+      "text": "Et voilà qu'on apprend les dimensions du placenta de l'épouse de M Barthassat...",
+      "date": "2015-08-25T21:18:00+00:00",
+      "tweet_id": "636286427068780544"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "FlorenceGross",
+      "text": "Pour @jcschwaab les héritiers ne fournissent aucun effort. Et les profiteurs de l'aide sociale, ils en font des efforts ?",
+      "date": "2015-05-20T18:25:19+00:00",
+      "tweet_id": "601091344954699776"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AnneGuyaz",
+      "text": "Il faut agir à la fois sur le #9fév et sur la #Fiscalité des entreprises.",
+      "date": "2015-05-12T08:12:03+00:00",
+      "tweet_id": "598037911897042944"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AnneGuyaz",
+      "text": "Marché aux géraniums dans la ville fédérale : une image de la diversité de la Suisse ?",
+      "date": "2015-04-23T17:14:15+00:00",
+      "tweet_id": "591288989249855488"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "IsabelleMoret",
+      "text": "Deux règles de base pour négocier avec succès avec l'UE : prendre son temps et ne pas dévoiler publiquement sa stratégie",
+      "date": "2015-05-07T11:31:28+00:00",
+      "tweet_id": "596276156665561089"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "VincentArlettaz",
+      "text": "La vision de la @JSVaud pour l'avenir ? Le nivellement par le bas et la médiocrité pour tous",
+      "date": "2015-09-02T15:30:15+00:00",
+      "tweet_id": "639098015916142592"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "laurineJoCH",
+      "text": "Tu décèdes ? Passe à la caisse. Pour quand un impôt sur la naissance ?",
+      "date": "2015-05-20T18:34:11+00:00",
+      "tweet_id": "601093577448513536"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "hklunge",
+      "text": "Est-ce que @ClaudeBegle est au courant que l'affichage sauvage est interdit dans la @communelausanne ?",
+      "date": "2015-08-22T21:02:15+00:00",
+      "tweet_id": "635195301448564741"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "hklunge",
+      "text": "L' #UDC-VD à 50 ans de retard dans ces idées. Pas étonnant qu'ils ne sachent même pas utiliser un dictaphone...",
+      "date": "2015-07-26T16:55:14+00:00",
+      "tweet_id": "625348662579830785"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Cluscher",
+      "text": "Salaire de nos employés qui vivent en France. Augmentation de 20% offerte par la BNS. Merci Thomas !",
+      "date": "2015-01-15T14:10:25+00:00",
+      "tweet_id": "555728715192082433"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RolinWavre",
+      "text": "La laïcité, ça n'est pas traquer toute référence religieuse dans la culture. Sapin de Noël, opéra \"l'arche de Noé\". C'est du talibanisme !",
+      "date": "2015-05-26T12:11:52+00:00",
+      "tweet_id": "603171691192295424"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "kaltezar",
+      "text": "Grâce à M. Bendahan, nous savons désormais qu’il existe des impôts libéraux.",
+      "date": "2015-04-22T18:17:33+00:00",
+      "tweet_id": "590942531388628992"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "kaltezar",
+      "text": "La BNS attendait une année sans neige pour abolir le taux plancher ?",
+      "date": "2015-01-15T15:27:42+00:00",
+      "tweet_id": "555748163647463424"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "LudoBliesener",
+      "text": "Une question, pourquoi les francophones sont autant germanophobe ces temps ? Raison historique ? Ou réelle identification aux grecs ?",
+      "date": "2015-07-15T09:15:53+00:00",
+      "tweet_id": "621246798867374080"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "LudoBliesener",
+      "text": "Les gens prônent le #DehorsMerkel mais elle a juste défendu les peuples créanciers (car oui c'est leur argent qui est donné) de la Grèce...",
+      "date": "2015-07-14T10:51:52+00:00",
+      "tweet_id": "620908563519676416"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "orianeengel",
+      "text": "Enfin une bonne nouvelle cette semaine !\"Pas d'apparentements entre PLR et UDC\"",
+      "date": "2015-01-11T10:51:19+00:00",
+      "tweet_id": "554229058964578304"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Michele__Barone",
+      "text": "Estomaqué quand, face à la mort, on trouve encore les mots pour faire du populisme ! Restons humanistes, ce que la Suisse est !",
+      "date": "2015-09-03T07:27:34+00:00",
+      "tweet_id": "639338933285974016"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Michele__Barone",
+      "text": "2 raisons de rejeter l'iniative du @CVP_PDC : OUI à une imposition individuelle et NON à une définition constitutionnelle du mariage #CHvote",
+      "date": "2015-06-16T12:25:45+00:00",
+      "tweet_id": "610785331563114496"
+    }
+  }
+]

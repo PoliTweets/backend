@@ -1,0 +1,292 @@
+[
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "adelethorens",
+      "text": "Oui, il faut réintroduire le droit de déposer des demandes d'asile sur place, dans les ambassades. https://t.co/BefSBbmnHo",
+      "date": "2015-09-03T22:07:36+00:00",
+      "tweet_id": "639560401936609280"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CvanSinger",
+      "text": "30'000 réfugiés prévus pour 2015. Une catastrophe ? Le Liban, la Jordanie, la Turquie en accueillent des millions! https://t.co/2Twc7QgWH8",
+      "date": "2015-07-29T12:35:54+00:00",
+      "tweet_id": "626370565419474944"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CvanSinger",
+      "text": "Sur le Blick la liste secrète des «menus achats» de l'armée d'ici 2020: env. 6 milliards ! Mais pas d'adaptation aux risques d'aujourd'hui !",
+      "date": "2015-05-18T10:32:11+00:00",
+      "tweet_id": "600247502378524672"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CvanSinger",
+      "text": "En Suisse on registre les vaches, les vergers à haute tige... Mais le Parlement refuse d'enregistrer toutes les armes à feu en circulation!",
+      "date": "2015-05-05T10:32:58+00:00",
+      "tweet_id": "595536659325804544"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "LeonorePorchet",
+      "text": "Très fière de mon parti, champion de l'égalité et de la présence des femmes en politique! : http://t.co/0uyVCqDGFr http://t.co/4zCI94ZCxL”",
+      "date": "2015-06-15T15:03:59+00:00",
+      "tweet_id": "610462763530518528"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "MauriceMischler",
+      "text": "L'impôt sur les successions est l'un des plus dynamiques et justes. Même les Américains l'ont compris ! http://t.co/7nDoImJmV8",
+      "date": "2015-05-30T15:22:29+00:00",
+      "tweet_id": "604669212800512001"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RobertCramer_GE",
+      "text": "Notre pays ne doit pas donner l'impression d'être le protecteur des corrupteurs et des corrompus  http://t.co/0iLxRmMbF8 #ParlCH",
+      "date": "2015-06-04T12:54:39+00:00",
+      "tweet_id": "606443948119359488"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RobertCramer_GE",
+      "text": "Droit d’asile: une réforme sans rapport avec la réalité! Les drames actuels exigent d’urgence une coord. européenne http://t.co/x5MIW5Vr32",
+      "date": "2015-05-01T13:37:34+00:00",
+      "tweet_id": "594133561931866112"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RobertCramer_GE",
+      "text": "La décision de la BNS est une grande victoire de l'UDC : indépendance nationale et moins d'attractivité de notre économie. C'est lamentable!",
+      "date": "2015-01-15T13:54:07+00:00",
+      "tweet_id": "555724612567572480"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AnneMahrer",
+      "text": "Une société de droits et de justice pour tous. La population LGBT n a pas à subir la discrimination de certains.\nhttp://t.co/btD4x1Mcp6",
+      "date": "2015-08-14T07:27:02+00:00",
+      "tweet_id": "632091039466168321"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "BavarelC",
+      "text": "Chauffage =achats de pétrole à l'étranger.\nIsolation = travail en Suisse",
+      "date": "2015-04-15T04:51:59+00:00",
+      "tweet_id": "588203091180269568"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ffivaz",
+      "text": "Il faudrait voter chaque année sur la caisse-maladie unique: cela évite l'explosion des primes. Ce ne sera pas le cas en 2016.",
+      "date": "2015-09-01T13:46:10+00:00",
+      "tweet_id": "638709434739523584"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ffivaz",
+      "text": "Oh que oui! Lançons une initiative pour un congé paternité. Ou directement pour un congé parental? https://t.co/5vPMxUxaPV",
+      "date": "2015-08-28T14:30:55+00:00",
+      "tweet_id": "637271146061279232"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "VaraCeline",
+      "text": "Tellement déçue du vote des Suisses sur les #boursesdetudes. Inégalités, injustices et discours populistes ont encore de l'avenir, eux...",
+      "date": "2015-06-14T17:59:36+00:00",
+      "tweet_id": "610144572916805633"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "rebecca_joly",
+      "text": "Ok de laisser les proprio abuser sauf si à la charge de l'Etat? Non!\n#cohérence #droitsdeslocataires #JeunesEtVerts https://t.co/ezA7Z34DsZ",
+      "date": "2015-08-24T13:34:08+00:00",
+      "tweet_id": "635807304919687168"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "rebecca_joly",
+      "text": "Parce que vivre c'est bien plus que juste gagner de l'argent! Malheureusement, tous ne peuvent pas se le permettre!! https://t.co/ojDI3LmfN8",
+      "date": "2015-06-18T12:11:04+00:00",
+      "tweet_id": "611506410304741377"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "DaRaedler",
+      "text": "Pour l'UDC, les réfugiés ne sont qu'épouvantails électoralistes - et tant pis si leur situation est intenable... \nhttp://t.co/LMMTrDdTN6",
+      "date": "2015-07-09T05:36:17+00:00",
+      "tweet_id": "619017204563111936"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "IliasPanchard",
+      "text": "Droit d'asile : être à la hauteur de l'Histoire. La Suisse peut et doit faire plus! #réfugiés #refugeecrisis &gt;http://t.co/OXZrKwNWgo",
+      "date": "2015-09-01T11:57:10+00:00",
+      "tweet_id": "638682001965481984"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "IliasPanchard",
+      "text": "Abasourdi par la position @Amnesty_Suisse #prostitution. Dépénaliser: un aveu d'échec face aux réseaux.Ne tolérons pas la violence sexuelle!",
+      "date": "2015-08-12T08:30:26+00:00",
+      "tweet_id": "631382219601354752"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Pensee_verte",
+      "text": "On  ne profite pas de la #mondialisation sans en assumer les conséquences!  #ofs @UDCch  https://t.co/q8kCZMMt6R",
+      "date": "2015-06-25T13:16:39+00:00",
+      "tweet_id": "614059633406312452"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "aurel_mascitti",
+      "text": "#PLR se félicite de la réintroduction des courtes peines de prison. Un comble quand leur slogan contient le mot #liberté . Et qui paiera ?",
+      "date": "2015-06-10T09:32:54+00:00",
+      "tweet_id": "608567505372753920"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "aurel_mascitti",
+      "text": "Il y a encore beaucoup à faire pour que les pères aient enfin la place qui leur revient dans la famille. \nhttp://t.co/OtHpFGzL0c",
+      "date": "2015-05-28T20:02:17+00:00",
+      "tweet_id": "604014851325874178"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "aurel_mascitti",
+      "text": "Exonérer d'impôts les grandes entreprises ce n'est pas une mentalité d'assisté aussi ? OUI aux bourses d'études  http://t.co/fDbUNDxgCe",
+      "date": "2015-05-28T19:36:34+00:00",
+      "tweet_id": "604008379934216192"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "Les réfugiés ne sont PAS des terroristes ! #Austria #immigration #parndorf #Isis #Daech #refugeecrisis http://t.co/pponBnOdhM",
+      "date": "2015-08-28T07:52:00+00:00",
+      "tweet_id": "637170752568066048"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "Le #pape #François est sans doute le chef d'Etat le plus progressiste et le plus éclairé actuellement. http://t.co/Q1IVShPbsT @Pontifex_fr",
+      "date": "2015-07-14T09:06:34+00:00",
+      "tweet_id": "620882064565497856"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "J'avoue, je ne suis pas 100% valaisan, désormais je dis \"canette\" pour commander une chope ;) #parlometre @RTSinfo http://t.co/j7aU6PRkYm",
+      "date": "2015-06-26T12:20:32+00:00",
+      "tweet_id": "614407895153799169"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "Selon l'#Eglise, l'homosexualité bousculerait l'ordre naturel. Cette même Eglise qui interdit aux prêtres d'avoir des enfants... @Pride2015",
+      "date": "2015-06-12T10:45:15+00:00",
+      "tweet_id": "609310490188247040"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "L'initiative pour les #bourses d'études n'est ni anti-fédéralisme, ni un gouffre à fric, ni un salaire ! #StipIn http://t.co/rgc87l5wex",
+      "date": "2015-06-03T11:55:09+00:00",
+      "tweet_id": "606066588316540928"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "J_Savioz",
+      "text": "Blague du jour: le Parlement ne veut pas politiser l'achat de #drônes israéliens. http://t.co/YZKu4WIbiP #Israel @GSoASchweiz @GSsARomandie",
+      "date": "2015-04-29T17:57:10+00:00",
+      "tweet_id": "593474116423962624"
+    }
+  }
+]
