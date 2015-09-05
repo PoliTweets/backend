@@ -264,7 +264,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "jrilliet",
-      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis... #EF2015",
+      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis… #EF2015",
       "date": "2015-08-17T12:55:49+00:00",
       "tweet_id": "633260946098651136"
     }
