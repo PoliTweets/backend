@@ -47,7 +47,7 @@
                                 </a>
                             </div>
                             <div class="media-body">
-                                <h4 class="media-heading">{{ candidate.name }} <small>{{ tweet.date }}</small> {{ candidate.party_name }}</h4>
+                                <h4 class="media-heading"><span class="to-hide">XXXXXXXXXXX</span><span class="name hidden">{{ candidate.name }}</span> <small>{{ tweet.date }}</small> {{ candidate.party_name }}</h4>
                                 {{ tweet.text }}
                             </div>
                         </div>
@@ -57,6 +57,7 @@
                     <div id="answers" class="panel panel-default">
                         <div class="panel-body">
                             <form action="#" method="post" class="form-horizontal">
+                                <input type="hidden" name="party_name_key" value="{{party_name_key}}"/>
                                 {% csrf_token %}
                                     {{ form.as_p }}
 
@@ -78,6 +79,18 @@
         <footer>
             <p class="text-center">&copy; Hackhathon Lausanne 2015</p>
         </footer>
+        <script>
+            $(document).ready(function() {
+                $("input:radio").change(function () {
+                    if($('input:radio[name=type]:checked').val() == $('#party_name_key').value){
+                        alert('OK');
+                        //$('#select-table > .roomNumber').attr('enabled',false);
+                    }else{
+                        alert('NO OK');
+                    }
+                });
+            }
+        </script>
 
 
 {% endblock body_block %}
