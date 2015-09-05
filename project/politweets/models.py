@@ -58,7 +58,6 @@ PARTY_CHOICES_VALUE = (
 
 PARTY_CHOICES = tuple(zip(PARTY_CHOICES_KEYS, PARTY_CHOICES_VALUE))
 
-
 class Tweet(models.Model):
     handle = models.CharField(max_length=100, null=True, blank=True)
     tweet_id = models.CharField(max_length=100, null=True, blank=True)
@@ -67,8 +66,8 @@ class Tweet(models.Model):
 
 
 class Party(models.Model):
-    short_name = models.CharField(max_length=100, null=True, blank=True)
     name = models.CharField(max_length=3, choices=PARTY_CHOICES, default=PARTY_UNDEFINED)
+    full_name = models.CharField(max_length=100, null=True, blank=True)
     logo_url = models.URLField(max_length=200, null=True, blank=True)
     category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
 
@@ -79,9 +78,13 @@ class Candidate(models.Model):
     canton = models.CharField(max_length=10, null=True, blank=True)
     party = models.ForeignKey(Party, blank=True, null=True, default=None, related_name='candidates')
     full_party_name = models.CharField(max_length=100, null=True, blank=True)
+    party_name = models.CharField(max_length=100, null=True, blank=True)
 
+    def __unicode__(self):
+        return "Candidate: "+self.handle+" ("+self.name+")"
 
 class Round(models.Model):
+    sessionid = models.CharField(max_length=100, null=True, blank=True)
     start_date = models.DateTimeField(auto_now_add=True)
     slug = AutoSlugField(populate_from='start_date', unique_with='start_date')
     affinity_category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
