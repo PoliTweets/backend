@@ -4,7 +4,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ClaudeBegle",
-      "text": "Face à l'ampleur du drame syrien, on se doit de chercher des solutions, d'en trouver et de les accepter.  Par respect de la dignité humaine.",
+      "text": "Face ï¿½ l'ampleur du drame syrien, on se doit de chercher des solutions, d'en trouver et de les accepter.  Par respect de la dignitï¿½ humaine.",
       "date": "2015-09-04T11:25:16+00:00",
       "tweet_id": "639761138457120768"
     }
@@ -14,7 +14,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ClaudeBegle",
-      "text": "Pourquoi ne pas retarder l’âge de la retraite ? Besoin de plus de flexibilité… http://t.co/ZGT9JgI78I http://t.co/QdaSlEAzBW",
+      "text": "Pourquoi ne pas retarder lï¿½ï¿½ge de la retraite ? Besoin de plus de flexibilitï¿½ï¿½ http://t.co/ZGT9JgI78I http://t.co/QdaSlEAzBW",
       "date": "2015-08-28T16:38:08+00:00",
       "tweet_id": "637303160202092544"
     }
@@ -24,7 +24,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ClaudeBegle",
-      "text": "Déçu de l'Evêque de Coire. Pourquoi parler de peine de mort pour les homosexuels? L'Évangile doit être porteur d'Amour, pas de haine.",
+      "text": "Dï¿½ï¿½u de l'Evï¿½que de Coire. Pourquoi parler de peine de mort pour les homosexuels? L'ï¿½vangile doit ï¿½tre porteur d'Amour, pas de haine.",
       "date": "2015-08-03T11:25:51+00:00",
       "tweet_id": "628164873592115200"
     }
@@ -34,7 +34,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ClaudeBegle",
-      "text": "\"Il est justifié qu'on ressente une certaine fierté en ce jour de fête nationale eu égard à notre patrie et aux valeurs qu'elle incarne.\"",
+      "text": "\"Il est justifiï¿½ qu'on ressente une certaine fiertï¿½ en ce jour de fï¿½te nationale eu ï¿½gard ï¿½ notre patrie et aux valeurs qu'elle incarne.\"",
       "date": "2015-08-01T11:35:27+00:00",
       "tweet_id": "627442515235471360"
     }
@@ -44,7 +44,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ClaudeBegle",
-      "text": "L'union Européenne s'était construite justement pour éviter ça: des guerres fratricides en Europe.  #Srebrenica",
+      "text": "L'union Europï¿½enne s'ï¿½tait construite justement pour ï¿½viter ï¿½a: des guerres fratricides en Europe.  #Srebrenica",
       "date": "2015-07-11T11:36:05+00:00",
       "tweet_id": "619832528669704192"
     }
@@ -54,7 +54,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "axel_marion",
-      "text": "#JeSuisCharlie #CharlieHebdo        C'est monstrueux, je ne trouve pas les mots... Vive la presse libre et irrévérencieuse!",
+      "text": "#JeSuisCharlie #CharlieHebdo        C'est monstrueux, je ne trouve pas les mots... Vive la presse libre et irrï¿½vï¿½rencieuse!",
       "date": "2015-01-07T12:47:17+00:00",
       "tweet_id": "552808690580197377"
     }
@@ -64,7 +64,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "Assez spécial qu'une préfète puisse se présenter aux élections fédérales",
+      "text": "Assez spï¿½cial qu'une prï¿½fï¿½te puisse se prï¿½senter aux ï¿½lections fï¿½dï¿½rales",
       "date": "2015-09-03T14:20:01+00:00",
       "tweet_id": "639442729236303872"
     }
@@ -74,7 +74,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "Je regrette la decision de la commission d'avoir repoussé le projet d'allonger le congé  paternité",
+      "text": "Je regrette la decision de la commission d'avoir repoussï¿½ le projet d'allonger le congï¿½  paternitï¿½",
       "date": "2015-09-02T15:49:18+00:00",
       "tweet_id": "639102811381350400"
     }
@@ -84,7 +84,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "L'UDC est le parti anti économie\nPas besoin de faire un sondage pour le savoir",
+      "text": "L'UDC est le parti anti ï¿½conomie\nPas besoin de faire un sondage pour le savoir",
       "date": "2015-08-16T08:52:09+00:00",
       "tweet_id": "632837235168145408"
     }
@@ -94,7 +94,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "Aujourd'hui Dog-sitting..c'est un boulot à 200%...",
+      "text": "Aujourd'hui Dog-sitting..c'est un boulot ï¿½ 200%...",
       "date": "2015-08-13T10:08:53+00:00",
       "tweet_id": "631769386051833856"
     }
@@ -104,7 +104,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "Bravo l'USP pour son projet d'intégrer les réfugiés dans les exploitations agricoles",
+      "text": "Bravo l'USP pour son projet d'intï¿½grer les rï¿½fugiï¿½s dans les exploitations agricoles",
       "date": "2015-08-09T08:58:02+00:00",
       "tweet_id": "630302003747553280"
     }
@@ -114,7 +114,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LeManu71",
-      "text": "Les déchets dans la rue et les parcs : toujours prôné des amendes encore plus importantes de l'ordre de 500 francs",
+      "text": "Les dï¿½chets dans la rue et les parcs : toujours prï¿½nï¿½ des amendes encore plus importantes de l'ordre de 500 francs",
       "date": "2015-07-12T08:17:17+00:00",
       "tweet_id": "620144885983784960"
     }
@@ -124,7 +124,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "alainvpoitry",
-      "text": "La représentativité est importante, il faut plus de jeunes et plus de gens de plus de 60 ans.",
+      "text": "La reprï¿½sentativitï¿½ est importante, il faut plus de jeunes et plus de gens de plus de 60 ans.",
       "date": "2015-07-18T16:28:09+00:00",
       "tweet_id": "622442743336443905"
     }
@@ -134,7 +134,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "alainvpoitry",
-      "text": "#EF2015 Si les estimations se vérifient, la peur n'aura pas eu raison des Grecs. Espérons que les créanciers sauront comprendre le message.",
+      "text": "#EF2015 Si les estimations se vï¿½rifient, la peur n'aura pas eu raison des Grecs. Espï¿½rons que les crï¿½anciers sauront comprendre le message.",
       "date": "2015-07-05T16:08:02+00:00",
       "tweet_id": "617726640114769920"
     }
@@ -144,7 +144,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "BarazzoneG",
-      "text": "Le PS se trompe sur les taxis.La concurrence est saine.Cette proposition = contre intérêts des consommateurs et ne fera pas baisser les prix",
+      "text": "Le PS se trompe sur les taxis.La concurrence est saine.Cette proposition = contre intï¿½rï¿½ts des consommateurs et ne fera pas baisser les prix",
       "date": "2015-07-13T13:50:09+00:00",
       "tweet_id": "620591043340316672"
     }
@@ -154,7 +154,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "BarazzoneG",
-      "text": "Toni Brunner est gonflé! L'UDC plombe l'économie avec son IN sur l'immigration \"de masse\" et critique les autres pour tenter de s'en sortir",
+      "text": "Toni Brunner est gonflï¿½! L'UDC plombe l'ï¿½conomie avec son IN sur l'immigration \"de masse\" et critique les autres pour tenter de s'en sortir",
       "date": "2015-06-21T10:51:25+00:00",
       "tweet_id": "612573529972830208"
     }
@@ -164,7 +164,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "KarineMarti2950",
-      "text": "#EF2015. Le nombre de femmes à Berne risque de baisser drastiquement sans un fort soutien aux candidatures féminines. Pensez-y !",
+      "text": "#EF2015. Le nombre de femmes ï¿½ Berne risque de baisser drastiquement sans un fort soutien aux candidatures fï¿½minines. Pensez-y !",
       "date": "2015-08-17T05:14:02+00:00",
       "tweet_id": "633144734073114624"
     }
@@ -174,7 +174,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "KarineMarti2950",
-      "text": "La Suisse est la maison dans laquelle vivent les Suisses. Quiconque veut cohabiter avec nous doit respecter le règlement.",
+      "text": "La Suisse est la maison dans laquelle vivent les Suisses. Quiconque veut cohabiter avec nous doit respecter le rï¿½glement.",
       "date": "2015-08-01T10:52:52+00:00",
       "tweet_id": "627431796804853760"
     }
@@ -184,7 +184,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DdeBuman",
-      "text": "Le rêve de Toni Brunner ? Le totalitarisme de l'UDC pour écraser le PDC et le PLR et détourner l'attention de ses crasses incohérences.",
+      "text": "Le rï¿½ve de Toni Brunner ? Le totalitarisme de l'UDC pour ï¿½craser le PDC et le PLR et dï¿½tourner l'attention de ses crasses incohï¿½rences.",
       "date": "2015-06-23T06:38:24+00:00",
       "tweet_id": "613234633317163009"
     }
@@ -194,7 +194,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DdeBuman",
-      "text": "Motion 12.3914 sur l'égalité des langues nationales dans les appels d'offres ACCEPTÉE aux États. Un peu plus d'économie de marché à la Conf.",
+      "text": "Motion 12.3914 sur l'ï¿½galitï¿½ des langues nationales dans les appels d'offres ACCEPTï¿½E aux ï¿½tats. Un peu plus d'ï¿½conomie de marchï¿½ ï¿½ la Conf.",
       "date": "2015-06-18T09:52:41+00:00",
       "tweet_id": "611471584696619008"
     }
@@ -204,7 +204,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DdeBuman",
-      "text": "Maintenant que l'Allemagne et l'Autriche basculent en faveur de la reconnaissance du génocide, le Conseil fédéral va-t-il enfin évoluer ?",
+      "text": "Maintenant que l'Allemagne et l'Autriche basculent en faveur de la reconnaissance du gï¿½nocide, le Conseil fï¿½dï¿½ral va-t-il enfin ï¿½voluer ?",
       "date": "2015-04-24T13:45:30+00:00",
       "tweet_id": "591598845101879297"
     }
@@ -214,7 +214,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "blaise_lovisa",
-      "text": "Détourner la générosité de notre évêque pour masquer l'échec de l'initiative pour un état laïc, est-ce bien l'objectif du jour ?",
+      "text": "Dï¿½tourner la gï¿½nï¿½rositï¿½ de notre ï¿½vï¿½que pour masquer l'ï¿½chec de l'initiative pour un ï¿½tat laï¿½c, est-ce bien l'objectif du jour ?",
       "date": "2015-05-19T10:33:49+00:00",
       "tweet_id": "600610303529877505"
     }
@@ -224,7 +224,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CBarbezat",
-      "text": "Ce sont nos enfants qui vont permettre de contribuer à l'AVS et maintenir notre système en place, pour notre futur #CHmars",
+      "text": "Ce sont nos enfants qui vont permettre de contribuer ï¿½ l'AVS et maintenir notre systï¿½me en place, pour notre futur #CHmars",
       "date": "2015-02-19T17:59:44+00:00",
       "tweet_id": "568470000291475457"
     }
@@ -234,7 +234,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "AnaisGirardin",
-      "text": "Le référendum grec... A quoi tout cela va-t-il nous mener ? Quelles en seront les conséquences ? #Grece #incertitudes",
+      "text": "Le rï¿½fï¿½rendum grec... A quoi tout cela va-t-il nous mener ? Quelles en seront les consï¿½quences ? #Grece #incertitudes",
       "date": "2015-07-06T14:42:31+00:00",
       "tweet_id": "618067507673477120"
     }
