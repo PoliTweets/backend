@@ -1,0 +1,292 @@
+﻿[
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Savary_Recordon",
+      "text": "L’institution du mariage entre dans le 21e siècle. A l’avenir les couples de même sexe pourront se marier et fonder une famille.",
+      "date": "2015-09-01T15:58:01+00:00",
+      "tweet_id": "638742617006690304"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "NordmannRoger",
+      "text": "L'excellent CEO de @swissgridag poussé à la porte par les manoeuvres de BKW pour avoir le pouvoir (et chasser les romands). Scandaleux !",
+      "date": "2015-09-04T04:58:26+00:00",
+      "tweet_id": "639663789542129664"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "NordmannRoger",
+      "text": "Enfin un article objectif sur le hold-up de BKW sur swissgrid,  en page 8 de l'édition papier du @tagesanzeiger. 1% @ CH-R,  42 % à Berne ?",
+      "date": "2015-08-27T06:04:38+00:00",
+      "tweet_id": "636781344765444096"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "NordmannRoger",
+      "text": "de Watteville = bon choix pour sauver les bilatérales, entre la vie et la mort suite à l'initiative de l'UDC. Mais à l'impossible nul tenu",
+      "date": "2015-08-12T12:46:17+00:00",
+      "tweet_id": "631446606311727104"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ada_marra",
+      "text": "Convocation de l'ambassadeur CH à Rome. Ou quand Gobbi de la Lega réussit à prendre le Tessin en otage pour créer un incident diplomatique",
+      "date": "2015-07-29T15:57:03+00:00",
+      "tweet_id": "626421186008907776"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ada_marra",
+      "text": "La Merkel et le FMI conditionnent le prêt à un changement de gouvernement qu'elles veulent technique. Elles veulent faire tomber syriza",
+      "date": "2015-07-12T19:58:11+00:00",
+      "tweet_id": "620321274976411648"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "jcschwaab",
+      "text": "Notre place financière se porte mieux, non pas malgré, mais grâce à la fin du soutien à l'évasion fiscale. Protéger la triche = passéiste!",
+      "date": "2015-09-04T07:20:36+00:00",
+      "tweet_id": "639699567383048192"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "jcschwaab",
+      "text": "Le commerce extérieur avec l'Allemagne en forte chute: merci le #FrancFort et le vote du #9février.",
+      "date": "2015-08-28T06:23:45+00:00",
+      "tweet_id": "637148545246629888"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CeslaAmarelle",
+      "text": "La crise des réfugiés creuse entre des pays com l'Italie et la France un fossé qui ne devrait pas exister.La relocalisation est indipensable",
+      "date": "2015-06-17T13:33:14+00:00",
+      "tweet_id": "611164701314187264"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CeslaAmarelle",
+      "text": "25 ans après la chute du Mur, la Hongrie, la Pologne et la Tchéquie ont déjà oublié ce qu'être un dissident veut dire #EUWakeUp #migration",
+      "date": "2015-05-20T14:18:51+00:00",
+      "tweet_id": "601029321071927296"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CeslaAmarelle",
+      "text": "Pour le Matin Dimanche (p. 55), la \"classe politique suisse\" c'est 8 hommes et 1 femme (ex-politicienne). Un oubli peut-être?",
+      "date": "2015-03-15T11:06:15+00:00",
+      "tweet_id": "577063252032622592"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "reb_ruiz",
+      "text": "Mariage pour tous: la décision de la CAJ-E est une véritable avancée pour tous les couples, juste en phase avec son époque.",
+      "date": "2015-09-01T18:59:32+00:00",
+      "tweet_id": "638788293765820417"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "reb_ruiz",
+      "text": "Il faudra toutefois encore se battre pour enregistrer de manière rétroactive les armes en circulation. #ParlCH",
+      "date": "2015-05-05T07:54:12+00:00",
+      "tweet_id": "595496704109056000"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "votrevoix",
+      "text": "Que dirions-nous si les pays qui hébergent les plus de 700'000 Suisses-ses de l'étranger se plaignaient de cette \"immigration massive\"?",
+      "date": "2015-08-15T11:55:08+00:00",
+      "tweet_id": "632520898596216832"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CarloSommaruga",
+      "text": "Conclusions UE sur résultat du référendum #Grece sont connues: Si NON, le référendum n'était pas démocratique. Si OUI la démocratie à gagné!",
+      "date": "2015-07-03T08:10:32+00:00",
+      "tweet_id": "616881697808736256"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ManuelTornare",
+      "text": "Congrès des Suisses de l'étranger: l'UDC tente de squatter les lieux ( salles et stand trottoir) : flop, flop, flop!",
+      "date": "2015-08-15T07:01:16+00:00",
+      "tweet_id": "632446945534078976"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ManuelTornare",
+      "text": "Armée CH:\naprès avoir perdu la bataille des airs#Grippen,\nelle pompe de l'eau pour des vaches,en puisant dans un lac français sans demander!",
+      "date": "2015-07-27T18:16:18+00:00",
+      "tweet_id": "625731450755776512"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ManuelTornare",
+      "text": "Forum 14.07: \nOskar F. parle de la sexualité...même ma grand'mère, très catho, était plus progressiste!\nUn régal à la \"Bouvard et Pécuchet\"!",
+      "date": "2015-07-15T10:30:41+00:00",
+      "tweet_id": "621265622664630276"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ManuelTornare",
+      "text": "Ensemble à gauche raconte à nouveau des mensonges sur l'abattage d'arbres sur la Plaine de Plainpalais: des révisionnistes, dans leur ADN!",
+      "date": "2015-06-04T07:25:54+00:00",
+      "tweet_id": "606361218543153152"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "thtanquerel",
+      "text": "Le Conseil fédéral veut une coupe de plus de 100 millions dans l'aide au développement ! Indécent et stupide !",
+      "date": "2015-07-24T14:11:30+00:00",
+      "tweet_id": "624582684111732736"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "thtanquerel",
+      "text": "Election UK, une catastrophe pour l'Europe et les droits de l'homme. Les conservateurs veulent abroger le #HumanRightsAct #RoyaumeUni",
+      "date": "2015-05-08T08:17:09+00:00",
+      "tweet_id": "596589641438011392"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PierreMauron",
+      "text": "Malheureusement ces baisses du prix du pétrole, par cons. de l'huile de chauffage, ne font jamais diminuer les charges des locataires #enLD",
+      "date": "2015-01-15T07:23:45+00:00",
+      "tweet_id": "555626374363635713"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Ballymag",
+      "text": "C'est moi ou le fait de mettre \"transphobie\" et \"Conchita Wurst\" dans la même phrase relève de la mécompréhension?",
+      "date": "2015-09-01T15:49:37+00:00",
+      "tweet_id": "638740501500416000"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Ballymag",
+      "text": "La chaîne télé publique @ARD_Presse prend position contre le racisme. Et chez nous, on invite Poutine pour la prime time. #justswissthings",
+      "date": "2015-08-25T06:19:31+00:00",
+      "tweet_id": "636060317450137600"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "gaelbourgeois",
+      "text": "Le #gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation 🎉\n\n50 jeunes concernés en Valais !",
+      "date": "2015-06-12T09:05:52+00:00",
+      "tweet_id": "609285476718125056"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CharlottGabriel",
+      "text": "Obamacare, mariage gay, marée noire : la Cour Suprême US nous donne une flopée de sujets possibles pour l'exa de droit américain! #progres",
+      "date": "2015-06-29T21:03:22+00:00",
+      "tweet_id": "615626634092261376"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "jrilliet",
+      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis… #EF2015",
+      "date": "2015-08-17T12:55:49+00:00",
+      "tweet_id": "633260946098651136"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "jrilliet",
+      "text": "De qui doit-on nous protéger selon le jeu de l'UDC ? De rats. Pas besoin d'aller chercher bien loin la symbolique de cet animal. A gerber.",
+      "date": "2015-06-18T10:01:30+00:00",
+      "tweet_id": "611473803546349568"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "l_muhlemann",
+      "text": "Initiative PDC, jugement récent du TF, et j'en passe. Triste Suisse en ce beau jour pour l'égalité. Bravo l'Irlande !",
+      "date": "2015-05-23T15:06:12+00:00",
+      "tweet_id": "602128399860166656"
+    }
+  },
+]

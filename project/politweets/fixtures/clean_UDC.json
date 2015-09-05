@@ -1,0 +1,302 @@
+[
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AliceGlauser",
+      "text": "Langues nationale: si on activait mieux les échanges avec la CH allemande  à l'école obligatoire mais aussi en apprentissage? il y a du job!",
+      "date": "2015-08-20T06:42:38+00:00",
+      "tweet_id": "634254195273658368"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "cedricweissert",
+      "text": "Lausanne n'est plus la ville qu'elle était il y a encore quelques années. La violence ne fait qu'augmenter… »",
+      "date": "2015-07-10T08:42:08+00:00",
+      "tweet_id": "619426365251678208"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "YvesNidegger",
+      "text": "Seul comme un neurone dans un congrès du PS... La migration n'es pas une affaire de bons sentiments.",
+      "date": "2015-08-24T14:01:20+00:00",
+      "tweet_id": "635814148182556672"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AmaudruzCeline",
+      "text": "Les suisses souhaitent rester un pays attractif fiscalement! Après les forfaits, un gros coup de balai à un impôt sur les successions! Bravo",
+      "date": "2015-06-14T13:47:25+00:00",
+      "tweet_id": "610081106780684288"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PatrickLussi",
+      "text": "Le droit d’asile : une organisation légale de l’immigration illégale. OUI, Osons le dire et le proclamer.",
+      "date": "2015-03-25T17:01:21+00:00",
+      "tweet_id": "580776495611822080"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Buehler4Bern",
+      "text": "Vu le résultat serré, la LRTV sera-t-elle aussi peu mise en œuvre que l'expulsion des criminels étrangers et l'initiative du 9 février ? 😜",
+      "date": "2015-06-14T17:14:28+00:00",
+      "tweet_id": "610133211943993345"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Buehler4Bern",
+      "text": "Scène de cauchemar vue a Villerert BE: on gratte les pare-brise !!! #réchauffement climatique 😂",
+      "date": "2015-05-22T04:37:11+00:00",
+      "tweet_id": "601607716658896896"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "acgraber",
+      "text": "Proudhon a dit \"la propriété c'est du vol\": tot. faux mais j'ose m'en inspirer pour l'initiative sur les successions",
+      "date": "2015-05-21T20:13:08+00:00",
+      "tweet_id": "601480868318859264"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ArlettazMarc",
+      "text": "D'après le POP et les Verts, si on fonce contre un mur, il ne faut pas freiner si c'est quelqu'un d'autre qui a mis le mur au chemin! #cgcdf",
+      "date": "2015-08-25T18:21:52+00:00",
+      "tweet_id": "636242103606054912"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RolandMESOT",
+      "text": "Calais Fillette tuée: le suspect avoue, en + il a un \"lourd passé\" ! Marre de ces salauds en liberté !",
+      "date": "2015-04-16T10:33:50+00:00",
+      "tweet_id": "588651505953218560"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "E_Indermuhle",
+      "text": "Un ministre russe accuse Hollande et Merkel de \"trop écouter Washington\",c'est aussi le conseil fédéral qui le fait…",
+      "date": "2015-04-29T22:08:04+00:00",
+      "tweet_id": "593537260601143298"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "YohanZiehli",
+      "text": "Les fachos sont de retour. Vêtus de rouge et de noir. #antifa",
+      "date": "2015-08-18T15:19:52+00:00",
+      "tweet_id": "633659583668617217"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "petitarthur87",
+      "text": "L'extrême gauche veut fusionner le 1er et 2ème pilier ?!? et puis quoi encore ?!? #ForumRTS #AVS #EF2015",
+      "date": "2015-08-24T16:54:12+00:00",
+      "tweet_id": "635857651088367616"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "dylankarlen",
+      "text": "Pour aider le PBD à faire des voix, étendons le droit de vote à nos amis les animaux...",
+      "date": "2015-09-02T14:54:06+00:00",
+      "tweet_id": "639088916931457024"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "DaveDournow",
+      "text": "Massacre de touriste en Tunisie, pas de racisme mais à Charleston oui? Le racisme est donc unilatéral?!…",
+      "date": "2015-06-28T21:37:25+00:00",
+      "tweet_id": "615272818515779588"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "MarchandAntho",
+      "text": "Permettre à des couples de devenir des parents avant d'être des malades ? Je dis OUI au DPI ! https://t.co/ZLSRkcYgx4 #CHvote",
+      "date": "2015-05-30T11:57:22+00:00",
+      "tweet_id": "604617594235187201"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "DimMages",
+      "text": "Les bourses d'études remplacé par des prêts au Royaume-Uni...mesure intéressante prise par Cameron et le Chancelier Osborne.",
+      "date": "2015-07-08T12:18:43+00:00",
+      "tweet_id": "618756093418819584"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "DimMages",
+      "text": "\"Le PS n'est pas contre les patrons.\" On aura tout entendu dans #Faceauxpartis #RTS",
+      "date": "2015-09-01T19:33:44+00:00",
+      "tweet_id": "638796902654472192"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "MarchandAntho",
+      "text": "Darbellay dit soutenir la préférence national... C'est bien connu : Pour qu'une girouette tourne, il faut du vent (électoraliste). #ef2015",
+      "date": "2015-03-07T12:04:52+00:00",
+      "tweet_id": "574178899850063872"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "dylankarlen",
+      "text": "Le système de concordance implique de ne pas conditionner la juste représentation des forces politiques",
+      "date": "2015-09-01T17:10:10+00:00",
+      "tweet_id": "638760774303936513"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "udcvr64",
+      "text": "Ouverture des magasins le dimanche : la brèche est ouverte, grâce à une bonne partie du PDC, hélas...",
+      "date": "2015-04-28T08:49:31+00:00",
+      "tweet_id": "592973908355239936"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "GregoryLogean",
+      "text": "Face à la montée du radicalisme musulman, nous devons nous montrer inflexible face à ceux qui menacent notre Etat de droit.",
+      "date": "2015-01-07T18:13:03+00:00",
+      "tweet_id": "552890671741538306"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "desmeulesj",
+      "text": "Après des pertes massives sur les changes, la #BNS veut se refaire sur les actions...Comme un vulgaire spéculateur!",
+      "date": "2015-08-09T10:24:09+00:00",
+      "tweet_id": "630323673656897536"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "KevPellouchoud",
+      "text": "La Grèce bientôt hors de l'Europe ! Premier pays d'une longue série !",
+      "date": "2015-06-28T13:54:22+00:00",
+      "tweet_id": "615156287911936000"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "KevPellouchoud",
+      "text": "Stop à la violence ! Non à l islamisation de l europe !",
+      "date": "2015-01-07T15:19:11+00:00",
+      "tweet_id": "552846919056506880"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "desmeulesj",
+      "text": "Les Grecs ont moins peur de l'Europe que les lavettes qui nous gouvernent en Suisse. Une belle leçon ! #greekreferendum #Grexit",
+      "date": "2015-07-05T18:17:32+00:00",
+      "tweet_id": "617759229487783937"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "acgraber",
+      "text": "Citation du ministre britannique des finances Osborne : « Si l’Etat ne contrôle pas sa dette, c’est la dette qui contrôle le pays. »",
+      "date": "2015-07-10T14:02:09+00:00",
+      "tweet_id": "619506900351062017"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Buehler4Bern",
+      "text": "L'intelligence supérieure de certains grands démocrates séparatistes refait surface http://t.co/NzggxCYrsg",
+      "date": "2015-03-13T08:14:47+00:00",
+      "tweet_id": "576295325670985729"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "AmaudruzCeline",
+      "text": "Nouvelle victoire pour Genève: le CN valide une diminution de la contribution des cantons contributeurs. La balle est dans le camp des États",
+      "date": "2015-06-03T07:17:28+00:00",
+      "tweet_id": "605996705000103936"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "YvesNidegger",
+      "text": "Lundi, le PDC voulait ancrer la famille traditionnelle dans la constitution, vendredi c'est le marriage gay, samedi?",
+      "date": "2015-02-20T20:16:27+00:00",
+      "tweet_id": "568866792921292801"
+    }
+  }
+]
