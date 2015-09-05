@@ -1,4 +1,6 @@
-Django==1.8.2
+Django==1.8.4
+amqp==1.4.6
+anyjson==0.3.3
 beautifulsoup4==4.4.0
 dj-database-url==0.3.0
 dj-static==0.0.6
@@ -6,6 +8,7 @@ django-autoslug==1.7.2
 django-bower==5.0.4
 django-meta==0.3.1
 django-settings-export==1.0.3
+ecdsa==0.13
 gunicorn==19.3.0
 kombu==3.0.26
 paramiko==1.15.2
@@ -16,3 +19,5 @@ pytz==2015.2
 requests==2.6.2
 six==1.9.0
 static==1.1.1
+static3==0.6.1
+wsgiref==0.1.2
