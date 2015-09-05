@@ -224,7 +224,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Ballymag",
-      "text": "C'est moi ou le fait de mettre \"transphobie\" et \"Conchita Wurst\" dans la même phrase relève de la mécompréhension ?",
+      "text": "C'est moi ou le fait de mettre \"transphobie\" et \"Conchita Wurst\" dans la même phrase relève de la mécompréhension?",
       "date": "2015-09-01T15:49:37+00:00",
       "tweet_id": "638740501500416000"
     }
@@ -264,7 +264,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "jrilliet",
-      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis... #EF2015",
+      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis… #EF2015",
       "date": "2015-08-17T12:55:49+00:00",
       "tweet_id": "633260946098651136"
     }
