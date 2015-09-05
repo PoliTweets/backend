@@ -71,6 +71,7 @@ def index(request):
 
         form = forms.ResultCreateForm(answer=CHOICES)
         context_dict = {"title": "Politweets", "form": form, "tweet": tweet, "index": index}
+        print vars(foo)
         return render_to_response('polytweets/index.html', context_dict, context)
     else:
 
