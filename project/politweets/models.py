@@ -52,7 +52,7 @@ PARTY_CHOICES_VALUE = (
     "PDC",
     "PS",
     "Les Verts",
-    u"Verts Libéraux",
+    u"Vert'libéraux",
     "PBD"
 )
 
