@@ -3,49 +3,56 @@
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "udc"
+      "key": "udc",
+      "full_name": "Union Démocratique du Centre"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "plr"
+      "key": "plr",
+      "full_name": "Parti Libéral radical"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "pdc"
+      "key": "pdc",
+      "full_name": "Parti Démocrate Chrétien"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "ps"
+      "key": "ps",
+      "full_name": "Parti Socialiste"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "gre"
+      "key": "gre",
+      "full_name": "Les Verts"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "lib"
+      "key": "lib",
+      "full_name": "Vert'libéraux"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "key": "pbd"
+      "key": "pbd",
+      "full_name": "PBD"
     }
   }
 ]
