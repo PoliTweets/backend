@@ -1,2 +1,2 @@
--r requirements/default.txt
+-r default.txt
 psycopg2==2.6
