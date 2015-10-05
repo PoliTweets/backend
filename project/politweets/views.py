@@ -10,7 +10,7 @@ import models
 import forms
 import random
 
-NUMBER_OF_TWEETS_PER_PARTY = 1
+NUMBER_OF_TWEETS_PER_PARTY = 2
 NUMBER_OF_PARTY = 7 # Must match the reality of DB...
 
 def index(request):
