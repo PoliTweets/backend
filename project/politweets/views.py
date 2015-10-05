@@ -15,6 +15,12 @@ NUMBER_OF_PARTY = 7 # Must match the reality of DB...
 
 def index(request):
     context = RequestContext(request)
+    context_dict = {"title": u"Politweets Bienvenue"}
+    return render_to_response('politweets/index.html', context_dict, context)
+
+
+def round(request):
+    context = RequestContext(request)
     TOTAL_NUMBER_OF_TWEETS = NUMBER_OF_TWEETS_PER_PARTY*NUMBER_OF_PARTY
 
     # Huh? http://stackoverflow.com/questions/16370339/django-1-5-session-key-is-none
@@ -57,7 +63,7 @@ def index(request):
                         "index": index,
                         "total": TOTAL_NUMBER_OF_TWEETS}
 
-        return render_to_response('politweets/index.html', context_dict, context)
+        return render_to_response('politweets/round.html', context_dict, context)
 
     else:
         tweet_id = request.POST.get('tweet_id', None)
@@ -76,7 +82,7 @@ def index(request):
 
         models.Result.objects.create(round=round, tweet=tweet, answered_party=party)
 
-        return HttpResponseRedirect(reverse_lazy('politweets:index'))
+        return HttpResponseRedirect(reverse_lazy('politweets:round'))
 
 
 
