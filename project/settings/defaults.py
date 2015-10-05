@@ -65,17 +65,10 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'project.urls'
 
-TEMPLATE_PATH = os.path.join(PROJECT_PATH, 'templates')
-TEMPLATE_DIRS = (
-    # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
-    # Always use forward slashes, even on Windows. Don't forget to use absolute paths, not relative paths.
-    TEMPLATE_PATH,
-)
-
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [TEMPLATE_PATH,],
+        'DIRS': [os.path.join(PROJECT_PATH, 'templates'),],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

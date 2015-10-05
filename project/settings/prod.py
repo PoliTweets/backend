@@ -3,7 +3,6 @@
 from defaults import *
 
 DEBUG = False
-TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = [
     'politweets-prod.herokuapp.com',
