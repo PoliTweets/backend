@@ -1,0 +1,13 @@
+Django==1.8.4
+anyjson==0.3.3
+dj-database-url==0.3.0
+dj-static==0.0.6
+django-meta==0.3.1
+django-settings-export==1.0.3
+gunicorn==19.3.0
+six==1.9.0
+static3==0.6.1
+wsgiref==0.1.2
+pip==7.1.2
+setuptools==18.3.2
+django-autoslug==1.7.2
