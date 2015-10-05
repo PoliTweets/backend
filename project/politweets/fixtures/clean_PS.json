@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "pk": null,
     "model": "politweets.tweet",
@@ -244,7 +244,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "gaelbourgeois",
-      "text": "Le #gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation 🎉\n\n50 jeunes concernés en Valais !",
+      "text": "Le #gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation \n\n50 jeunes concernés en Valais !",
       "date": "2015-06-12T09:05:52+00:00",
       "tweet_id": "609285476718125056"
     }

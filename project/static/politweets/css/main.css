@@ -1,0 +1,187 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Noto+Sans:700,400|Archivo+Black);
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #ff0000;
+    margin-bottom: 60px;
+}
+
+footer {
+	display: none;
+    background: #000;
+    color: #eee;
+    padding: 20px 0 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+
+.logo img {
+	height: 70px;
+	vertical-align: sub;
+}
+
+.logo .politweets {
+	color: white;
+	text-decoration: none;
+	font-size: 70px;
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 700;
+	display: inline-block;
+	transform: skewX(-10deg);
+}
+
+#tweet .media-object{
+    width: 48px;
+    height: 48p;
+}
+
+h1, h2, h3 {
+	color: #eee;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+.questionContainer {
+	
+}
+
+.twitterContainer {
+	
+}
+
+.answersContainer {
+	text-align: center;
+}
+
+.answerButtonContainer {
+	width: 40%;
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.answerButtonContainer a {
+	width: 100%;
+}
+
+
+.statusContent {
+	
+}
+
+.statusContentItem {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.progressBarContainer {
+	width: 50%;
+}
+
+
+.questionNumIndicator {
+	text-align: center;
+}
+.nextButtonContainer {
+	width: 25%;
+	text-align: right;
+}
+.scoreContainer {
+	width: 25%;
+	padding-top: 10px;
+	font-size: 1.5em;
+}
+
+.orientationSelector {
+	width: 445px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.orientationSelector img {
+	width: 100%;
+}
+
+.buttonCenterContainer {
+	text-align: center;
+}
+
+.content .avatar {
+                float: left;
+                margin-top: 3px;
+                margin-left: -58px;
+                width: 48px;
+                height: 48px;
+                border-radius: 5px;
+                -moz-force-broken-image-icon: 1;
+            } 
+            .content .username{
+                font-size: 13px;
+                color: #8899a6;
+            }
+            
+            .content .time{
+                color: #8899a6;
+            }
+            
+            .content .tweet{
+                font-size: 14px;
+                line-height: 18px;
+            }
+
+
+@media only screen and (max-width: 768px) {
+
+	
+	
+	.statusContentItem {
+		display: block;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.progressBarContainer {
+		width: 100%;
+	}
+
+
+	.nextButtonContainer {
+		width: 100%;
+		text-align: center;
+	}
+	.scoreContainer {
+		width: 100%;
+		text-align: center;
+	}
+
+
+
+}
+
+
+
+@media only screen and (max-width: 480px) {
+	.answerButtonContainer {
+		width: 100%;
+		display: block;
+	}
+	
+	.answerButtonContainer a {
+		width: 100%;
+	}
+	
+	.orientationSelector {
+		width: 300px;
+}
+
+}
+
+

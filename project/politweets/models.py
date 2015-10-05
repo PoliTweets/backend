@@ -2,7 +2,6 @@
 
 from django.conf import settings
 from django.db import models
-from autoslug import AutoSlugField
 
 CATEGORY_UNDEFINED = "unk"
 CATEGORY_LEFT = "lef"
@@ -52,7 +51,7 @@ PARTY_CHOICES_VALUE = (
     "PDC",
     "PS",
     "Les Verts",
-    u"Verts Libéraux",
+    u"Vert'libéraux",
     "PBD"
 )
 
@@ -86,7 +85,6 @@ class Candidate(models.Model):
 class Round(models.Model):
     sessionid = models.CharField(max_length=100, null=True, blank=True)
     start_date = models.DateTimeField(auto_now_add=True)
-    slug = AutoSlugField(populate_from='start_date', unique_with='start_date')
     affinity_category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
 
 
