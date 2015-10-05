@@ -20,7 +20,20 @@
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <h2>Votre résultat : {{ count }} sur {{ total }}!</h2>
+                <h2>Votre résultat : {{ total_count }} sur {{ total_tweets_count }}!</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <table>
+                    {% for party_name, answers_count in party_counts.items %}
+                        <tr>
+                            <td>{{ party_name }}</td>
+                            <td>{{ answers_count }} sur {{ tweet_count_per_party }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
             </div>
         </div>
 

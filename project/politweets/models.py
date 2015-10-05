@@ -3,27 +3,6 @@
 from django.conf import settings
 from django.db import models
 
-CATEGORY_UNDEFINED = "unk"
-CATEGORY_LEFT = "lef"
-CATEGORY_CENTER = "cen"
-CATEGORY_RIGHT = "rig"
-
-CATEGORY_KEYS = (
-    CATEGORY_UNDEFINED,
-    CATEGORY_LEFT,
-    CATEGORY_CENTER,
-    CATEGORY_RIGHT
-)
-
-CATEGORY_VALUES = (
-    u"Indéfini",
-    "Gauche",
-    "Centre",
-    "Droite"
-)
-
-CATEGORY_CHOICES = tuple(zip(CATEGORY_KEYS, CATEGORY_VALUES))
-
 PARTY_UNDEFINED = "unk"
 PARTY_UDC = "udc"
 PARTY_PLR = "plr"
@@ -56,6 +35,7 @@ PARTY_CHOICES_VALUE = (
 )
 
 PARTY_CHOICES = tuple(zip(PARTY_CHOICES_KEYS, PARTY_CHOICES_VALUE))
+PARTY_CHOICES_DICT = dict(zip(PARTY_CHOICES_KEYS, PARTY_CHOICES_VALUE))
 
 class Tweet(models.Model):
     handle = models.CharField(max_length=100, null=True, blank=True)
@@ -71,7 +51,6 @@ class Party(models.Model):
     key = models.CharField(max_length=3, choices=PARTY_CHOICES, default=PARTY_UNDEFINED)
     full_name = models.CharField(max_length=100, null=True, blank=True)
     logo_url = models.URLField(max_length=200, null=True, blank=True)
-    category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
 
     def __unicode__(self):
         return u"Party ("+self.key+")"
@@ -92,16 +71,38 @@ class Candidate(models.Model):
 class Round(models.Model):
     sessionid = models.CharField(max_length=100, null=True, blank=True)
     start_date = models.DateTimeField(auto_now_add=True)
-    affinity_category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
+    affinity_party = models.CharField(max_length=3, choices=PARTY_CHOICES, default=PARTY_UNDEFINED)
 
     def __unicode__(self):
         return u"Round ("+self.sessionid+")"
 
     def correct_answers(self):
-        tmp = []
+        party_counts = {}
+
+        for party in Party.objects.all():
+            party_counts[PARTY_CHOICES_DICT[party.key]] = 0
+
+        total_count = 0
         for result in self.results.all():
             if result.is_answer_correct():
-                tmp.append(result)
+                total_count += 1
+                party_counts[PARTY_CHOICES_DICT[result.answered_party.key]] += 1
+
+        # Changing to string to avoid some issues.
+        for key in party_counts.keys():
+            party_counts[key] = str(party_counts[key])
+
+        return total_count, party_counts
+
+    def parties_with_incomplete_results(self, number_of_results_per_party):
+        tmp = []
+
+        if number_of_results_per_party > 0:
+            for party in Party.objects.all():
+                existing_results = Result.objects.filter(round=self, answered_party=party)
+                if existing_results.count() < number_of_results_per_party:
+                    tmp.append(party)
+
         return tmp
 
 

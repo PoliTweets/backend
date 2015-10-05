@@ -10,10 +10,12 @@ import models
 import forms
 import random
 
-NUMBER_OF_TWEETS_PER_SESSION = 2 if settings.DEBUG else 10
+NUMBER_OF_TWEETS_PER_PARTY = 1
+NUMBER_OF_PARTY = 7 # Must match the reality of DB...
 
 def index(request):
     context = RequestContext(request)
+    TOTAL_NUMBER_OF_TWEETS = NUMBER_OF_TWEETS_PER_PARTY*NUMBER_OF_PARTY
 
     # Huh? http://stackoverflow.com/questions/16370339/django-1-5-session-key-is-none
     if not request.session.get('has_session'):
@@ -26,25 +28,25 @@ def index(request):
         # At this stage, we may or may not have a session ID
 
         index = 1
+        round = None
+
         if sessionid is not None: # Handle case WITH sesssion ID
             round, created = models.Round.objects.get_or_create(sessionid=sessionid)
             index = round.results.count() + 1
-            if index > NUMBER_OF_TWEETS_PER_SESSION:
+
+            if index > TOTAL_NUMBER_OF_TWEETS:
                 request.session.flush()
+
+                total_count, party_counts = round.correct_answers()
                 context_dict = {"title": u"Politweets Résultats",
-                                "count": len(round.correct_answers()),
-                                "total": NUMBER_OF_TWEETS_PER_SESSION}
+                                "total_count": total_count,
+                                "party_counts": party_counts,
+                                "tweet_count_per_party": NUMBER_OF_TWEETS_PER_PARTY,
+                                "total_tweets_count": TOTAL_NUMBER_OF_TWEETS}
+
                 return render_to_response('politweets/results.html', context_dict, context)
 
-            if round.results.count() == 0:
-                tweet = models.Tweet.objects.order_by("?").first()
-            else:
-                round_tweets_ids = [ r.tweet.tweet_id for r in round.results.all() ]
-                tweet = models.Tweet.objects.exclude(tweet_id__in=round_tweets_ids).order_by("?").first()
-
-        else:
-            tweet = models.Tweet.objects.order_by("?").first()
-
+        tweet = get_next_tweet_for_round(round)
         candidate, choices = get_candidate_choices_for_tweet(tweet)
 
         form = forms.ResultCreateForm(choices=choices)
@@ -53,11 +55,11 @@ def index(request):
                         "tweet": tweet,
                         "candidate": candidate,
                         "index": index,
-                        "total": NUMBER_OF_TWEETS_PER_SESSION}
+                        "total": TOTAL_NUMBER_OF_TWEETS}
 
         return render_to_response('politweets/index.html', context_dict, context)
-    else:
 
+    else:
         tweet_id = request.POST.get('tweet_id', None)
         party_key = request.POST.get('party_key', None) # answer
         sessionid = request.session.session_key
@@ -77,29 +79,36 @@ def index(request):
         return HttpResponseRedirect(reverse_lazy('politweets:index'))
 
 
+
+def get_next_tweet_for_round(round=None):
+    if round is None or round.results.count() == 0:
+        return models.Tweet.objects.order_by("?").first()
+
+    round_tweets_ids = [ r.tweet.tweet_id for r in round.results.all() ]
+    valid_tweets = models.Tweet.objects.exclude(tweet_id__in=round_tweets_ids).order_by("?")
+    valid_parties = list(round.parties_with_incomplete_results(NUMBER_OF_TWEETS_PER_PARTY))
+
+    for tweet in valid_tweets.all():
+        candidate = models.Candidate.objects.get(handle=tweet.handle)
+        party = models.Party.objects.get(key=candidate.party_key)
+
+        if candidate.party is None: # Candidates are not loaded with their associated party, but only their party key.
+            candidate.party = party
+            candidate.save()
+
+        if party in valid_parties:
+            return tweet
+
+
 def get_candidate_choices_for_tweet(tweet):
-    candidates = models.Candidate.objects.filter(handle=tweet.handle)
-    candidate = candidates.first()
-
-    # Automatic cleaning of duplicates in case DB wasn't loaded correctly
-    if candidates.count() > 1:
-        for candidate in candidates.all()[1:]:
-            candidate.delete()
-
-    if candidate.party_key is None:
-        for key in models.PARTY_CHOICES_KEYS:
-            if candidate.full_party_name is not None and key in candidate.full_party_name.lower():
-                candidate.party_key = key
-                candidate.save()
-                break
+    candidate = models.Candidate.objects.get(handle=tweet.handle)
+    assert candidate is not None, "Candidate is None?"
 
     expected_party = models.Party.objects.get(key=candidate.party_key)
-    candidate.party = expected_party
-    candidate.save()
+    assert expected_party is not None, "Party is None?"
 
-    PARTY_CHOICES_DICT = dict(zip(models.PARTY_CHOICES_KEYS, models.PARTY_CHOICES_VALUE))
     CHOICES = [
-        (expected_party.key, PARTY_CHOICES_DICT[expected_party.key]),
+        (expected_party.key, models.PARTY_CHOICES_DICT[expected_party.key]),
     ]
 
     for i in range(20):
@@ -110,6 +119,5 @@ def get_candidate_choices_for_tweet(tweet):
             break
 
     random.shuffle(CHOICES)
-
     return candidate, CHOICES
 
