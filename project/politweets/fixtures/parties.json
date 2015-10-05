@@ -3,49 +3,49 @@
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "udc"
+      "key": "udc"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "plr"
+      "key": "plr"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "pdc"
+      "key": "pdc"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "ps"
+      "key": "ps"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "gre"
+      "key": "gre"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "lib"
+      "key": "lib"
     }
   },
   {
     "pk": null,
     "model": "politweets.party",
     "fields": {
-      "name": "pbd"
+      "key": "pbd"
     }
   }
 ]

@@ -63,12 +63,18 @@ class Tweet(models.Model):
     text = models.CharField(max_length=240, null=True, blank=True)
     date = models.DateTimeField(null=True, blank=True)
 
+    def __unicode__(self):
+        return u"Tweet ("+self.tweet_id+", "+self.handle+")"
+
 
 class Party(models.Model):
-    name = models.CharField(max_length=3, choices=PARTY_CHOICES, default=PARTY_UNDEFINED)
+    key = models.CharField(max_length=3, choices=PARTY_CHOICES, default=PARTY_UNDEFINED)
     full_name = models.CharField(max_length=100, null=True, blank=True)
     logo_url = models.URLField(max_length=200, null=True, blank=True)
     category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
+
+    def __unicode__(self):
+        return u"Party ("+self.key+")"
 
 
 class Candidate(models.Model):
@@ -76,16 +82,27 @@ class Candidate(models.Model):
     handle = models.CharField(max_length=100, null=True, blank=True)
     canton = models.CharField(max_length=10, null=True, blank=True)
     party = models.ForeignKey(Party, blank=True, null=True, default=None, related_name='candidates')
+    party_key = models.CharField(max_length=3, null=True, blank=True)
     full_party_name = models.CharField(max_length=100, null=True, blank=True)
-    party_name = models.CharField(max_length=100, null=True, blank=True)
 
     def __unicode__(self):
-        return "Candidate: "+self.handle+" ("+self.name+")"
+        return u"Candidate: "+self.handle+" ("+self.name+")"
+
 
 class Round(models.Model):
     sessionid = models.CharField(max_length=100, null=True, blank=True)
     start_date = models.DateTimeField(auto_now_add=True)
     affinity_category = models.CharField(max_length=3, choices=CATEGORY_CHOICES, default=CATEGORY_UNDEFINED)
+
+    def __unicode__(self):
+        return u"Round ("+self.sessionid+")"
+
+    def correct_answers(self):
+        tmp = []
+        for result in self.results.all():
+            if result.is_answer_correct():
+                tmp.append(result)
+        return tmp
 
 
 class Result(models.Model):
@@ -93,4 +110,15 @@ class Result(models.Model):
     tweet = models.ForeignKey(Tweet, blank=True, null=True, default=None, related_name='results')
     answered_party = models.ForeignKey(Party, blank=True, null=True, default=None, related_name='answers')
 
+    def is_answer_correct(self):
+        candidate = Candidate.objects.get(handle=self.tweet.handle)
 
+        if candidate.party is None and candidate.party_key is not None:
+            party = Party.objects.get(key=candidate.party_key)
+            candidate.party = party
+            candidate.save()
+
+        return self.answered_party == candidate.party
+
+    def __unicode__(self):
+        return u"Result ("+self.round+", "+self.tweet+", "+self.answered_party+")"

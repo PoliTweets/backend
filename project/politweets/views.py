@@ -1,16 +1,16 @@
+# coding=utf-8
 from django.conf import settings
-from django.core.exceptions import ObjectDoesNotExist, MultipleObjectsReturned
+
 from django.core.urlresolvers import reverse_lazy, reverse
 from django.http import HttpResponseRedirect
 from django.shortcuts import render, render_to_response
 from django.template import RequestContext
-from django.views.generic.edit import CreateView, UpdateView, DeleteView
 
 import models
 import forms
 import random
 
-NUMBER_OF_TWEETS_PER_SESSION = 10
+NUMBER_OF_TWEETS_PER_SESSION = 2 if settings.DEBUG else 10
 
 def index(request):
     context = RequestContext(request)
@@ -25,13 +25,16 @@ def index(request):
 
         # At this stage, we may or may not have a session ID
 
-        index = 0
+        index = 1
         if sessionid is not None: # Handle case WITH sesssion ID
             round, created = models.Round.objects.get_or_create(sessionid=sessionid)
             index = round.results.count() + 1
             if index > NUMBER_OF_TWEETS_PER_SESSION:
                 request.session.flush()
-                return HttpResponseRedirect(reverse('index'))
+                context_dict = {"title": u"Politweets Résultats",
+                                "count": len(round.correct_answers()),
+                                "total": NUMBER_OF_TWEETS_PER_SESSION}
+                return render_to_response('politweets/results.html', context_dict, context)
 
             if round.results.count() == 0:
                 tweet = models.Tweet.objects.order_by("?").first()
@@ -42,7 +45,7 @@ def index(request):
         else:
             tweet = models.Tweet.objects.order_by("?").first()
 
-        candidate, choices, party_name_key = get_candidate_choices_for_tweet(tweet)
+        candidate, choices = get_candidate_choices_for_tweet(tweet)
 
         form = forms.ResultCreateForm(choices=choices)
         context_dict = {"title": "Politweets",
@@ -50,22 +53,22 @@ def index(request):
                         "tweet": tweet,
                         "candidate": candidate,
                         "index": index,
-                        "party_name_key": party_name_key}
+                        "total": NUMBER_OF_TWEETS_PER_SESSION}
 
         return render_to_response('politweets/index.html', context_dict, context)
     else:
 
         tweet_id = request.POST.get('tweet_id', None)
-        party_name_key = request.POST.get('party_name_key', None) # answer
+        party_key = request.POST.get('party_key', None) # answer
         sessionid = request.session.session_key
-        print " < Session ID:", sessionid, tweet_id, party_name_key
+        print " < Session ID:", sessionid, tweet_id, party_key
         assert sessionid is not None, "session_id is None on POST?"
 
         # Get or create, as the sessionid might not have been set before.
         round, created = models.Round.objects.get_or_create(sessionid=sessionid)
 
         tweet = models.Tweet.objects.get(tweet_id=tweet_id)
-        party = models.Party.objects.get(name=party_name_key)
+        party = models.Party.objects.get(key=party_key)
         assert tweet is not None, "tweet is None on POST?"
         assert party is not None, "party is None on POST?"
 
@@ -83,21 +86,20 @@ def get_candidate_choices_for_tweet(tweet):
         for candidate in candidates.all()[1:]:
             candidate.delete()
 
-    if candidate.party_name is None:
-        party_name_key = None
+    if candidate.party_key is None:
         for key in models.PARTY_CHOICES_KEYS:
-            if candidate.full_party_name is not None and key in candidate.full_party_name:
-                party_name_key = key
+            if candidate.full_party_name is not None and key in candidate.full_party_name.lower():
+                candidate.party_key = key
+                candidate.save()
                 break
-    else:
-        INVERTED_PARTY_CHOICES = dict(zip(models.PARTY_CHOICES_VALUE, models.PARTY_CHOICES_KEYS))
-        party_name_key = INVERTED_PARTY_CHOICES[candidate.party_name]
 
-    expected_party = models.Party.objects.get(name=party_name_key)
+    expected_party = models.Party.objects.get(key=candidate.party_key)
+    candidate.party = expected_party
+    candidate.save()
 
     PARTY_CHOICES_DICT = dict(zip(models.PARTY_CHOICES_KEYS, models.PARTY_CHOICES_VALUE))
     CHOICES = [
-        (expected_party.name, PARTY_CHOICES_DICT[expected_party.name]),
+        (expected_party.key, PARTY_CHOICES_DICT[expected_party.key]),
     ]
 
     for i in range(20):
@@ -109,4 +111,5 @@ def get_candidate_choices_for_tweet(tweet):
 
     random.shuffle(CHOICES)
 
-    return candidate, CHOICES, party_name_key
+    return candidate, CHOICES
+
