@@ -51,35 +51,31 @@ def index(request):
             INVERTED_PARTY_CHOICES = dict(zip(models.PARTY_CHOICES_VALUE, models.PARTY_CHOICES_KEYS))
             party_name_key = INVERTED_PARTY_CHOICES[candidate.party_name]
 
-        if settings.DEBUG and party_name_key is None:
-            party_name_key = "ps"
-
         expected_party = models.Party.objects.get(name=party_name_key)
 
         PARTY_CHOICES_DICT = dict(zip(models.PARTY_CHOICES_KEYS, models.PARTY_CHOICES_VALUE))
-        CHOICES = (
+        CHOICES = [
             (expected_party.name, PARTY_CHOICES_DICT[expected_party.name]),
-        )
+        ]
 
         for i in range(20):
             new_choice = random.choice(models.PARTY_CHOICES)
             if new_choice not in CHOICES and new_choice[0] != "unk":
-                CHOICES += (new_choice,)
+                CHOICES.append(new_choice)
             if len(CHOICES) == 4:
                 break
 
-
-        form = forms.ResultCreateForm(answer=CHOICES)
+        random.shuffle(CHOICES)
+        form = forms.ResultCreateForm(choices=CHOICES)
         context_dict = {"title": "Politweets", "form": form, "tweet": tweet, "candidate": candidate, "index": index, "party_name_key": party_name_key}
         return render_to_response('politweets/index.html', context_dict, context)
     else:
 
+        form = forms.ResultCreateForm(request.POST) # Bind data from request.POST into a PostForm
 
-        form = forms.ResultCreateForm() # Bind data from request.POST into a PostForm
-        #
-        # if form.is_valid():
-        #     answer = form.cleaned_data['answer']
-        #     return HttpResponseRedirect(reverse('index'))
+        if form.is_valid():
+            answer = form.cleaned_data['answer']
+            return HttpResponseRedirect(reverse('index'))
 
         context_dict = {"title": "Politweets", "form": form}
         return render_to_response(request, 'politweets/index.html', context_dict, context)
