@@ -25,7 +25,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-ADMINS = (('Cedric', 'cedric@onekilopars.ec'), )
+ADMINS = (('Mounir', 'mounir.krichane@rts.ch'), )
 
 
 from ..utils import get_env_variable
