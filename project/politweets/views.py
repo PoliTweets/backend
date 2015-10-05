@@ -71,7 +71,7 @@ def index(request):
 
         form = forms.ResultCreateForm(answer=CHOICES)
         context_dict = {"title": "Politweets", "form": form, "tweet": tweet, "candidate": candidate, "index": index, "party_name_key": party_name_key}
-        return render_to_response('polytweets/index.html', context_dict, context)
+        return render_to_response('politweets/index.html', context_dict, context)
     else:
 
 
@@ -82,5 +82,5 @@ def index(request):
         #     return HttpResponseRedirect(reverse('index'))
 
         context_dict = {"title": "Politweets", "form": form}
-        return render_to_response(request, 'polytweets/index.html', context_dict, context)
+        return render_to_response(request, 'politweets/index.html', context_dict, context)
 
