@@ -34,6 +34,8 @@ from ..utils import get_env_variable
 SECRET_KEY = get_env_variable('SECRET_KEY')
 DATABASE_URL = get_env_variable('DATABASE_URL')
 
+SESSION_SAVE_EVERY_REQUEST = True
+
 # Application definition
 
 # Static files (CSS, JavaScript, Images)

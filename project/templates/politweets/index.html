@@ -55,7 +55,8 @@
 
                     <div id="answers" class="panel panel-default">
                         <div class="panel-body">
-                            <input type="hidden" id="party_name_key" name="party_name_key" value="{{party_name_key}}"/>
+                            <input type="hidden" id="party_name_key" name="party_name_key" value="{{ party_name_key }}"/>
+                            <input type="hidden" id="tweet_id" name="tweet_id" value="{{ tweet.tweet_id }}"/>
                             {% csrf_token %}
                             {{ form.as_p }}
                         </div>

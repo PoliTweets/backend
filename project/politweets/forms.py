@@ -20,9 +20,9 @@ class ResultCreateForm(forms.Form):
     answer = forms.ChoiceField()
 
     def __init__(self, *args, **kwargs):
-        answer = kwargs.pop('answer', None)
+        choices = kwargs.pop('choices', None)
         super(ResultCreateForm, self).__init__(*args, **kwargs)
-        self.fields['answer'] = forms.ChoiceField(choices=answer,
+        self.fields['answer'] = forms.ChoiceField(choices=choices,
                                                   required=True,
                                                   widget=forms.RadioSelect(renderer=ButtonRadioFieldRenderer),
                                                   label=u"Votre réponse")
