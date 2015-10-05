@@ -4,77 +4,89 @@
 
 {% block body_block %}
 
-        <header>
-            <div class="container">
-                <div class="col-xs-8">
-                    <a class="logo">
-                        <img src="{% static 'politweets/img/logo.png' %}">
-                        <span class="politweets">Politweets</span>
-                    </a>
-                </div>
-                <div class="col-xs-4">
-                    <div class="pull-right">
-                        <div class="c100 p25 small">
-                            <span>25%</span>
-                            <div class="slice">
-                                <div class="bar"></div>
-                                <div class="fill"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-
+    <header>
         <div class="container">
-                
-                    
+            <div class="col-xs-8">
+                <a class="logo">
+                    <img src="{% static 'politweets/img/logo.png' %}">
+                    <span class="politweets">Politweets</span>
+                </a>
+            </div>
+            <div class="col-xs-4">
+                <div class="pull-right">
+                    <div class="c100 p25 small">
+                        <span>25%</span>
+                        <div class="slice">
+                            <div class="bar"></div>
+                            <div class="fill"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
 
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2>Qui a dit ?</h2>
+    <div class="container">
+
+
+
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <h2>Qui a dit ?</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <div id="tweet" class="panel panel-default">
+                <div class="panel-body">
+                    <div class="media">
+                        <div class="media-left">
+                            <a href="#">
+                                <img class="media-object" src="https://cdn4.iconfinder.com/data/icons/miu/22/circle_help_question-mark-128.png" alt="">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            {{ tweet.text }}
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div id="tweet" class="panel panel-default">
-                        <div class="panel-body">
-                          <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                  <img class="media-object" src="https://cdn4.iconfinder.com/data/icons/miu/22/circle_help_question-mark-128.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading"><span class="to-hide"></span><span class="name hidden">{{ candidate.name }}</span> <small>{{ tweet.date }}</small> <div class="party-name hidden"> {{ candidate.party_name }}</div></h4>
-                                {{ tweet.text }}
-                            </div>
-                        </div>
-                        </div>
-                    </div>
+            <form action="" method="post" class="form-horizontal">
 
-                    <div id="answers" class="panel panel-default">
-                        <div class="panel-body">
-                            <form action="" method="get" class="form-horizontal">
-                                <input type="hidden" id="party_name_key" name="party_name_key" value="{{party_name_key}}"/>
-                                {% csrf_token %}
-                                    {{ form.as_p }}
-
-
-                                <div class="nextButtonContainer statusContentItem">
-                                    <input type="submit" class="btn btn-default navbar-btn" value="Tweet suivant" />
-                                </div>
-
-                            </form>
-                        </div>
+                <div id="answers" class="panel panel-default">
+                    <div class="panel-body">
+                        <input type="hidden" id="party_name_key" name="party_name_key" value="{{party_name_key}}"/>
+                        {% csrf_token %}
+                        {{ form.as_p }}
                     </div>
                 </div>
-            </div>           
-        <footer>
-            <p class="text-center">&copy; Hackhathon Lausanne 2015</p>
-        </footer>
-       
+
+                <div id="correct_answer" class="panel panel-default" style="display:none;">
+                    <div class="panel-body">
+                        <h4 class="media-heading">
+                            <span class="name">{{ candidate.name }}</span> <span class="party-name">({{ candidate.party_name }})</span>
+                            <small>{{ tweet.date }}</small>
+                            <a target="_blank" href="https://twitter.com/{{ tweet.handle }}/status/{{ tweet.tweet_id }}">Tweet original</a>
+                        </h4>
+                    </div>
+                </div>
+
+                <div id="nextButton" class="nextButtonContainer statusContentItem" style="display:none;">
+                    <input type="submit" class="btn btn-default navbar-btn" value="Tweet suivant" />
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+
+    <footer>
+        <p class="text-center">&copy; Hackhathon Lausanne 2015</p>
+    </footer>
+
 
 
 {% endblock body_block %}
