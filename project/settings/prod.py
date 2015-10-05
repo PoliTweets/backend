@@ -6,7 +6,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'politweets-prod.herokuapp.com',
-    'politweets.rts.ch'
+    'politweets.rts.ch',
+    '10.102.67.64'
 ]
 
 SITE_ID = 3  # Local=1, Staging=2, Prod=3
