@@ -5,8 +5,9 @@ from defaults import *
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'politweets-prod.herokuapp.com',
-    'lab.rts.ch'
+    u'politweets-prod.herokuapp.com',
+    u'lab.rts.ch',
+    u'10.102.67.64'
 ]
 
 SITE_ID = 3  # Local=1, Staging=2, Prod=3
