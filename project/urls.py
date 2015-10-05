@@ -20,5 +20,4 @@ admin.autodiscover()
 
 urlpatterns = [
     url(r'^', include('project.politweets.urls', namespace="politweets")),
-    url(r'^admin/', include(admin.site.urls)),
 ]
