@@ -1,0 +1,36 @@
+{% extends 'politweets/base.html' %}
+
+{% load staticfiles %}
+{% load template_utils %}
+
+{% block body_block %}
+
+    <header>
+        <div class="container">
+            <div class="col-xs-8">
+                <a class="logo">
+                    <img src="{% static 'politweets/img/logo.png' %}">
+                    <span class="politweets">Politweets</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2>Votre résultat : {{ count }} sur {{ total }}!</h2>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <input id="startOverButton" class="btn btn-default navbar-btn" value="Recommencer" />
+            </div>
+        </div>
+
+    </div> <!-- container -->
+
+{% endblock body_block %}
+

@@ -5,7 +5,7 @@
     "fields": {
       "name": "Savary Géraldine",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "Savary_Recordon"
     }
@@ -16,7 +16,7 @@
     "fields": {
       "name": "Nordmann Roger",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "NordmannRoger"
     }
@@ -27,7 +27,7 @@
     "fields": {
       "name": "Marra Ada",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "ada_marra"
     }
@@ -38,7 +38,7 @@
     "fields": {
       "name": "Schwaab Jean Christophe",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "jcschwaab"
     }
@@ -49,7 +49,7 @@
     "fields": {
       "name": "Amarelle Cesla",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "CeslaAmarelle"
     }
@@ -60,7 +60,7 @@
     "fields": {
       "name": "Ruiz Rebecca",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "reb_ruiz"
     }
@@ -71,7 +71,7 @@
     "fields": {
       "name": "Bendahan Samuel",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "bendahan"
     }
@@ -82,7 +82,7 @@
     "fields": {
       "name": "Dessemontet Pierre",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "pdessemontet"
     }
@@ -93,7 +93,7 @@
     "fields": {
       "name": "Kaufmann Lyonel",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "lyonelkaufmann"
     }
@@ -104,7 +104,7 @@
     "fields": {
       "name": "Uffer Filip",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "Filipuffer"
     }
@@ -115,7 +115,7 @@
     "fields": {
       "name": "Berthoud Alexandre",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "A_Berthoud"
     }
@@ -126,7 +126,7 @@
     "fields": {
       "name": "Bettschart-Narbel Florence",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "FloBettschart"
     }
@@ -137,7 +137,7 @@
     "fields": {
       "name": "Borloz Frédéric",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "FredericBorloz"
     }
@@ -148,7 +148,7 @@
     "fields": {
       "name": "Derder Fathi",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "fderder"
     }
@@ -159,7 +159,7 @@
     "fields": {
       "name": "Gross Forence",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "FlorenceGross"
     }
@@ -170,7 +170,7 @@
     "fields": {
       "name": "Guyaz Anne",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "AnneGuyaz"
     }
@@ -181,7 +181,7 @@
     "fields": {
       "name": "Leuba Nicolas",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "LeubaNicolas"
     }
@@ -192,7 +192,7 @@
     "fields": {
       "name": "Moret Isabelle",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "IsabelleMoret"
     }
@@ -203,7 +203,7 @@
     "fields": {
       "name": "Wehrli Laurent",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "LaurentWehrli"
     }
@@ -214,7 +214,7 @@
     "fields": {
       "name": "Arlettaz Vincent",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "VincentArlettaz"
     }
@@ -225,7 +225,7 @@
     "fields": {
       "name": "Bernhard Maximilien",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "Ma_Bernhard"
     }
@@ -236,7 +236,7 @@
     "fields": {
       "name": "Cretegny Laurence",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "Lcretegny"
     }
@@ -247,7 +247,7 @@
     "fields": {
       "name": "Dutruy Nicolas",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "dutruy"
     }
@@ -258,7 +258,7 @@
     "fields": {
       "name": "Fantino Olivier",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "ofantino"
     }
@@ -269,7 +269,7 @@
     "fields": {
       "name": "Jobin Laurine",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "laurineJoCH"
     }
@@ -280,7 +280,7 @@
     "fields": {
       "name": "Klunge Henri",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "hklunge"
     }
@@ -291,7 +291,7 @@
     "fields": {
       "name": "Möhl Paola",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "PaolaMhl"
     }
@@ -302,7 +302,7 @@
     "fields": {
       "name": "Schelker Carole",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "CaroleSchelker"
     }
@@ -313,7 +313,7 @@
     "fields": {
       "name": "Aebi Michel",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "AebiMichel"
     }
@@ -324,7 +324,7 @@
     "fields": {
       "name": "Berthet Jérémy",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "kaltezar"
     }
@@ -335,7 +335,7 @@
     "fields": {
       "name": "Bliesener Ludovic",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "LudoBliesener"
     }
@@ -346,7 +346,7 @@
     "fields": {
       "name": "Bongard Benoît",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "Ravens_88"
     }
@@ -357,7 +357,7 @@
     "fields": {
       "name": "Brandani Florent",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "FlorentBrandani"
     }
@@ -368,7 +368,7 @@
     "fields": {
       "name": "Braune Victor",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "VictorBraune"
     }
@@ -379,7 +379,7 @@
     "fields": {
       "name": "Delacrétaz Matthieu",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "mdelacretaz"
     }
@@ -390,7 +390,7 @@
     "fields": {
       "name": "Engel Oriane",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "orianeengel"
     }
@@ -401,7 +401,7 @@
     "fields": {
       "name": "Gemesio Denise",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "DeniseGemesio"
     }
@@ -412,7 +412,7 @@
     "fields": {
       "name": "Hautier Loïc",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "Lhautier"
     }
@@ -423,7 +423,7 @@
     "fields": {
       "name": "Kuntzmann Jonathan",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "jk_jkuntzmann"
     }
@@ -434,7 +434,7 @@
     "fields": {
       "name": "Muller Baptiste",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "baptistemuller"
     }
@@ -445,7 +445,7 @@
     "fields": {
       "name": "Racine Quentin",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "QRacine"
     }
@@ -456,7 +456,7 @@
     "fields": {
       "name": "Voinçon Lionel",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VD",
       "handle": "Lionel_Voincon"
     }
@@ -467,7 +467,7 @@
     "fields": {
       "name": "Recordon Luc",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "Savary_Recordon"
     }
@@ -478,7 +478,7 @@
     "fields": {
       "name": "Thorens Adèle",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "adelethorens"
     }
@@ -489,7 +489,7 @@
     "fields": {
       "name": "Van Singer Christian",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "CvanSinger"
     }
@@ -500,7 +500,7 @@
     "fields": {
       "name": "Maystre Tinetta",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "TinettaMaystre"
     }
@@ -511,7 +511,7 @@
     "fields": {
       "name": "Porchet Léonore",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "LeonorePorchet"
     }
@@ -522,7 +522,7 @@
     "fields": {
       "name": "Mischler Maurice",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "MauriceMischler"
     }
@@ -533,7 +533,7 @@
     "fields": {
       "name": "Evéquoz Séverine",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "sevequoz"
     }
@@ -544,7 +544,7 @@
     "fields": {
       "name": "Chinet Mathilde",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "mathildechinet"
     }
@@ -555,7 +555,7 @@
     "fields": {
       "name": "Rinsoz Lore",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "LRinsoz"
     }
@@ -566,7 +566,7 @@
     "fields": {
       "name": "Genoud Alice",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "AliceGenoud"
     }
@@ -577,7 +577,7 @@
     "fields": {
       "name": "Jacquet Pierre-Alain",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "pajaquet"
     }
@@ -588,7 +588,7 @@
     "fields": {
       "name": "Joly Rebecca",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "rebecca_joly"
     }
@@ -599,7 +599,7 @@
     "fields": {
       "name": "Raedler David",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "DaRaedler"
     }
@@ -610,7 +610,7 @@
     "fields": {
       "name": "Jueni Pamela",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "pjueni"
     }
@@ -621,7 +621,7 @@
     "fields": {
       "name": "Zangger Anna",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "Smishaa"
     }
@@ -632,7 +632,7 @@
     "fields": {
       "name": "Panchard Ilias",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "IliasPanchard"
     }
@@ -643,7 +643,7 @@
     "fields": {
       "name": "Anken Daniel",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "DanielAnken"
     }
@@ -654,7 +654,7 @@
     "fields": {
       "name": "Gutknecht Chloé",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VD",
       "handle": "ChloeGut"
     }
@@ -665,7 +665,7 @@
     "fields": {
       "name": "Glauser Alice",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "AliceGlauser"
     }
@@ -676,7 +676,7 @@
     "fields": {
       "name": "Rapaz Pierre-Yves",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "pyrapaz"
     }
@@ -687,7 +687,7 @@
     "fields": {
       "name": "Riesen Werner",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "wernerriesen"
     }
@@ -698,7 +698,7 @@
     "fields": {
       "name": "Voiblet Claude-Alain",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "Voiblet"
     }
@@ -709,7 +709,7 @@
     "fields": {
       "name": "Weissert Cédric",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "cedricweissert"
     }
@@ -720,7 +720,7 @@
     "fields": {
       "name": "Indermuhle Elouan",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "E_Indermuhle"
     }
@@ -731,7 +731,7 @@
     "fields": {
       "name": "Ziehli Yoan",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "YohanZiehli"
     }
@@ -742,7 +742,7 @@
     "fields": {
       "name": "Verdan Ariane",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "ArianeVerdan"
     }
@@ -753,7 +753,7 @@
     "fields": {
       "name": "Fardel Nicolas",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "NFardel"
     }
@@ -764,7 +764,7 @@
     "fields": {
       "name": "Petit Arthur",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "petitarthur87"
     }
@@ -775,7 +775,7 @@
     "fields": {
       "name": "Karlen Dylan",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "dylankarlen"
     }
@@ -786,7 +786,7 @@
     "fields": {
       "name": "Menzi Pablo",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VD",
       "handle": "mdrlol85"
     }
@@ -797,7 +797,7 @@
     "fields": {
       "name": "Cantone Camille",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "CamilleCantone"
     }
@@ -808,7 +808,7 @@
     "fields": {
       "name": "Clément François",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "franclem2"
     }
@@ -819,7 +819,7 @@
     "fields": {
       "name": "Dabboubi Samia",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "samiaDabb"
     }
@@ -830,7 +830,7 @@
     "fields": {
       "name": "Hamouti Aurélien",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "aurelienhamouti"
     }
@@ -841,7 +841,7 @@
     "fields": {
       "name": "Gabriel Charlotte",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "CharlottGabriel"
     }
@@ -852,7 +852,7 @@
     "fields": {
       "name": "Petitpierre Rémi",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "RemiPetitpierre"
     }
@@ -863,7 +863,7 @@
     "fields": {
       "name": "Pilloud Romain",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "RomainPilloudVD"
     }
@@ -874,7 +874,7 @@
     "fields": {
       "name": "Javet Raphaëlle",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "RaphaelleJavet"
     }
@@ -885,7 +885,7 @@
     "fields": {
       "name": "Rilliet Julien",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "jrilliet"
     }
@@ -896,7 +896,7 @@
     "fields": {
       "name": "Rivola Filippo",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "filipporivola"
     }
@@ -907,7 +907,7 @@
     "fields": {
       "name": "Ramsauer Diana-Alice",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "Daramsauer"
     }
@@ -918,7 +918,7 @@
     "fields": {
       "name": "Waeber Julien-Clément",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VD",
       "handle": "WaeberJC"
     }
@@ -929,7 +929,7 @@
     "fields": {
       "name": "Bussat Christine",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "ChristineBussat"
     }
@@ -940,7 +940,7 @@
     "fields": {
       "name": "Boschetti Steen",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "BoschettiSteen"
     }
@@ -951,7 +951,7 @@
     "fields": {
       "name": "Bellani Sandra",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "Mobella7"
     }
@@ -962,7 +962,7 @@
     "fields": {
       "name": "Cramer Stanislas",
       "full_party_name": "Jeunes PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "StanislasCramer"
     }
@@ -973,7 +973,7 @@
     "fields": {
       "name": "Brennecke Caroline",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "carobrennecke"
     }
@@ -984,7 +984,7 @@
     "fields": {
       "name": "Krattiger Quentin",
       "full_party_name": "Jeunes PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "quentin_krattig"
     }
@@ -995,7 +995,7 @@
     "fields": {
       "name": "Morin Patrice Eric",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "PAPAMIKE15"
     }
@@ -1006,7 +1006,7 @@
     "fields": {
       "name": "Badoux Gabrielle",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "GabrielleBadoux"
     }
@@ -1017,7 +1017,7 @@
     "fields": {
       "name": "Velasco Meschwitz Maria Laura",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "malow333"
     }
@@ -1028,7 +1028,7 @@
     "fields": {
       "name": "Béglé Claude",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "ClaudeBegle"
     }
@@ -1039,7 +1039,7 @@
     "fields": {
       "name": "Neirynck Jacques",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "NeirynckJ"
     }
@@ -1050,7 +1050,7 @@
     "fields": {
       "name": "Cretegny Gérald",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "GerCret"
     }
@@ -1061,7 +1061,7 @@
     "fields": {
       "name": "Marion Axel",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "axel_marion"
     }
@@ -1072,7 +1072,7 @@
     "fields": {
       "name": "Donzé Manuel",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "LeManu71"
     }
@@ -1083,7 +1083,7 @@
     "fields": {
       "name": "Poitry Alain-Valery",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "alainvpoitry"
     }
@@ -1094,7 +1094,7 @@
     "fields": {
       "name": "Barbezat Christophe",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "CBarbezat"
     }
@@ -1105,7 +1105,7 @@
     "fields": {
       "name": "Bona Urs",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "BonaUrs"
     }
@@ -1116,7 +1116,7 @@
     "fields": {
       "name": "Chevalley Isabelle",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "I_Chevalley"
     }
@@ -1127,7 +1127,7 @@
     "fields": {
       "name": "Demaurex Aurélien",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "ADemaurex"
     }
@@ -1138,7 +1138,7 @@
     "fields": {
       "name": "Dupertuis Michael",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "Mikedupertuis"
     }
@@ -1149,7 +1149,7 @@
     "fields": {
       "name": "Lio Lena",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "lenalio2011"
     }
@@ -1160,7 +1160,7 @@
     "fields": {
       "name": "Miéville Laurent",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "LaurentMieville"
     }
@@ -1171,7 +1171,7 @@
     "fields": {
       "name": "Pointet François",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "isfpo"
     }
@@ -1182,7 +1182,7 @@
     "fields": {
       "name": "Richard Claire",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "ClaireRichard56"
     }
@@ -1193,7 +1193,7 @@
     "fields": {
       "name": "Vionnet Blaise",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "VD",
       "handle": "B_Vionnet"
     }
@@ -1204,7 +1204,7 @@
     "fields": {
       "name": "Gaillard Houriet Myriam",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "Myriam64"
     }
@@ -1215,7 +1215,7 @@
     "fields": {
       "name": "Cornut Sandrine",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "SandrineCornut"
     }
@@ -1226,7 +1226,7 @@
     "fields": {
       "name": "Villa Sylvie",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "sylvie_villa"
     }
@@ -1237,7 +1237,7 @@
     "fields": {
       "name": "Raffael Sergi",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VD",
       "handle": "RaneSendrori"
     }
@@ -1248,7 +1248,7 @@
     "fields": {
       "name": "Rashiti Tefik",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "VD",
       "handle": "RTefik"
     }
@@ -1259,7 +1259,7 @@
     "fields": {
       "name": "Maury Pasquier Liliane",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "votrevoix"
     }
@@ -1270,7 +1270,7 @@
     "fields": {
       "name": "Sommaruga Carlo",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "CarloSommaruga"
     }
@@ -1281,7 +1281,7 @@
     "fields": {
       "name": "Tornare Manuel",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "ManuelTornare"
     }
@@ -1292,7 +1292,7 @@
     "fields": {
       "name": "Tanquerel Thierry",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "thtanquerel"
     }
@@ -1303,7 +1303,7 @@
     "fields": {
       "name": "Baranova Olga",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "Ballymag"
     }
@@ -1314,7 +1314,7 @@
     "fields": {
       "name": "Deneys Roger",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "RogerDeneys"
     }
@@ -1325,7 +1325,7 @@
     "fields": {
       "name": "Gavilanes Amanda",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "GenderGirl"
     }
@@ -1336,7 +1336,7 @@
     "fields": {
       "name": "Ruchet-Bach Audrey",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "RbAudrey"
     }
@@ -1347,7 +1347,7 @@
     "fields": {
       "name": "Lottaz Pascal",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "PLottaz"
     }
@@ -1358,7 +1358,7 @@
     "fields": {
       "name": "Courtens Gaëlle",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "gaelle14juillet"
     }
@@ -1369,7 +1369,7 @@
     "fields": {
       "name": "Bargetzi Amélie",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "AmelieBargetzi"
     }
@@ -1380,7 +1380,7 @@
     "fields": {
       "name": "Wenger Thomas",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "GE",
       "handle": "thomaswenger"
     }
@@ -1391,7 +1391,7 @@
     "fields": {
       "name": "Hiltpold Hugues",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "hhiltpold"
     }
@@ -1402,7 +1402,7 @@
     "fields": {
       "name": "Lüscher Christian",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "Cluscher"
     }
@@ -1413,7 +1413,7 @@
     "fields": {
       "name": "Wavre Rolin",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "RolinWavre"
     }
@@ -1424,7 +1424,7 @@
     "fields": {
       "name": "Genecand Benoît",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "BenoitGenecand"
     }
@@ -1435,7 +1435,7 @@
     "fields": {
       "name": "Cramer Robert",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "RobertCramer_GE"
     }
@@ -1446,7 +1446,7 @@
     "fields": {
       "name": "Mahrer Anne",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "AnneMahrer"
     }
@@ -1457,7 +1457,7 @@
     "fields": {
       "name": "Bavarel Christian",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "BavarelC"
     }
@@ -1468,7 +1468,7 @@
     "fields": {
       "name": "Eckert Pierre",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "PierreEckert"
     }
@@ -1479,7 +1479,7 @@
     "fields": {
       "name": "Forster Carbonnier Sophie",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "Sophie_ForsterC"
     }
@@ -1490,7 +1490,7 @@
     "fields": {
       "name": "Hartmann Esther",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "esterhartmannge"
     }
@@ -1501,7 +1501,7 @@
     "fields": {
       "name": "Lefort François",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "FLefortGeneva"
     }
@@ -1512,7 +1512,7 @@
     "fields": {
       "name": "Rossiaud Jean",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "jeanrossiaud"
     }
@@ -1523,7 +1523,7 @@
     "fields": {
       "name": "Loosli Peter",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "LoosliPeter"
     }
@@ -1534,7 +1534,7 @@
     "fields": {
       "name": "Bucher Denis",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "GE",
       "handle": "magix_ch"
     }
@@ -1545,7 +1545,7 @@
     "fields": {
       "name": "Nidegger Yves",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "YvesNidegger"
     }
@@ -1556,7 +1556,7 @@
     "fields": {
       "name": "Amaudruz Céline",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "AmaudruzCeline"
     }
@@ -1567,7 +1567,7 @@
     "fields": {
       "name": "Leyvraz Eric",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "leyvrazrosell"
     }
@@ -1578,7 +1578,7 @@
     "fields": {
       "name": "Lussi Patrick",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "PatrickLussi"
     }
@@ -1589,7 +1589,7 @@
     "fields": {
       "name": "Dournow David",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "DaveDournow"
     }
@@ -1600,7 +1600,7 @@
     "fields": {
       "name": "Etienne Max Xavier",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "xm_etienne"
     }
@@ -1611,7 +1611,7 @@
     "fields": {
       "name": "Barazzone Guillaume",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "GE",
       "handle": "BarazzoneG"
     }
@@ -1622,7 +1622,7 @@
     "fields": {
       "name": "Mettan Guy",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "GE",
       "handle": "GuyMettan"
     }
@@ -1633,7 +1633,7 @@
     "fields": {
       "name": "Buchs Sophie",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "GE",
       "handle": "SophieBuchs"
     }
@@ -1644,7 +1644,7 @@
     "fields": {
       "name": "Piccoli Adriano",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "GE",
       "handle": "PiccoliAdriano"
     }
@@ -1655,7 +1655,7 @@
     "fields": {
       "name": "Borgeaud Sandra",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "GE",
       "handle": "SandraBorgeaud"
     }
@@ -1666,7 +1666,7 @@
     "fields": {
       "name": "Kugel Mark",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "GE",
       "handle": "markkugel"
     }
@@ -1677,7 +1677,7 @@
     "fields": {
       "name": "Thurnherr Laurent",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "GE",
       "handle": "l_thurnherr"
     }
@@ -1688,7 +1688,7 @@
     "fields": {
       "name": "Piguet Charles",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "GE",
       "handle": "CharlesPiguet"
     }
@@ -1699,7 +1699,7 @@
     "fields": {
       "name": "Seydoux Laurent",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "GE",
       "handle": "LSeydoux"
     }
@@ -1710,7 +1710,7 @@
     "fields": {
       "name": "Peyraud Alexandre",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "GE",
       "handle": "AlexPeyraud"
     }
@@ -1721,7 +1721,7 @@
     "fields": {
       "name": "Morand Louise",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "morand_louise"
     }
@@ -1732,7 +1732,7 @@
     "fields": {
       "name": "Jacquier Jérôme",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "Jerome_Jacquier"
     }
@@ -1743,7 +1743,7 @@
     "fields": {
       "name": "Daher Vincent",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "VincentDaher"
     }
@@ -1754,7 +1754,7 @@
     "fields": {
       "name": "Naville Laurent",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "LaurentNaville"
     }
@@ -1765,7 +1765,7 @@
     "fields": {
       "name": "Grognuz Fabien",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "GE",
       "handle": "FabienGrognuz"
     }
@@ -1776,7 +1776,7 @@
     "fields": {
       "name": "Bertinat Eric",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "GE",
       "handle": "EBertinat"
     }
@@ -1787,7 +1787,7 @@
     "fields": {
       "name": "Marti Karine",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "JU",
       "handle": "KarineMarti2950"
     }
@@ -1798,7 +1798,7 @@
     "fields": {
       "name": "Wiser Jessica",
       "full_party_name": "JDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "JU",
       "handle": "Gribouille2101"
     }
@@ -1809,7 +1809,7 @@
     "fields": {
       "name": "Girardin Anaïs",
       "full_party_name": "JDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "JU",
       "handle": "AnaisGirardin"
     }
@@ -1820,7 +1820,7 @@
     "fields": {
       "name": "Bühler Manfred",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "BE",
       "handle": "Buehler4Bern"
     }
@@ -1831,7 +1831,7 @@
     "fields": {
       "name": "Graber Anne-Caroline",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "BE",
       "handle": "acgraber"
     }
@@ -1842,7 +1842,7 @@
     "fields": {
       "name": "Schnegg Maël",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "BE",
       "handle": "mschnegg"
     }
@@ -1853,7 +1853,7 @@
     "fields": {
       "name": "Coelho Shanna",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "BE",
       "handle": "Shanna_BC"
     }
@@ -1864,7 +1864,7 @@
     "fields": {
       "name": "Jean-Quartier Caroline",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "BE",
       "handle": "carojeanq"
     }
@@ -1875,7 +1875,7 @@
     "fields": {
       "name": "Duarte-Walser José",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "BE",
       "handle": "jrdbc"
     }
@@ -1886,7 +1886,7 @@
     "fields": {
       "name": "Ait-Mokhtar Nabil",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "BE",
       "handle": "nabiladresse"
     }
@@ -1897,7 +1897,7 @@
     "fields": {
       "name": "Haenni Jessica",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "BE",
       "handle": "jessica_n_i"
     }
@@ -1908,7 +1908,7 @@
     "fields": {
       "name": "Moser Matthieu",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "BE",
       "handle": "MatthieuMoser"
     }
@@ -1919,7 +1919,7 @@
     "fields": {
       "name": "Heyer Virginie",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "BE",
       "handle": "virginieheyer"
     }
@@ -1930,7 +1930,7 @@
     "fields": {
       "name": "Amstutz Pierre",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "BE",
       "handle": "AmstutzPierre"
     }
@@ -1941,7 +1941,7 @@
     "fields": {
       "name": "Michel Tamara",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "BE",
       "handle": "Rationalraetin"
     }
@@ -1952,7 +1952,7 @@
     "fields": {
       "name": "Berberat Didier",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "berberatdidier"
     }
@@ -1963,7 +1963,7 @@
     "fields": {
       "name": "Docourt Martine",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "MartineDocourt"
     }
@@ -1974,7 +1974,7 @@
     "fields": {
       "name": "Maire Jacques-André",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "MaireJack"
     }
@@ -1985,7 +1985,7 @@
     "fields": {
       "name": "Hurni Baptiste",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "hurnib"
     }
@@ -1996,7 +1996,7 @@
     "fields": {
       "name": "Perret Ducommun Laura",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "LauraPerret2"
     }
@@ -2007,7 +2007,7 @@
     "fields": {
       "name": "de Montmollin Antoine",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "A_deMontmollin"
     }
@@ -2018,7 +2018,7 @@
     "fields": {
       "name": "Humbert Céline",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "celinehumbert14"
     }
@@ -2029,7 +2029,7 @@
     "fields": {
       "name": "Muhlemann Loïc",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "l_muhlemann"
     }
@@ -2040,7 +2040,7 @@
     "fields": {
       "name": "Widmer Aurélie",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "NE",
       "handle": "AurelieWidmer"
     }
@@ -2051,7 +2051,7 @@
     "fields": {
       "name": "Fivaz Fabien",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "NE",
       "handle": "ffivaz"
     }
@@ -2062,7 +2062,7 @@
     "fields": {
       "name": "Vara Céline",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "NE",
       "handle": "VaraCeline"
     }
@@ -2073,7 +2073,7 @@
     "fields": {
       "name": "Herrmann Patrick",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "NE",
       "handle": "patrherrmann"
     }
@@ -2084,7 +2084,7 @@
     "fields": {
       "name": "Jurt Andreas",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "AndreasJurt"
     }
@@ -2095,7 +2095,7 @@
     "fields": {
       "name": "Comte Raphaël",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "RaphaelComteCE"
     }
@@ -2106,7 +2106,7 @@
     "fields": {
       "name": "Arlettaz Marc",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "NE",
       "handle": "ArlettazMarc"
     }
@@ -2117,7 +2117,7 @@
     "fields": {
       "name": "Schär Damien",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "NE",
       "handle": "DamienSchaer"
     }
@@ -2128,7 +2128,7 @@
     "fields": {
       "name": "Barbosa Sonia",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "SoniaBarbosa89"
     }
@@ -2139,7 +2139,7 @@
     "fields": {
       "name": "Barone Michele",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "Michele__Barone"
     }
@@ -2150,7 +2150,7 @@
     "fields": {
       "name": "Von Allmen Anthony",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "vonallmenantho"
     }
@@ -2161,7 +2161,7 @@
     "fields": {
       "name": "Kienholz Léo",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "NE",
       "handle": "LeoKienholz"
     }
@@ -2172,7 +2172,7 @@
     "fields": {
       "name": "Jaquet Nicolas",
       "full_party_name": "PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "NE",
       "handle": "nicolasjaquet75"
     }
@@ -2183,7 +2183,7 @@
     "fields": {
       "name": "Grandjean Antoine",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "NE",
       "handle": "AntGrandjean"
     }
@@ -2194,7 +2194,7 @@
     "fields": {
       "name": "Hild Thierry",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "NE",
       "handle": "HildMac"
     }
@@ -2205,7 +2205,7 @@
     "fields": {
       "name": "Steiert Jean-François",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "steiertjf"
     }
@@ -2216,7 +2216,7 @@
     "fields": {
       "name": "Piller-Carrard Valérie",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "Valerie_Piller\r\n"
     }
@@ -2227,7 +2227,7 @@
     "fields": {
       "name": "Schneider Schüttel Ursula",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "uschneiderschue"
     }
@@ -2238,7 +2238,7 @@
     "fields": {
       "name": "Bonny David",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "david_bonny"
     }
@@ -2249,7 +2249,7 @@
     "fields": {
       "name": "Mauron Pierre",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "PierreMauron"
     }
@@ -2260,7 +2260,7 @@
     "fields": {
       "name": "Levrat Christian",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "ChristianLevrat"
     }
@@ -2271,7 +2271,7 @@
     "fields": {
       "name": "De Buman Dominique",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "DdeBuman"
     }
@@ -2282,7 +2282,7 @@
     "fields": {
       "name": "Bulliard-Marbach Christine",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "BulliardMarbach"
     }
@@ -2293,7 +2293,7 @@
     "fields": {
       "name": "Aebischer Susanne",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "Aebischer_FR"
     }
@@ -2304,7 +2304,7 @@
     "fields": {
       "name": "Doutaz Jean-Pierre",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "doutazjp"
     }
@@ -2315,7 +2315,7 @@
     "fields": {
       "name": "Vonlanthen Beat",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "Beat_Vonlanthen"
     }
@@ -2326,7 +2326,7 @@
     "fields": {
       "name": "Eggs Alba",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "AlbalaBlanche"
     }
@@ -2337,7 +2337,7 @@
     "fields": {
       "name": "Fasel Blaise",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "BlaiseFasel"
     }
@@ -2348,7 +2348,7 @@
     "fields": {
       "name": "Schenevey-Haghparast Hasti",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "hasti_h"
     }
@@ -2359,7 +2359,7 @@
     "fields": {
       "name": "Portmann Pierre",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "PierrePortmann"
     }
@@ -2370,7 +2370,7 @@
     "fields": {
       "name": "Sallin Aude",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "Aude012"
     }
@@ -2381,7 +2381,7 @@
     "fields": {
       "name": "Thebti Khalil",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "kthebti"
     }
@@ -2392,7 +2392,7 @@
     "fields": {
       "name": "Vultier Thibaut",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "ThibautVultier"
     }
@@ -2403,7 +2403,7 @@
     "fields": {
       "name": "Genoud Andy",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "AndyGenoud"
     }
@@ -2414,7 +2414,7 @@
     "fields": {
       "name": "Philipona Alain",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "Philipona14"
     }
@@ -2425,7 +2425,7 @@
     "fields": {
       "name": "Egger Benjamin",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "BenjaminEgger2"
     }
@@ -2436,7 +2436,7 @@
     "fields": {
       "name": "Peiry Fabien",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "FR",
       "handle": "FabienPeiry"
     }
@@ -2447,7 +2447,7 @@
     "fields": {
       "name": "Grandjean Loris",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "FR",
       "handle": "LorisGrandjeanD"
     }
@@ -2458,7 +2458,7 @@
     "fields": {
       "name": "Grandjean Anaïs",
       "full_party_name": "Vert'libéraux",
-      "party_name": "Vert'libéraux",
+      "party_key": "lib",
       "canton": "FR",
       "handle": "AnaisGrandjean"
     }
@@ -2469,7 +2469,7 @@
     "fields": {
       "name": "Chardonnens Jean-Daniel",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "JeanChardonnens"
     }
@@ -2480,7 +2480,7 @@
     "fields": {
       "name": "Mesot Roland",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "RolandMESOT"
     }
@@ -2491,7 +2491,7 @@
     "fields": {
       "name": "Schläfli Ruedi",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "ruedischlalfi"
     }
@@ -2502,7 +2502,7 @@
     "fields": {
       "name": "Waeber Emanuel",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "EmanuelWaeber"
     }
@@ -2513,7 +2513,7 @@
     "fields": {
       "name": "Losey Michel",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "FR",
       "handle": "Michellosey"
     }
@@ -2524,7 +2524,7 @@
     "fields": {
       "name": "Glauser Fritz",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "FR",
       "handle": "FritzGlauser"
     }
@@ -2535,7 +2535,7 @@
     "fields": {
       "name": "Gobet Nadine",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "FR",
       "handle": "NadineGobet"
     }
@@ -2546,7 +2546,7 @@
     "fields": {
       "name": "Michellod Savio",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "FR",
       "handle": "SavioMichellod"
     }
@@ -2557,7 +2557,7 @@
     "fields": {
       "name": "Gigandet Yannick",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "FR",
       "handle": "YannickGigandet"
     }
@@ -2568,7 +2568,7 @@
     "fields": {
       "name": "Meylan Joël",
       "full_party_name": "Jeunes PBD",
-      "party_name": "PBD",
+      "party_key": "pbd",
       "canton": "FR",
       "handle": "JoelMeylan"
     }
@@ -2579,7 +2579,7 @@
     "fields": {
       "name": "Kubski Grégoire",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "GKubski"
     }
@@ -2590,7 +2590,7 @@
     "fields": {
       "name": "Zurich Simon",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "simonzurich"
     }
@@ -2601,7 +2601,7 @@
     "fields": {
       "name": "Loup Matthieu",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "Matthieu_Loup"
     }
@@ -2612,7 +2612,7 @@
     "fields": {
       "name": "Correia Mélanie",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "FR",
       "handle": "MlanieCorreia"
     }
@@ -2623,7 +2623,7 @@
     "fields": {
       "name": "Marchand Anthony",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "MarchandAntho"
     }
@@ -2634,7 +2634,7 @@
     "fields": {
       "name": "Mages Dimitri",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "DimMages"
     }
@@ -2645,7 +2645,7 @@
     "fields": {
       "name": "Kolly Sébastien",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "FR",
       "handle": "SebastienKolly"
     }
@@ -2656,7 +2656,7 @@
     "fields": {
       "name": "Bardet Nicole",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "FR",
       "handle": "nicole_bardet"
     }
@@ -2667,7 +2667,7 @@
     "fields": {
       "name": "Pasquier Nicolas",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "FR",
       "handle": "pasquier_n"
     }
@@ -2678,7 +2678,7 @@
     "fields": {
       "name": "Messer Marc Antoine",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "FR",
       "handle": "messervert"
     }
@@ -2689,7 +2689,7 @@
     "fields": {
       "name": "Bonvin-Sansonnens Sylvie",
       "full_party_name": "Les Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "FR",
       "handle": "SylvieBonvin"
     }
@@ -2700,7 +2700,7 @@
     "fields": {
       "name": "Buttet Yannick",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "ybuttet"
     }
@@ -2711,7 +2711,7 @@
     "fields": {
       "name": "Marchand-Balet Géraldine",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "GMarchand_Balet"
     }
@@ -2722,7 +2722,7 @@
     "fields": {
       "name": "Roduit Benjamin",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "roduitbenjamin"
     }
@@ -2733,7 +2733,7 @@
     "fields": {
       "name": "Lovisa Blaise",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "blaise_lovisa"
     }
@@ -2744,7 +2744,7 @@
     "fields": {
       "name": "Fournier Jean-René",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "JR_Fournier"
     }
@@ -2755,7 +2755,7 @@
     "fields": {
       "name": "Salamin Jean-Pierre",
       "full_party_name": "PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "SalaminJean"
     }
@@ -2766,7 +2766,7 @@
     "fields": {
       "name": "Rittmann Médéric",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "mederiton"
     }
@@ -2777,7 +2777,7 @@
     "fields": {
       "name": "Rossier Sven",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "svenrossier"
     }
@@ -2788,7 +2788,7 @@
     "fields": {
       "name": "Melly Nicolas",
       "full_party_name": "Jeunes PDC",
-      "party_name": "PDC",
+      "party_key": "pdc",
       "canton": "VS",
       "handle": "nmy1986"
     }
@@ -2799,7 +2799,7 @@
     "fields": {
       "name": "Reynard Mathias",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "MathiasReynard"
     }
@@ -2810,7 +2810,7 @@
     "fields": {
       "name": "Lanthemann Barbara",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "BLanthemann"
     }
@@ -2821,7 +2821,7 @@
     "fields": {
       "name": "Bourgeois Gaël",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "gaelbourgeois"
     }
@@ -2832,7 +2832,7 @@
     "fields": {
       "name": "Salamin Olivier",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "OlivierSalamin"
     }
@@ -2843,7 +2843,7 @@
     "fields": {
       "name": "Burgener Thomas",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "ThBurgener"
     }
@@ -2854,7 +2854,7 @@
     "fields": {
       "name": "Ibrahim Perruchoud Rima",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "RimaPerruchoud"
     }
@@ -2865,7 +2865,7 @@
     "fields": {
       "name": "Nouchi Frédéric",
       "full_party_name": "PS",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "frederic_nouchi"
     }
@@ -2876,7 +2876,7 @@
     "fields": {
       "name": "Glassey Gauthier",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "GauthierGlassey"
     }
@@ -2887,7 +2887,7 @@
     "fields": {
       "name": "Aymon Valentin",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "ValentinAymon"
     }
@@ -2898,7 +2898,7 @@
     "fields": {
       "name": "Ribordy Gael",
       "full_party_name": "JUSO",
-      "party_name": "PS",
+      "party_key": "ps",
       "canton": "VS",
       "handle": "Gaelribordy"
     }
@@ -2909,7 +2909,7 @@
     "fields": {
       "name": "Lugon Céline",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VS",
       "handle": "Pensee_verte"
     }
@@ -2920,7 +2920,7 @@
     "fields": {
       "name": "Mascitti Aurelian",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VS",
       "handle": "aurel_mascitti"
     }
@@ -2931,7 +2931,7 @@
     "fields": {
       "name": "Clerc Mathieu",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VS",
       "handle": "ClercMat"
     }
@@ -2942,7 +2942,7 @@
     "fields": {
       "name": "Savioz Jérémy",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VS",
       "handle": "J_Savioz"
     }
@@ -2953,7 +2953,7 @@
     "fields": {
       "name": "Bodoira Cédric",
       "full_party_name": "Jeunes Verts",
-      "party_name": "Les Verts",
+      "party_key": "gre",
       "canton": "VS",
       "handle": "ced_89"
     }
@@ -2964,7 +2964,7 @@
     "fields": {
       "name": "Kündig Stoessel Iris",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "iris_kndig"
     }
@@ -2975,7 +2975,7 @@
     "fields": {
       "name": "Nantermod Philippe",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "nantermod"
     }
@@ -2986,7 +2986,7 @@
     "fields": {
       "name": "Riesen Vincent",
       "full_party_name": "PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "vincentriesen"
     }
@@ -2997,7 +2997,7 @@
     "fields": {
       "name": "Avanesiani Artémis",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "avanesiani"
     }
@@ -3008,7 +3008,7 @@
     "fields": {
       "name": "Birbaum Thomas",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "thomas_birbaum"
     }
@@ -3019,7 +3019,7 @@
     "fields": {
       "name": "Aubin Kévin",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "BinUnited"
     }
@@ -3030,7 +3030,7 @@
     "fields": {
       "name": "Puippe David",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "david_puippe"
     }
@@ -3041,7 +3041,7 @@
     "fields": {
       "name": "Balma Théophile",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "TheophileBalma"
     }
@@ -3052,7 +3052,7 @@
     "fields": {
       "name": "Siggen Kilian",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "SiggenK"
     }
@@ -3063,7 +3063,7 @@
     "fields": {
       "name": "Jollien Frédéric",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "JollienF"
     }
@@ -3074,7 +3074,7 @@
     "fields": {
       "name": "Carruzzo Mathieu",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "mcarruzzo"
     }
@@ -3085,7 +3085,7 @@
     "fields": {
       "name": "Mayor Noémie",
       "full_party_name": "Jeunes PLR",
-      "party_name": "PLR",
+      "party_key": "plr",
       "canton": "VS",
       "handle": "MayorNoemie"
     }
@@ -3096,7 +3096,7 @@
     "fields": {
       "name": "Addor Jean-Luc",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "udcvr64"
     }
@@ -3107,7 +3107,7 @@
     "fields": {
       "name": "Garcia Ilan",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "IlanGarcia"
     }
@@ -3118,7 +3118,7 @@
     "fields": {
       "name": "Logean Grégory",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "GregoryLogean"
     }
@@ -3129,7 +3129,7 @@
     "fields": {
       "name": "Reichen Nadine",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "NadineReichen"
     }
@@ -3140,7 +3140,7 @@
     "fields": {
       "name": "Desmeules Jérôme",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "desmeulesj"
     }
@@ -3151,7 +3151,7 @@
     "fields": {
       "name": "Pellouchoud Kevin",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "KevPellouchoud"
     }
@@ -3162,7 +3162,7 @@
     "fields": {
       "name": "Lips Aïda",
       "full_party_name": "UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "aida_lips"
     }
@@ -3173,7 +3173,7 @@
     "fields": {
       "name": "Barben Simon",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "SimonBarben"
     }
@@ -3184,7 +3184,7 @@
     "fields": {
       "name": "Reist Martin",
       "full_party_name": "Jeunes UDC",
-      "party_name": "UDC",
+      "party_key": "udc",
       "canton": "VS",
       "handle": "Mart_INNNN"
     }
