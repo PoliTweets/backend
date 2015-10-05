@@ -50,6 +50,7 @@ def index(request):
                         "tweet": tweet,
                         "candidate": candidate,
                         "index": index,
+                        "total": NUMBER_OF_TWEETS_PER_SESSION,
                         "party_name_key": party_name_key}
 
         return render_to_response('politweets/index.html', context_dict, context)
