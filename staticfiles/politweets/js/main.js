@@ -1,12 +1,11 @@
- $(document).ready(function () {
+$(document).ready(function () {
     $("input:radio").change(function () {
-        console.log($('input:radio[name=type]:checked').val());
-        console.log($('#party_name_key').val());
-        if ($('input:radio[name=type]:checked').val() == $('#party_name_key').val()) {
-            alert('OK');
-            //$('#select-table > .roomNumber').attr('enabled',false);
-        } else {
-            alert('NO OK');
-        }
+        var correct_answer = $('#party_key').val(); // Correct answer is placed in hidden input at this stage.
+        var answer = $('input:radio:checked').val(); // Get answer
+        $('#party_key').val(answer); // Replace correct answer with current one in hidden form input.
+
+        $('input:radio').attr("disabled",true);
+        $('#correct_answer').show();
+        $('#nextButton').show();
     });
 });

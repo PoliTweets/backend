@@ -100,7 +100,7 @@ USE_TZ = True
 
 
 STATIC_ROOT = 'staticfiles'
-STATIC_URL = '/politweets/static/'
+STATIC_URL = '/static/'
 
 STATIC_PATH = os.path.join(PROJECT_PATH, 'static')
 STATICFILES_DIRS = (
