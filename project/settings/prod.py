@@ -17,7 +17,7 @@ DATABASES = {
         'ENGINE':'django.db.backends.mysql',
         'NAME': 'politweets',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '',
         'USER': 'politweets',
         'PASSWORD': 'CnOZZVQGR4HT',
         'OPTIONS': {'charset': 'utf8mb4'}
