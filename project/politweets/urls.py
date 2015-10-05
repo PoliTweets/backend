@@ -5,5 +5,5 @@ from django.conf.urls import url
 from project.politweets import views
 
 urlpatterns = patterns('',
-    url(r'^$', views.index, name='index'),
+    url(r'^politweets$', views.index, name='index'),
 )
