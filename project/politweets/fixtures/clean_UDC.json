@@ -114,7 +114,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "YohanZiehli",
-      "text": "Les fachos sont de retour. Vêtus de rouge et de noir" ,
+      "text": "Les fachos sont de retour. Vêtus de rouge et de noir",
       "date": "2015-08-18T15:19:52+00:00",
       "tweet_id": "633659583668617217"
     }

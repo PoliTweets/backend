@@ -144,7 +144,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "rebecca_joly",
-      "text": "Ok de laisser les proprio abuser sauf si à la charge de l'Etat? Non! »,
+      "text": "Ok de laisser les proprio abuser sauf si à la charge de l'Etat? Non!",
       "date": "2015-08-24T13:34:08+00:00",
       "tweet_id": "635807304919687168"
     }

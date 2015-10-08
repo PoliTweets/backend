@@ -174,7 +174,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DdeBuman",
-      "text": "Motion 12.3914 sur l'égalité des langues nationales dans les appels d'offres ACCEPTÉE aux États. Un peu plus d'économie de marché à la Confédération. »,
+      "text": "Motion 12.3914 sur l'égalité des langues nationales dans les appels d'offres ACCEPTÉE aux États. Un peu plus d'économie de marché à la Confédération.",
       "date": "2015-06-18T09:52:41+00:00",
       "tweet_id": "611471584696619008"
     }
@@ -218,7 +218,7 @@
       "date": "2015-07-06T14:42:31+00:00",
       "tweet_id": "618067507673477120"
     }
-  }
+  },
   {
     "pk": null,
     "model": "politweets.tweet",

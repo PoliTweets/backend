@@ -214,7 +214,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LudoBliesener",
-      "text": "Crise du CHF: Pourquoi revendre ses euros alors que c'est exactement ce qu'il ne faut pas faire ?",
+      "text": "Crise du CHF: Pourquoi revendre ses euros alors que c'est exactement ce qu'il ne faut pas faire ?",
       "date": "2015-01-16T09:41:13+00:00",
       "tweet_id": "556023359054815232"
     }
