@@ -14,7 +14,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "NordmannRoger",
-      "text": "L'excellent CEO de @swissgridag poussé à la porte par les manoeuvres de BKW pour avoir le pouvoir (et chasser les romands). Scandaleux !",
+      "text": "L'excellent CEO de Swissgrid poussé à la porte par les manoeuvres de BKW pour avoir le pouvoir (et chasser les romands). Scandaleux !",
       "date": "2015-09-04T04:58:26+00:00",
       "tweet_id": "639663789542129664"
     }
@@ -24,7 +24,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "NordmannRoger",
-      "text": "Enfin un article objectif sur le hold-up de BKW sur swissgrid,  en page 8 de l'édition papier du @tagesanzeiger. 1% @ CH-R,  42 % à Berne ?",
+      "text": "Enfin un article objectif sur le hold-up de BKW sur swissgrid, en page 8 de l'édition papier du Tages Anzeiger. 1% en CH-R,  42 % à Berne ?",
       "date": "2015-08-27T06:04:38+00:00",
       "tweet_id": "636781344765444096"
     }
@@ -74,7 +74,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "jcschwaab",
-      "text": "Le commerce extérieur avec l'Allemagne en forte chute: merci le #FrancFort et le vote du #9février.",
+      "text": "Le commerce extérieur avec l'Allemagne en forte chute: merci le franc fort et le vote du 9 février.",
       "date": "2015-08-28T06:23:45+00:00",
       "tweet_id": "637148545246629888"
     }
@@ -84,7 +84,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CeslaAmarelle",
-      "text": "La crise des réfugiés creuse entre des pays com l'Italie et la France un fossé qui ne devrait pas exister.La relocalisation est indipensable",
+      "text": "La crise des réfugiés creuse entre des pays com l'Italie et la France un fossé qui ne devrait pas exister. La relocalisation est indispensable",
       "date": "2015-06-17T13:33:14+00:00",
       "tweet_id": "611164701314187264"
     }
@@ -94,7 +94,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CeslaAmarelle",
-      "text": "25 ans après la chute du Mur, la Hongrie, la Pologne et la Tchéquie ont déjà oublié ce qu'être un dissident veut dire #EUWakeUp #migration",
+      "text": "25 ans après la chute du Mur, la Hongrie, la Pologne et la Tchéquie ont déjà oublié ce qu'être un dissident veut dire",
       "date": "2015-05-20T14:18:51+00:00",
       "tweet_id": "601029321071927296"
     }
@@ -124,7 +124,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "reb_ruiz",
-      "text": "Il faudra toutefois encore se battre pour enregistrer de manière rétroactive les armes en circulation. #ParlCH",
+      "text": "Il faudra toutefois encore se battre pour enregistrer de manière rétroactive les armes en circulation.",
       "date": "2015-05-05T07:54:12+00:00",
       "tweet_id": "595496704109056000"
     }
@@ -144,7 +144,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CarloSommaruga",
-      "text": "Conclusions UE sur résultat du référendum #Grece sont connues: Si NON, le référendum n'était pas démocratique. Si OUI la démocratie à gagné!",
+      "text": "Conclusions UE sur résultat du référendum en Grèce sont connues: Si NON, le référendum n'était pas démocratique. Si OUI la démocratie à gagné!",
       "date": "2015-07-03T08:10:32+00:00",
       "tweet_id": "616881697808736256"
     }
@@ -154,7 +154,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ManuelTornare",
-      "text": "Congrès des Suisses de l'étranger: l'UDC tente de squatter les lieux ( salles et stand trottoir) : flop, flop, flop!",
+      "text": "Congrès des Suisses de l'étranger: l'UDC tente de squatter les lieux (salles et stand trottoir) : flop, flop, flop!",
       "date": "2015-08-15T07:01:16+00:00",
       "tweet_id": "632446945534078976"
     }
@@ -164,7 +164,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ManuelTornare",
-      "text": "Armée CH:\naprès avoir perdu la bataille des airs#Grippen,\nelle pompe de l'eau pour des vaches,en puisant dans un lac français sans demander!",
+      "text": "Armée CH:\naprès avoir perdu la bataille des airs (Gripen),\nelle pompe de l'eau pour des vaches,en puisant dans un lac français sans demander!",
       "date": "2015-07-27T18:16:18+00:00",
       "tweet_id": "625731450755776512"
     }
@@ -204,7 +204,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "thtanquerel",
-      "text": "Election UK, une catastrophe pour l'Europe et les droits de l'homme. Les conservateurs veulent abroger le #HumanRightsAct #RoyaumeUni",
+      "text": "Election UK, une catastrophe pour l'Europe et les droits de l'homme. Les conservateurs veulent abroger le HumanRightsAct",
       "date": "2015-05-08T08:17:09+00:00",
       "tweet_id": "596589641438011392"
     }
@@ -214,7 +214,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "PierreMauron",
-      "text": "Malheureusement ces baisses du prix du pétrole, par cons. de l'huile de chauffage, ne font jamais diminuer les charges des locataires #enLD",
+      "text": "Malheureusement ces baisses du prix du pétrole, par cons. de l'huile de chauffage, ne font jamais diminuer les charges des locataires",
       "date": "2015-01-15T07:23:45+00:00",
       "tweet_id": "555626374363635713"
     }
@@ -234,7 +234,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Ballymag",
-      "text": "La chaîne télé publique @ARD_Presse prend position contre le racisme. Et chez nous, on invite Poutine pour la prime time. #justswissthings",
+      "text": "La chaîne télé publique ARD prend position contre le racisme. Et chez nous, on invite Poutine pour la prime time.",
       "date": "2015-08-25T06:19:31+00:00",
       "tweet_id": "636060317450137600"
     }
@@ -244,7 +244,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "gaelbourgeois",
-      "text": "Le #gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation \n\n50 jeunes concernés en Valais !",
+      "text": "Le gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation 🎉\n\n50 jeunes concernés en Valais !",
       "date": "2015-06-12T09:05:52+00:00",
       "tweet_id": "609285476718125056"
     }
@@ -254,7 +254,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CharlottGabriel",
-      "text": "Obamacare, mariage gay, marée noire : la Cour Suprême US nous donne une flopée de sujets possibles pour l'exa de droit américain! #progres",
+      "text": "Obamacare, mariage gay, marée noire : la Cour Suprême US nous donne une flopée de sujets possibles pour l'exa de droit américain!",
       "date": "2015-06-29T21:03:22+00:00",
       "tweet_id": "615626634092261376"
     }
@@ -264,7 +264,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "jrilliet",
-      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis… #EF2015",
+      "text": "113 femmes et 214 hommes sont candidat-e-s au national; la parité en politique c'est pas encore dans tous les partis…",
       "date": "2015-08-17T12:55:49+00:00",
       "tweet_id": "633260946098651136"
     }
@@ -287,6 +287,16 @@
       "text": "Initiative PDC, jugement récent du TF, et j'en passe. Triste Suisse en ce beau jour pour l'égalité. Bravo l'Irlande !",
       "date": "2015-05-23T15:06:12+00:00",
       "tweet_id": "602128399860166656"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CamilleCantone",
+      "text": "\"Les situations ne sont pas figées et les personnes ne sont pas condamnées à vivre à la rue\"",
+      "date": "2015-04-30T11:35:58+00:00",
+      "tweet_id": "593740573330276352"
     }
   }
 ]

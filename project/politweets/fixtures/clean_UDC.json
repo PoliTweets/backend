@@ -14,7 +14,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "cedricweissert",
-      "text": "Lausanne n'est plus la ville qu'elle était il y a encore quelques années. La violence ne fait qu'augmenter… »",
+      "text": "Lausanne n'est plus la ville qu'elle était il y a encore quelques années. La violence ne fait qu'augmenter… ",
       "date": "2015-07-10T08:42:08+00:00",
       "tweet_id": "619426365251678208"
     }
@@ -24,7 +24,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "YvesNidegger",
-      "text": "Seul comme un neurone dans un congrès du PS... La migration n'es pas une affaire de bons sentiments.",
+      "text": "Seul comme un neurone dans un congrès du PS... La migration n'est pas une affaire de bons sentiments.",
       "date": "2015-08-24T14:01:20+00:00",
       "tweet_id": "635814148182556672"
     }
@@ -63,10 +63,10 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "Buehler4Bern",
-      "text": "Scène de cauchemar vue a Villerert BE: on gratte les pare-brise !!! #réchauffement climatique 😂",
-      "date": "2015-05-22T04:37:11+00:00",
-      "tweet_id": "601607716658896896"
+      "handle": "YohanZiehli",
+      "text": "Pendant ce temps, au Botswana, un candidat quitte le #BDP pour rejoindre l'#UDC. Un signe en vue des élections?  https://t.co/AAnmaoU5W1",
+      "date": "2015-08-19T09:39:51+00:00",
+      "tweet_id": "633936404746248192"
     }
   },
   {
@@ -84,7 +84,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "ArlettazMarc",
-      "text": "D'après le POP et les Verts, si on fonce contre un mur, il ne faut pas freiner si c'est quelqu'un d'autre qui a mis le mur au chemin! #cgcdf",
+      "text": "D'après le POP et les Verts, si on fonce contre un mur, il ne faut pas freiner si c'est quelqu'un d'autre qui a mis le mur au chemin!",
       "date": "2015-08-25T18:21:52+00:00",
       "tweet_id": "636242103606054912"
     }
@@ -114,7 +114,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "YohanZiehli",
-      "text": "Les fachos sont de retour. Vêtus de rouge et de noir. #antifa",
+      "text": "Les fachos sont de retour. Vêtus de rouge et de noir" ,
       "date": "2015-08-18T15:19:52+00:00",
       "tweet_id": "633659583668617217"
     }
@@ -124,7 +124,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "petitarthur87",
-      "text": "L'extrême gauche veut fusionner le 1er et 2ème pilier ?!? et puis quoi encore ?!? #ForumRTS #AVS #EF2015",
+      "text": "L'extrême gauche veut fusionner le 1er et 2ème pilier ?!? et puis quoi encore ?!?",
       "date": "2015-08-24T16:54:12+00:00",
       "tweet_id": "635857651088367616"
     }
@@ -154,7 +154,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "MarchandAntho",
-      "text": "Permettre à des couples de devenir des parents avant d'être des malades ? Je dis OUI au DPI ! https://t.co/ZLSRkcYgx4 #CHvote",
+      "text": "Permettre à des couples de devenir des parents avant d'être des malades ? Je dis OUI au DPI !",
       "date": "2015-05-30T11:57:22+00:00",
       "tweet_id": "604617594235187201"
     }
@@ -164,7 +164,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DimMages",
-      "text": "Les bourses d'études remplacé par des prêts au Royaume-Uni...mesure intéressante prise par Cameron et le Chancelier Osborne.",
+      "text": "Les bourses d'études remplacées par des prêts au Royaume-Uni...mesure intéressante prise par Cameron et le Chancelier Osborne.",
       "date": "2015-07-08T12:18:43+00:00",
       "tweet_id": "618756093418819584"
     }
@@ -174,7 +174,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "DimMages",
-      "text": "\"Le PS n'est pas contre les patrons.\" On aura tout entendu dans #Faceauxpartis #RTS",
+      "text": "\"Le PS n'est pas contre les patrons.\" On aura tout entendu dans Faceauxpartis",
       "date": "2015-09-01T19:33:44+00:00",
       "tweet_id": "638796902654472192"
     }
@@ -184,7 +184,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "MarchandAntho",
-      "text": "Darbellay dit soutenir la préférence national... C'est bien connu : Pour qu'une girouette tourne, il faut du vent (électoraliste). #ef2015",
+      "text": "Darbellay dit soutenir la préférence nationale… C'est bien connu: Pour qu'une girouette tourne, il faut du vent (électoraliste).",
       "date": "2015-03-07T12:04:52+00:00",
       "tweet_id": "574178899850063872"
     }
@@ -224,7 +224,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "desmeulesj",
-      "text": "Après des pertes massives sur les changes, la #BNS veut se refaire sur les actions...Comme un vulgaire spéculateur!",
+      "text": "Après des pertes massives sur les changes, la BNS veut se refaire sur les actions...Comme un vulgaire spéculateur!",
       "date": "2015-08-09T10:24:09+00:00",
       "tweet_id": "630323673656897536"
     }
@@ -254,7 +254,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "desmeulesj",
-      "text": "Les Grecs ont moins peur de l'Europe que les lavettes qui nous gouvernent en Suisse. Une belle leçon ! #greekreferendum #Grexit",
+      "text": "Les Grecs ont moins peur de l'Europe que les lavettes qui nous gouvernent en Suisse. Une belle leçon !",
       "date": "2015-07-05T18:17:32+00:00",
       "tweet_id": "617759229487783937"
     }
@@ -274,7 +274,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Buehler4Bern",
-      "text": "L'intelligence supérieure de certains grands démocrates séparatistes refait surface http://t.co/NzggxCYrsg",
+      "text": "L'intelligence supérieure de certains grands démocrates séparatistes refait surface",
       "date": "2015-03-13T08:14:47+00:00",
       "tweet_id": "576295325670985729"
     }
@@ -294,7 +294,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "YvesNidegger",
-      "text": "Lundi, le PDC voulait ancrer la famille traditionnelle dans la constitution, vendredi c'est le marriage gay, samedi?",
+      "text": "Lundi, le PDC voulait ancrer la famille traditionnelle dans la constitution, vendredi c'est le mariage gay, samedi?",
       "date": "2015-02-20T20:16:27+00:00",
       "tweet_id": "568866792921292801"
     }

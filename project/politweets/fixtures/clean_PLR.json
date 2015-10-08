@@ -4,7 +4,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "A_Berthoud",
-      "text": "Aujourd'hui, la #Fanfare de #Crissier anime l'Abbaye de Crissier. Les traditions...",
+      "text": "Aujourd'hui, la Fanfare de Crissier anime l'Abbaye de Crissier. Les traditions...",
       "date": "2015-06-28T11:42:24+00:00",
       "tweet_id": "615123077974896640"
     }
@@ -44,7 +44,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "FlorenceGross",
-      "text": "Pour @jcschwaab les héritiers ne fournissent aucun effort. Et les profiteurs de l'aide sociale, ils en font des efforts ?",
+      "text": "Pour J-C. Schwaab les héritiers ne fournissent aucun effort. Et les profiteurs de l'aide sociale, ils en font des efforts ?",
       "date": "2015-05-20T18:25:19+00:00",
       "tweet_id": "601091344954699776"
     }
@@ -54,7 +54,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "AnneGuyaz",
-      "text": "Il faut agir à la fois sur le #9fév et sur la #Fiscalité des entreprises.",
+      "text": "Il faut agir à la fois sur le 9 février et sur la fiscalité des entreprises.",
       "date": "2015-05-12T08:12:03+00:00",
       "tweet_id": "598037911897042944"
     }
@@ -84,7 +84,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "VincentArlettaz",
-      "text": "La vision de la @JSVaud pour l'avenir ? Le nivellement par le bas et la médiocrité pour tous",
+      "text": "La vision de la JS Vaud pour l'avenir ? Le nivellement par le bas et la médiocrité pour tous",
       "date": "2015-09-02T15:30:15+00:00",
       "tweet_id": "639098015916142592"
     }
@@ -104,7 +104,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "hklunge",
-      "text": "Est-ce que @ClaudeBegle est au courant que l'affichage sauvage est interdit dans la @communelausanne ?",
+      "text": "Est-ce que Claude Béglé est au courant que l'affichage sauvage est interdit dans la commune de Lausanne ?",
       "date": "2015-08-22T21:02:15+00:00",
       "tweet_id": "635195301448564741"
     }
@@ -114,7 +114,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "hklunge",
-      "text": "L' #UDC-VD à 50 ans de retard dans ces idées. Pas étonnant qu'ils ne sachent même pas utiliser un dictaphone...",
+      "text": "L'UDC-VD à 50 ans de retard dans ces idées. Pas étonnant qu'ils ne sachent même pas utiliser un dictaphone...",
       "date": "2015-07-26T16:55:14+00:00",
       "tweet_id": "625348662579830785"
     }
@@ -174,7 +174,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LudoBliesener",
-      "text": "Les gens prônent le #DehorsMerkel mais elle a juste défendu les peuples créanciers (car oui c'est leur argent qui est donné) de la Grèce...",
+      "text": "Les gens prônent le Dehors Merkel mais elle a juste défendu les peuples créanciers (car oui c'est leur argent qui est donné) de la Grèce...",
       "date": "2015-07-14T10:51:52+00:00",
       "tweet_id": "620908563519676416"
     }
@@ -204,9 +204,109 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Michele__Barone",
-      "text": "2 raisons de rejeter l'iniative du @CVP_PDC : OUI à une imposition individuelle et NON à une définition constitutionnelle du mariage #CHvote",
+      "text": "2 raisons de rejeter l'initiative du PDC : OUI à une imposition individuelle et NON à une définition constitutionnelle du mariage",
       "date": "2015-06-16T12:25:45+00:00",
       "tweet_id": "610785331563114496"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "LudoBliesener",
+      "text": "Crise du CHF: Pourquoi revendre ses euros alors que c'est exactement ce qu'il ne faut pas faire ?",
+      "date": "2015-01-16T09:41:13+00:00",
+      "tweet_id": "556023359054815232"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "VictorBraune",
+      "text": "Notre prospérité est pas éternelle. OUI aux bilatérales, OUI à conditions-cadres compétitives!",
+      "date": "2015-08-27T06:30:11+00:00",
+      "tweet_id": "636787776957059072"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "VictorBraune",
+      "text": "Ueli Maurer intervient en faveur de Blatter: au nom de quoi un CF prend-il position pour une nomination de ce genre?",
+      "date": "2015-05-28T15:08:11+00:00",
+      "tweet_id": "603940839803527168"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Ma_Bernhard",
+      "text": "Le terrorisme : l'arme des lâches !",
+      "date": "2015-01-09T20:40:59+00:00",
+      "tweet_id": "553652678031859712"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "laurineJoCH",
+      "text": "La gauche radicale critique la globalisation, le libéralisme et les patrons. Mais n'est-ce pas eux qui offrent des emplois",
+      "date": "2015-08-27T07:46:13+00:00",
+      "tweet_id": "636806912051388416"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "laurineJoCH",
+      "text": "Quand le PS veut la peau des \"riches\", il sort la carte de l'AVS. Elle a bon dos cette AVS. Et celui des PME se courbe.",
+      "date": "2015-05-20T18:43:54+00:00",
+      "tweet_id": "601096021972758528"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PaolaMhl",
+      "text": "Le financement des entreprises en Suisse se heurte aux difficultés qu'elles ont à grandir et à durer",
+      "date": "2015-05-12T09:34:02+00:00",
+      "tweet_id": "598058540582973440"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "hhiltpold",
+      "text": "Résidences secondaires, le débat continue au National. C’est fou cette haine du chalet qu'ont certains élus…",
+      "date": "2015-03-04T08:04:50+00:00",
+      "tweet_id": "573031331686428672"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RolinWavre",
+      "text": "Terrible ce que le pouvoir isole et fait perdre le sens des réalités. Blatter devrait se retirer. Il est devenu un problème pour la Suisse.",
+      "date": "2015-05-30T08:06:38+00:00",
+      "tweet_id": "604559530626809856"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "RolinWavre",
+      "text": "Même après la hausse du Franc suisse, je n'irai pas faire d'achats en France. Je vis à Genève, j'achète à Genève. Notre commerce doit vivre.",
+      "date": "2015-01-17T13:45:53+00:00",
+      "tweet_id": "556447317105311744"
     }
   }
 ]

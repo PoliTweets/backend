@@ -4,7 +4,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "On a mis 60 milliards pour sauver les banques, que va faire la Suisse pour éviter l'accident nucléaire? #EF2015",
+      "text": "On a mis 60 milliards pour sauver les banques, que va faire la Suisse pour éviter l'accident nucléaire?",
       "date": "2015-09-04T09:09:20+00:00",
       "tweet_id": "639726932184170496"
     }
@@ -13,18 +13,17 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "#skyfood dégustation de ver à soie frit, on aurait dit de la pomme de terre, c'était excellent. http://t.co/Gn9ME6rJoG",
-      "date": "2015-09-03T13:17:29+00:00",
-      "tweet_id": "639426993495404544"
+      "handle": "Mikedupertuis",
+      "text": "Opportunité des Taux Négatifs: cautionnons nos PME, développons notre économie!",
+      "date": "2015-07-31T12:45:44+00:00",
+      "tweet_id": "627097812392628225"
     }
-  },
-  {
+  },  {
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "Tournant énergétique: le vent souffle et son énergie n’est pas utilisée – Le Temps http://t.co/64d6ZUS90s",
+      "text": "Tournant énergétique: le vent souffle et son énergie n’est pas utilisée",
       "date": "2015-09-02T05:19:04+00:00",
       "tweet_id": "638944206820519936"
     }
@@ -33,10 +32,10 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "«Beaucoup de gens seront tristes sans les éléphants» – 24heures.ch http://t.co/tUHtR1Xom4",
-      "date": "2015-08-13T10:04:07+00:00",
-      "tweet_id": "631768182487781376"
+      "handle": "LorisGrandjeanD",
+      "text": "RTS Infrarouge: Yannick Buttet un grand démocrate ? Un grand rétrograde ouais. Moyen-Age SALUT !",
+      "date": "2015-03-31T20:59:01+00:00",
+      "tweet_id": "583010634163445760"
     }
   },
   {
@@ -44,7 +43,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "Deux voisins d'éoliennes qui vivent très bien à côté de ces machines http://t.co/j0p2bIceRM",
+      "text": "Deux voisins d'éoliennes qui vivent très bien à côté de ces machines",
       "date": "2015-07-06T13:58:14+00:00",
       "tweet_id": "618056363873300480"
     }
@@ -54,7 +53,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#büpf imaginer que nos autorités ont les moyens humains et financiers de tous nous écouter, c'est franchement surestimer nos autorités.",
+      "text": "Imaginer que nos autorités ont les moyens humains et financiers de tous nous écouter, c'est franchement surestimer nos autorités.",
       "date": "2015-06-17T13:56:34+00:00",
       "tweet_id": "611170574828748800"
     }
@@ -64,7 +63,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "Magnifique vue sur des panneaux solaires et un château depuis le lac des 4 cantons ! http://t.co/dvjkf5O6fA",
+      "text": "Magnifique vue sur des panneaux solaires et un château depuis le lac des 4 cantons !",
       "date": "2015-06-10T14:26:42+00:00",
       "tweet_id": "608641441481523200"
     }
@@ -74,7 +73,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#parl l'UDC refuse le parc suisse d'innovation, après le 9 février ils continuent d'affaiblir notre économie. Une politique d'avenir!",
+      "text": "L’UDC refuse le parc suisse d'innovation, après le 9 février ils continuent d'affaiblir notre économie. Une politique d'avenir!",
       "date": "2015-06-08T19:28:52+00:00",
       "tweet_id": "607992708687400960"
     }
@@ -84,7 +83,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#Gotthard l'UDC qui d'habitude lutte contre l'Europe préfère investir 4 miards pour les vacanciers européens plutôt que pour les suisses ...",
+      "text": "Gotthard: l'UDC qui d'habitude lutte contre l'Europe préfère investir 4 milliards pour les vacanciers européens plutôt que pour les suisses ...",
       "date": "2015-06-08T09:34:07+00:00",
       "tweet_id": "607843035469225984"
     }
@@ -94,7 +93,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#parlCH on doit bien déclarer les chiens y compris les chihuahuas pourquoi pas les armes ?",
+      "text": "On doit bien déclarer les chiens y compris les chihuahuas pourquoi pas les armes ?",
       "date": "2015-05-05T07:40:07+00:00",
       "tweet_id": "595493158303211520"
     }
@@ -104,7 +103,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#parlCH ces fusils militaires qui servent à protéger la population ne doivent pas se retourner contre cette même population!",
+      "text": "Ces fusils militaires qui servent à protéger la population ne doivent pas se retourner contre cette même population!",
       "date": "2015-05-05T07:16:40+00:00",
       "tweet_id": "595487258360287232"
     }
@@ -113,10 +112,10 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "#parlCH il est normal qu'un ancien militaire doive enregistrer son fusil. Où est le problème ? Pourquoi les cacher ?",
-      "date": "2015-05-05T07:13:05+00:00",
-      "tweet_id": "595486353950908416"
+      "handle": "AlexPeyraud",
+      "text": "Malgré les barrières dogmatiques de certains partis et associations, la LDTR à Genève ENFIN modifiée pour libérer plus de logement!",
+      "date": "2015-06-14T12:47:34+00:00",
+      "tweet_id": "610066045571854336"
     }
   },
   {
@@ -124,7 +123,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#parlCH mais pourquoi l'UDC refuse de vouloir enregistrer les armes dans ce pays? Ils ont un arsenal à cacher?",
+      "text": "Mais pourquoi l'UDC refuse de vouloir enregistrer les armes dans ce pays? Ils ont un arsenal à cacher?",
       "date": "2015-05-05T07:08:36+00:00",
       "tweet_id": "595485229214728192"
     }
@@ -134,7 +133,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#ParlCH pour l'UDC le protocole de Kyoto nuit aux emplois, c'est vrai que les futurs désastres climatiques vont créer pleins d'emploi ...",
+      "text": "Pour l'UDC le protocole de Kyoto nuit aux emplois, c'est vrai que les futurs désastres climatiques vont créer pleins d'emploi ...",
       "date": "2015-03-19T15:00:46+00:00",
       "tweet_id": "578571823824183296"
     }
@@ -143,28 +142,27 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "#parlCH l'homme est un loup pour ... le loup",
-      "date": "2015-03-12T08:03:49+00:00",
-      "tweet_id": "575930180490887168"
+      "handle": "isfpo",
+      "text": "Les allocations sont payés par l'employeur...c'est donc un revenu, pourquoi l'exclure?",
+      "date": "2015-02-19T17:19:31+00:00",
+      "tweet_id": "568459878056009728"
     }
   },
   {
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "#parlCH par leurs négligeances les éleveurs laissent mourrir 4000 moutons par année, le loup en tue 200 mais le responsable c'est le loup!",
-      "date": "2015-03-12T08:02:12+00:00",
-      "tweet_id": "575929770917130243"
+      "handle": "isfpo",
+      "text": "Le FMI parle de passer a une taxation écologique...pour une fois soyons les premiers",
+      "date": "2015-02-19T19:31:39+00:00",
+      "tweet_id": "568493131550879744"
     }
-  },
-  {
+  },  {
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#parlCH 4000 moutons morts à cause du froid de la faim de maladie ou tombe dans les ravins. Le loup en mange 200. Où est le problème ?",
+      "text": "4000 moutons morts à cause du froid de la faim de maladie ou tombe dans les ravins. Le loup en mange 200. Où est le problème ?",
       "date": "2015-03-12T07:56:46+00:00",
       "tweet_id": "575928404656193536"
     }
@@ -174,7 +172,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#sexauparlement ne pas apprendre aux jeunes enfants où sont les limites c'est être complice des actes pédophiles commis au sein de la famille ",
+      "text": "Sexauparlement: ne pas apprendre aux jeunes enfants où sont les limites c'est être complice des actes pédophiles commis au sein de la famille ",
       "date": "2015-03-04T17:04:19+00:00",
       "tweet_id": "573167098450587648"
     }
@@ -184,7 +182,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "I_Chevalley",
-      "text": "#sexauparlement c'est sur que de mettre un préservatif sur une banane c'est traumatisant, Boko Haram devrait s'en inspirer!",
+      "text": "Sexauparlement: c'est sur que de mettre un préservatif sur une banane c'est traumatisant, Boko Haram devrait s'en inspirer!",
       "date": "2015-03-04T15:38:38+00:00",
       "tweet_id": "573145533444972544"
     }
@@ -193,18 +191,18 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "I_Chevalley",
-      "text": "#sexauparlement ... On fera une salade de fruit pour le dessert à la cantine mais en ayant coupé les bananes auparavant sinon c'est choquant",
-      "date": "2015-03-04T14:35:47+00:00",
-      "tweet_id": "573129717466976256"
+      "handle": "isfpo",
+      "text": "Ce n'est pas la planète que nous cherchons à sauver, mais bien l'environnement qui nous permet de vivre!",
+      "date": "2015-08-18T08:58:16+00:00",
+      "tweet_id": "633563551152607232"
     }
-  },
+  },  
   {
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "#Belmont: CHF 800 millions prévus pour aménager une 3ème voie? Insensé! Signons la pétition de l'ATE #EF2015 http://t.co/Gu5I1YeCtq",
+      "text": "Belmont: CHF 800 millions prévus pour aménager une 3ème voie? Insensé! Signons la pétition de l'ATE",
       "date": "2015-08-26T12:07:59+00:00",
       "tweet_id": "636510399756677120"
     }
@@ -214,7 +212,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "La société suisse évolue! Il devient urgent d'y répondre en acceptant le congé paternité! #EF2015 http://t.co/b5gleq3JhK",
+      "text": "La société suisse évolue! Il devient urgent d'y répondre en acceptant le congé paternité!",
       "date": "2015-08-24T06:02:04+00:00",
       "tweet_id": "635693537040965632"
     }
@@ -234,7 +232,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "Viser la transition énergétique et non la fermeture des frontières comme prôné par #EcoPop http://t.co/2UGSQvGVDF #EF2015",
+      "text": "Viser la transition énergétique et non la fermeture des frontières comme prôné par EcoPop",
       "date": "2015-07-24T13:16:14+00:00",
       "tweet_id": "624568773211766784"
     }
@@ -244,7 +242,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "Et vous, jusqu'à quand pensez-vous que la centrale #nucléaire de Mühleberg tiendra? #EF2015\nhttp://t.co/CefDHTD5G1",
+      "text": "Et vous, jusqu'à quand pensez-vous que la centrale nucléaire de Mühleberg tiendra?",
       "date": "2015-07-06T16:03:05+00:00",
       "tweet_id": "618087783446482944"
     }
@@ -254,7 +252,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "Heureux d'avoir pu contribuer à soutenir un projet d'autonomie électrique dans ma commune de Bex https://t.co/6MdYHBAa0e #solaire #énergie",
+      "text": "Heureux d'avoir pu contribuer à soutenir un projet d'autonomie électrique dans ma commune de Bex",
       "date": "2015-06-26T08:06:54+00:00",
       "tweet_id": "614344068269764608"
     }
@@ -264,7 +262,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "Marche contre #Mosanto, la jeunesse compte sur nous! #STOPOGM http://t.co/b90UCbzRYi",
+      "text": "Marche contre Monsanto, la jeunesse compte sur nous!",
       "date": "2015-05-25T07:58:28+00:00",
       "tweet_id": "602745535217455104"
     }
@@ -274,7 +272,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Mikedupertuis",
-      "text": "Je suis pour un service obligatoire! Mais un service obligatoire CIVIQUE où chaque citoyen pourra choisir sa manière de contribuer #enld",
+      "text": "Je suis pour un service obligatoire! Mais un service obligatoire CIVIQUE où chaque citoyen pourra choisir sa manière de contribuer",
       "date": "2015-05-05T14:26:09+00:00",
       "tweet_id": "595595341875019776"
     }
@@ -284,7 +282,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LSeydoux",
-      "text": "Je suis POUR la DIFFÉRENCE, la différence UNIE. #differenceunie #JeSuisCharlie http://t.co/kmajpWXNg0",
+      "text": "Je suis POUR la DIFFÉRENCE, la différence UNIE.",
       "date": "2015-01-11T14:43:56+00:00",
       "tweet_id": "554287600614535169"
     }
@@ -294,7 +292,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "LorisGrandjeanD",
-      "text": "#RTSInfrarouge MEC. On en veut pas de ton mariage religieux ! Mariage CI-VIL.",
+      "text": "RTSInfrarouge MEC: On en veut pas de ton mariage religieux ! Mariage CI-VIL.",
       "date": "2015-03-31T21:09:39+00:00",
       "tweet_id": "583013310259453952"
     }

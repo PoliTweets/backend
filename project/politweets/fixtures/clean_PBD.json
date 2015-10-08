@@ -14,7 +14,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "BoschettiSteen",
-      "text": "Notre pays possède une police efficace mais doit avoir une justice ferme et adaptée à la criminalité transfrontalière http://t.co/uasTvLgyzz",
+      "text": "Notre pays possède une police efficace mais doit avoir une justice ferme et adaptée à la criminalité transfrontalière",
       "date": "2015-08-31T14:48:33+00:00",
       "tweet_id": "638362747273654272"
     }
@@ -24,7 +24,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "BoschettiSteen",
-      "text": "La plateforme animaux-parlement recommande de soutenir ma candidature au Conseil national! http://t.co/E7yvppr4e0 #EF2015",
+      "text": "La plateforme animaux-parlement recommande de soutenir ma candidature au Conseil national!",
       "date": "2015-09-02T14:48:02+00:00",
       "tweet_id": "639087392738119680"
     }
@@ -34,7 +34,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "BoschettiSteen",
-      "text": "Une excellente nouvelle ! L'initiative populaire ne doit pas être un outil marketing des partis ! http://t.co/lEwcUTl9dQ #EF2015 #CHvote",
+      "text": "L'initiative populaire ne doit pas être un outil marketing des partis! ",
       "date": "2015-08-06T11:42:44+00:00",
       "tweet_id": "629256288124411904"
     }
@@ -44,7 +44,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "PAPAMIKE15",
-      "text": "Faut-il comme le propose Bruno Le Maire expulser tous les étrangers ayant purgé une peine pour terrorisme ? http://t.co/5G29nOxj4B",
+      "text": "Faut-il comme le propose Bruno Le Maire expulser tous les étrangers ayant purgé une peine pour terrorisme?",
       "date": "2015-08-31T11:40:33+00:00",
       "tweet_id": "638315434731798528"
     }
@@ -54,7 +54,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CharlesPiguet",
-      "text": "#EF2015 Excellent billet de Gilles Champoud: NON à l'interdiction du voile islamique en Suisse ! les points sur les i http://t.co/7EofkMZvcC",
+      "text": "Excellent billet de Gilles Champoud: NON à l'interdiction du voile islamique en Suisse! les points sur les i",
       "date": "2015-07-15T12:27:10+00:00",
       "tweet_id": "621294937770868737"
     }
@@ -64,7 +64,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "malow333",
-      "text": "L'UE est un partenaire et non un concurrent. Pr cela, il est nécessaire de maintenir la voie bilatérale #EF2015",
+      "text": "L'UE est un partenaire et non un concurrent. Pour cela, il est nécessaire de maintenir la voie bilatérale #EF2015",
       "date": "2015-02-19T10:01:03+00:00",
       "tweet_id": "568349535824703488"
     }
@@ -73,18 +73,8 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "Mobella7",
-      "text": "#Tesla P85D, enfin une #électrique convaincante! http://t.co/ao7WsK0ZHQ #voiture",
-      "date": "2015-03-14T09:16:15+00:00",
-      "tweet_id": "576673184126222336"
-    }
-  },
-  {
-    "pk": null,
-    "model": "politweets.tweet",
-    "fields": {
       "handle": "nicolasjaquet75",
-      "text": "BONSOIR, qui nous suit pour lancer une intiative cantonale pour supprimer le droit à l'administration cantonale d'engager des frontaliers?",
+      "text": « Qui nous suit pour lancer une intiative cantonale pour supprimer le droit à l'administration cantonale d'engager des frontaliers?",
       "date": "2015-03-28T01:12:07+00:00",
       "tweet_id": "581624774742380544"
     }
@@ -95,9 +85,149 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "StanislasCramer",
-      "text": "Tous les presidents de parti contre l initiative \"pour la primaute du droit suisse\". Un bon depart #chvote",
+      "text": "Tous les presidents de parti contre l initiative \"pour la primauté du droit suisse\". Un bon depart #chvote",
       "date": "2015-03-11T14:08:00+00:00",
       "tweet_id": "575659439635759105"
+    }
+  },
+{
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "ChristineBussat",
+      "text": "Il télécharge des milliers d'images pédophiles. Il sera sûrement considéré comme un \"cas bagatelle\" pour le clan Sommaruga. EXCLU!",
+      "date": "2015-05-15T17:23:02+00:00",
+      "tweet_id": "599263734524157952"
+    }
+  },
+ {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "Mobella7",
+      "text": "En 2018, fin de la galère pour une place en #crèche à #Genève \nA quand pour Vaud? »,
+      "date": "2015-04-28T20:22:02+00:00",
+      "tweet_id": "593148187457748992"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PAPAMIKE15",
+      "text": "Migrants: la CEDH condamne l'Italie. Trop facile de critiquer depuis sa tour d'ivoire, loin des réalités!",
+      "date": "2015-09-01T09:59:17+00:00",
+      "tweet_id": "638652337863700481"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PAPAMIKE15",
+      "text": "Marine Le Pen veut "arrêter l’immigration légale et clandestine". Que font les pays frères pour tous ces musulmans ?",
+      "date": "2015-08-31T13:41:10+00:00",
+      "tweet_id": "638345788905664515"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "PAPAMIKE15",
+      "text": « Une élève a été exclue de l’école parce qu’elle porte le voile. Pourquoi avoir peur de nos modes de vie?",
+      "date": "2015-08-23T09:23:52+00:00",
+      "tweet_id": "635381935867588608"
+    }
+  },
+ {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "malow333",
+      "text": "Quand va-t-on arrêter de lancer des initiatives pour faire du bruit? Il y a tellement d'autres moyens...",
+      "date": "2015-03-08T16:37:10+00:00",
+      "tweet_id": "574609816196411395"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "malow333",
+      "text": "Au lieu de pointer du doigt les modèles d'intégration ratés, peut être est-il temps d'en montrer ou en trouver un qui a réussi?",
+      "date": "2015-02-16T12:50:16+00:00",
+      "tweet_id": "567304955347087360"
+    }
+  },
+{
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "SandraBorgeaud",
+      "text": "Justice pour Cecil, célèbre lion à la crinière noire du Zimbabwe, tué pour 50 000 euros",
+      "date": "2015-07-29T19:41:13+00:00",
+      "tweet_id": "626477599879995392"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "l_thurnherr",
+      "text": "Qu'attendent les manifestants et autres socialistes pour accueillir chez eux ces requérants déboutés?",
+      "date": "2015-06-22T15:52:32+00:00",
+      "tweet_id": "613011696479772672"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "l_thurnherr",
+      "text": "Sacrifier les valeurs de notre civilisation (égalité) sur l'autel de la liberté religieuse: non!",
+      "date": "2015-05-04T13:10:47+00:00",
+      "tweet_id": "595213984732700672"
+    }
+  },
+  {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CharlesPiguet",
+      "text": "\"Il faut construire des villages entiers de réfugiés en Suisse\" Et pourquoi pas?",
+      "date": "2015-08-27T07:45:46+00:00",
+      "tweet_id": "636806795516772352"
+    }
+  },
+ {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "CharlesPiguet",
+      "text": "Imposer 3 fois le même montant? Non merci!\n\nNON à l'impôt sur les successions le 14 juin!",
+      "date": "2015-05-11T19:27:12+00:00",
+      "tweet_id": "597845427602362368"
+    }
+  },
+ {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "StanislasCramer",
+      "text": "Il est temps que la volonté populaire soit respectée qu'elle plaise ou non à notre conseillère fédérale",
+      "date": "2015-07-07T09:37:13+00:00",
+      "tweet_id": "618353064475525120"
+    }
+  },
+ {
+    "pk": null,
+    "model": "politweets.tweet",
+    "fields": {
+      "handle": "StanislasCramer",
+      "text": "Chère et injuste, c est NON à l'initiative du PDC sur les familles.",
+      "date": "2015-01-22T12:17:46+00:00",
+      "tweet_id": "558237081886277632"
     }
   }
 ]
