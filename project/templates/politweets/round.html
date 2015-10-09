@@ -1,87 +1,69 @@
 {% extends 'politweets/base.html' %}
 
 {% load staticfiles %}
+
 {% load template_utils %}
 
 {% block body_block %}
 
-    <header>
-        <div class="container">
-            <div class="col-xs-8">
-                <a class="logo">
-                    <img src="{% static 'politweets/img/logo.png' %}">
-                    <span class="politweets">Politweets</span>
-                </a>
-            </div>
-        </div>
-    </header>
-
     <div class="container">
 
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Qui a dit ?</h2>
+            <div class=".col-xs-6 .col-xs-offset-6 text-center">
+                <img class="logo-round" src="{% static 'politweets/img/pt-logo-round.png' %}">
+                <p class="logo-round-text">Politweets</p>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <div id="tweet" class="panel panel-default">
-                    <div class="panel-body">
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="#">
-                                    <img class="media-object" src="https://cdn4.iconfinder.com/data/icons/miu/22/circle_help_question-mark-128.png" alt="">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                {{ tweet.text }}
-                            </div>
-                        </div>
-                    </div>
+            <div class=".col-xs-6 .col-xs-offset-6">
+                <div class="progress progress-custom">
+                    <div class="progress-bar progress-bar-custom" role="progressbar" aria-valuenow="{{ index|percentage:total }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ index|percentage:total }}%"></div>
                 </div>
+            </div>
+        </div>
 
-                <form action="{% url 'politweets:round' %}" method="post" class="form-horizontal">
+        <div class="row">
+            <div class=".col-xs-6 .col-xs-offset-6">
+                <img class="tw-logo" src="{% static 'politweets/img/tw-logo.png' %}">
+                <p class="tw-text"><small><em>{{ tweet.date }}</em></small><br>&laquo;&nbsp;{{ tweet.text }}&nbsp;&raquo;</p>
+            </div>
+        </div>
 
-                    <div id="answers" class="panel panel-default">
-                        <div class="panel-body">
-                            <input type="hidden" id="party_key" name="party_key" value="{{ candidate.party_key }}"/>
-                            <input type="hidden" id="tweet_id" name="tweet_id" value="{{ tweet.tweet_id }}"/>
-                            {% csrf_token %}
-                            {{ form.as_p }}
-                        </div>
+        <div class="row">
+            <div class=".col-xs-6 .col-xs-offset-6">
+	        <h4 class="res-title">Qui a dit&nbsp;?</h4>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class=".col-xs-6 .col-xs-offset-6">
+
+                <form action="{% url 'politweets:round' %}" method="post">
+
+                    <div>
+                        <input type="hidden" id="party_key" name="party_key" value="{{ candidate.party_key }}" />
+                        <input type="hidden" id="tweet_id" name="tweet_id" value="{{ tweet.tweet_id }}" />
+                        {% csrf_token %}
+                        {% for choice in form.answer.field.choices %}
+                            <input id="{{ choice.0 }}" class="btn btn-res-custom" type="button" value="{{ choice.1 }}" />
+                        {% endfor %}
                     </div>
 
-                    <div id="correct_answer" class="panel panel-default" style="display:none;">
-                        <div class="panel-body">
-                            <h4 class="media-heading">
-                                <span class="name">{{ candidate.name }}</span> <span class="party-name">({{ candidate.full_party_name }})</span>
-                                <small>{{ tweet.date }}</small>
-                                <a target="_blank" href="https://twitter.com/{{ tweet.handle }}/status/{{ tweet.tweet_id }}">Tweet original</a>
-                            </h4>
-                        </div>
+                    <div id="correct_answer" style="display: none;">
+                        <h4 class="res-title">Auteur du Tweet</h4>
+                        <p class="tw-text">{{ candidate.name }}&nbsp;({{ candidate.full_party_name }})<br><a target="_blank" href="https://twitter.com/{{ tweet.handle }}/status/{{ tweet.tweet_id }}">Voir le Tweet original</a></p>
                     </div>
 
-                    <div  class="nextButtonContainer statusContentItem">
-                        <div class="col-md-4">
-                            <div class="c100 p{{ index|percentage:total }} small">
-                                <span>{{ index }} / {{ total }}</span>
-                                <div class="slice">
-                                    <div class="bar"></div>
-                                    <div class="fill"></div>
-                                </div>
-                            </div>
-                        </div>
+                    <div id="nextButton" class="text-center" style="display: none;">
+                        <input class="btn btn-custom" type="submit" value="Continuer" />
                     </div>
-                    <div class="col-md-4">
-                        <input id="nextButton" type="submit" class="btn btn-default navbar-btn" value="Tweet suivant" style="display:none;"/>
-                    </div>
+
                 </form>
 
             </div>
         </div>
 
-    </div> <!-- container -->
+    </div>
 
 {% endblock body_block %}
-

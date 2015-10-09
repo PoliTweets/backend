@@ -1,195 +1,177 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400|Noto+Sans:700,400|Archivo+Black);
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    background: #ff0000;
-    margin-bottom: 60px;
+    font-family: 'Varela Round', sans-serif;
+    background-color: #BD1F2A;
+    margin: 60px 30px 60px 30px;
 }
 
-footer {
-    display: none;
-    background: #000;
-    color: #eee;
-    padding: 20px 0 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 60px;
-}
-
-
-.logo img {
-    height: 70px;
-    vertical-align: sub;
-}
-
-.logo .politweets {
-    color: white;
-    text-decoration: none;
-    font-size: 70px;
-    font-family: 'Noto Sans', sans-serif;
-    font-weight: 700;
-    display: inline-block;
-    transform: skewX(-10deg);
-}
-
-#tweet .media-object{
-    width: 48px;
-    height: 48p;
-}
-
-h1, h2, h3 {
-    color: #eee;
-}
-
-h1 {
+.logo-home {
+    height: 127px;
     margin-bottom: 30px;
 }
 
-.questionContainer {
-
+.logo-home-text {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 0;
 }
 
-.twitterContainer {
-
+.description {
+    color: white;
+    font-size: 20px;
 }
 
-.answersContainer {
-    text-align: center;
-}
-
-.answerButtonContainer {
-    width: 40%;
-    display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding-left: 5%;
-    padding-right: 5%;
-}
-
-.answerButtonContainer a {
-    width: 100%;
-}
-
-
-.statusContent {
-
-}
-
-.statusContentItem {
-    display: inline-block;
-    vertical-align: top;
-}
-
-.progressBarContainer {
-    width: 50%;
-}
-
-
-.questionNumIndicator {
-    text-align: center;
-}
-.nextButtonContainer {
-    width: 25%;
-    text-align: right;
-}
-.scoreContainer {
-    width: 25%;
-    padding-top: 10px;
-    font-size: 1.5em;
-}
-
-.orientationSelector {
-    width: 445px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.orientationSelector img {
-    width: 100%;
-}
-
-.buttonCenterContainer {
-    text-align: center;
-}
-
-.content .avatar {
-    float: left;
-    margin-top: 3px;
-    margin-left: -58px;
-    width: 48px;
-    height: 48px;
+.btn-custom {
+    background-color: #E3252A;
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
     border-radius: 5px;
-    -moz-force-broken-image-icon: 1;
-}
-.content .username{
-    font-size: 13px;
-    color: #8899a6;
+    margin-top: 30px;
 }
 
-.content .time{
-    color: #8899a6;
-}
-
-.content .tweet{
-    font-size: 14px;
-    line-height: 18px;
-}
-
-
-@media only screen and (max-width: 768px) {
-
-    .statusContentItem {
-        display: block;
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
-    .progressBarContainer {
-        width: 100%;
-    }
-
-    .nextButtonContainer {
-        width: 100%;
-        text-align: center;
-    }
-    .scoreContainer {
-        width: 100%;
-        text-align: center;
-    }
-}
-
-@media only screen and (max-width: 480px) {
-    .answerButtonContainer {
-        width: 100%;
-        display: block;
-    }
-
-    .answerButtonContainer a {
-        width: 100%;
-    }
-
-    .orientationSelector {
-        width: 300px;
-    }
-}
-
-table {
-    background-color: transparent;
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: 20px;
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active {
+    background-color: #D31B20;
     color: white;
 }
 
-caption {
-    padding-top: 8px;
-    padding-bottom: 8px;
-    color: #777777;
-    text-align: left;
+.btn-custom.disabled:hover,
+.btn-custom.disabled:focus,
+.btn-custom.disabled:active,
+.btn-custom.disabled.active,
+.btn-custom[disabled]:hover,
+.btn-custom[disabled]:focus,
+.btn-custom[disabled]:active,
+.btn-custom[disabled].active,
+fieldset[disabled] .btn-custom:hover,
+fieldset[disabled] .btn-custom:focus,
+fieldset[disabled] .btn-custom:active,
+fieldset[disabled] .btn-custom.active {
+    background-color: #E3252A;
+    color: white;
 }
 
-th {
-    text-align: left;
+.logo-round {
+    float: left;
+    height: 48px;
+    margin-bottom: 30px;
+}
+
+.logo-round-text {
+    color: white;
+    font-size: 30px;
+    line-height: 1.6;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 48px;
+}
+
+.progress-custom {
+    background-image: none;
+    background-color: white;
+    border: 2px solid white;
+}
+
+.progress-bar-custom {
+    background-image: none;
+    background-color: #E3252A;
+}
+
+.tw-logo {
+    float: left;
+    width: 48px;
+    margin: 0 10px 10px 0;
+}
+
+.tw-text {
+    background-color: white;
+    border: 2px solid #E3252A;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.tw-text em {
+    color: #E3252A;
+    font-style: normal;
+}
+
+.tw-text a, .tw-text a:visited {
+    color: #E3252A;
+}
+
+.tw-text a:hover, .tw-text a:active {
+    color: #D31B20;
+}
+
+.res-title {
+    color: white;
+}
+
+.btn-res-custom {
+    background-color: white;
+    color: #E3252A;
+    font-size: 20px;
+    border: 2px solid #E3252A;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.btn-res-custom:hover,
+.btn-res-custom:focus,
+.btn-res-custom:active,
+.btn-res-custom.active {
+    background-color: #f2f2f2;
+    color: #E3252A;
+}
+
+.btn-res-custom.disabled:hover,
+.btn-res-custom.disabled:focus,
+.btn-res-custom.disabled:active,
+.btn-res-custom.disabled.active,
+.btn-res-custom[disabled]:hover,
+.btn-res-custom[disabled]:focus,
+.btn-res-custom[disabled]:active,
+.btn-res-custom[disabled].active,
+fieldset[disabled] .btn-res-custom:hover,
+fieldset[disabled] .btn-res-custom:focus,
+fieldset[disabled] .btn-res-custom:active,
+fieldset[disabled] .btn-res-custom.active {
+    background-color: white;
+    color: #E3252A;
+}
+
+#correct_answer {
+    margin-top: 15px;
+}
+
+.score-title {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+#user_score {
+    margin-bottom: 20px;
+}
+
+.score-logo {
+    height: 48px;
+}
+
+.score-text {
+    color: white;
+    font-size: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 10px;
 }

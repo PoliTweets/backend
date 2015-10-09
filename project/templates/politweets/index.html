@@ -1,39 +1,32 @@
 {% extends 'politweets/base.html' %}
 
 {% load staticfiles %}
+
 {% load template_utils %}
 
 {% block body_block %}
 
-    <header>
-        <div class="container">
-            <div class="col-xs-8">
-                <a class="logo">
-                    <img src="{% static 'politweets/img/logo.png' %}">
-                    <span class="politweets">Politweets</span>
-                </a>
-            </div>
-        </div>
-    </header>
-
     <div class="container">
 
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h2>Bienvenue</h2>
-                <p>Bienvenue dans Politweets, le quiz politique de la RTS pour les élections fédérales.</p>
+            <div class=".col-xs-6 .col-xs-offset-6">
+                <img class="logo-home" src="{% static 'politweets/img/pt-logo-home.png' %}">
+                <p class="logo-home-text">Politweets</p>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-
-                <input id="startOverButton" class="btn btn-default navbar-btn" value="Commencer" onclick="location.href='{% url 'politweets:round' %}'" />
-
+            <div class=".col-xs-6 .col-xs-offset-6">
+                <q class="description">&nbsp;Phrases chocs, invectives, humour&hellip; Saurez-vous retrouver de quel parti émanent les citations suivantes, glânées sur les comptes Twitter des candidats des élections fédérales&nbsp;?&nbsp;</q>
             </div>
         </div>
 
-    </div> <!-- container -->
+        <div class="row">
+            <div class=".col-xs-6 .col-xs-offset-6 text-center">
+                <input class="btn btn-custom" type="button" value="Commencer" onclick="location.href='{% url 'politweets:round' %}'" />
+            </div>
+        </div>
+
+    </div>
 
 {% endblock body_block %}
-
