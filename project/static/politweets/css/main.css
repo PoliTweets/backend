@@ -3,7 +3,7 @@
 body {
     font-family: 'Varela Round', sans-serif;
     background-color: #BD1F2A;
-    margin: 60px 30px 60px 30px;
+    margin: 30px 15px 30px 15px;
 }
 
 .logo-home {
@@ -29,7 +29,7 @@ body {
     font-size: 20px;
     border: 2px solid white;
     border-radius: 5px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .btn-custom:hover,
@@ -115,14 +115,19 @@ fieldset[disabled] .btn-custom.active {
     color: white;
 }
 
+.smallpadding {
+   padding: 5px !important;
+}
+
 .btn-res-custom {
     background-color: white;
     color: #E3252A;
-    font-size: 20px;
+    font-size: 18px;
     border: 2px solid #E3252A;
     border-radius: 5px;
     width: 100%;
     margin-bottom: 5px;
+    margin: 0px;
 }
 
 .btn-res-custom:hover,

@@ -9,14 +9,16 @@
     <div class="container">
 
         <div class="row">
-            <div class=".col-xs-6 .col-xs-offset-6 text-center">
+            <div class="col-xs-3 col-sm-2 col-md-2">
                 <img class="logo-round" src="{% static 'politweets/img/pt-logo-round.png' %}">
+            </div>
+            <div class="col-xs-9 col-sm-10 col-md-12">
                 <p class="logo-round-text">Politweets</p>
             </div>
         </div>
 
         <div class="row">
-            <div class=".col-xs-6 .col-xs-offset-6">
+            <div class="col-xs-12">
                 <div class="progress progress-custom">
                     <div class="progress-bar progress-bar-custom" role="progressbar" aria-valuenow="{{ index|percentage:total }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ index|percentage:total }}%"></div>
                 </div>
@@ -24,31 +26,36 @@
         </div>
 
         <div class="row">
-            <div class=".col-xs-6 .col-xs-offset-6">
+            <div class="col-xs-3 col-sm-2 col-md-1">
                 <img class="tw-logo" src="{% static 'politweets/img/tw-logo.png' %}">
+            </div>
+            <div class="col-xs-9 col-sm-10 col-md-11">
                 <p class="tw-text"><small><em>{{ tweet.date }}</em></small><br>&laquo;&nbsp;{{ tweet.text }}&nbsp;&raquo;</p>
             </div>
         </div>
 
         <div class="row">
-            <div class=".col-xs-6 .col-xs-offset-6">
-	        <h4 class="res-title">Qui a dit&nbsp;?</h4>
+            <div class="col-xs-12">
+                <h4 class="res-title">Qui a dit&nbsp;?</h4>
             </div>
         </div>
 
-        <div class="row">
-            <div class=".col-xs-6 .col-xs-offset-6">
+        <form action="{% url 'politweets:round' %}" method="post">
+            {% csrf_token %}
 
-                <form action="{% url 'politweets:round' %}" method="post">
+            <div class="row">
+                <input type="hidden" id="party_key" name="party_key" value="{{ candidate.party_key }}" />
+                <input type="hidden" id="tweet_id" name="tweet_id" value="{{ tweet.tweet_id }}" />
 
-                    <div>
-                        <input type="hidden" id="party_key" name="party_key" value="{{ candidate.party_key }}" />
-                        <input type="hidden" id="tweet_id" name="tweet_id" value="{{ tweet.tweet_id }}" />
-                        {% csrf_token %}
-                        {% for choice in form.answer.field.choices %}
-                            <input id="{{ choice.0 }}" class="btn btn-res-custom" type="button" value="{{ choice.1 }}" />
-                        {% endfor %}
+                {% for choice in form.answer.field.choices %}
+                    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 smallpadding" aria-label="...">
+                        <input id="{{ choice.0 }}" class="btn btn-res-custom" type="button" value="{{ choice.1 }}" />
                     </div>
+                {% endfor %}
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12">
 
                     <div id="correct_answer" style="display: none;">
                         <h4 class="res-title">Auteur du Tweet</h4>
@@ -58,11 +65,10 @@
                     <div id="nextButton" class="text-center" style="display: none;">
                         <input class="btn btn-custom" type="submit" value="Continuer" />
                     </div>
-
-                </form>
-
+                </div>
             </div>
-        </div>
+
+        </form>
 
     </div>
 
