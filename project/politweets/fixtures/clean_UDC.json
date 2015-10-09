@@ -54,7 +54,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "Buehler4Bern",
-      "text": "Vu le résultat serré, la LRTV sera-t-elle aussi peu mise en œuvre que l'expulsion des criminels étrangers et l'initiative du 9 février ? 😜",
+      "text": "Vu le résultat serré, la LRTV sera-t-elle aussi peu mise en œuvre que l'expulsion des criminels étrangers et l'initiative du 9 février ?",
       "date": "2015-06-14T17:14:28+00:00",
       "tweet_id": "610133211943993345"
     }
@@ -64,7 +64,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "YohanZiehli",
-      "text": "Pendant ce temps, au Botswana, un candidat quitte le #BDP pour rejoindre l'#UDC. Un signe en vue des élections?  https://t.co/AAnmaoU5W1",
+      "text": "Pendant ce temps, au Botswana, un candidat quitte le #BDP pour rejoindre l'#UDC. Un signe en vue des élections?",
       "date": "2015-08-19T09:39:51+00:00",
       "tweet_id": "633936404746248192"
     }
@@ -264,7 +264,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "acgraber",
-      "text": "Citation du ministre britannique des finances Osborne : « Si l’Etat ne contrôle pas sa dette, c’est la dette qui contrôle le pays. »",
+      "text": "Citation du ministre britannique des finances Osborne : \"Si l’Etat ne contrôle pas sa dette, c’est la dette qui contrôle le pays.\"",
       "date": "2015-07-10T14:02:09+00:00",
       "tweet_id": "619506900351062017"
     }

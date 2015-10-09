@@ -3,7 +3,7 @@
 body {
     font-family: 'Varela Round', sans-serif;
     background-color: #BD1F2A;
-    margin: 60px 30px 60px 30px;
+    margin: 30px 15px 30px 15px;
 }
 
 .logo-home {
@@ -15,12 +15,13 @@ body {
     color: white;
     font-size: 30px;
     text-transform: uppercase;
-    margin-bottom: 0;
+    margin-bottom: 5px;
 }
 
 .description {
     color: white;
     font-size: 20px;
+    margin-bottom: 0;
 }
 
 .btn-custom {
@@ -59,7 +60,7 @@ fieldset[disabled] .btn-custom.active {
 .logo-round {
     float: left;
     height: 48px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 .logo-round-text {
@@ -69,13 +70,14 @@ fieldset[disabled] .btn-custom.active {
     text-transform: uppercase;
     vertical-align: middle;
     display: inline-block;
-    margin-right: 48px;
+    margin: 0 48px 15px 0;
 }
 
 .progress-custom {
     background-image: none;
     background-color: white;
     border: 2px solid white;
+    margin-bottom: 5px;
 }
 
 .progress-bar-custom {
@@ -83,10 +85,14 @@ fieldset[disabled] .btn-custom.active {
     background-color: #E3252A;
 }
 
+.res-title {
+    color: white;
+}
+
 .tw-logo {
     float: left;
     width: 48px;
-    margin: 0 10px 10px 0;
+    margin: 0 10px 15px 0;
 }
 
 .tw-text {
@@ -94,7 +100,7 @@ fieldset[disabled] .btn-custom.active {
     border: 2px solid #E3252A;
     border-radius: 5px;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     overflow: hidden;
 }
 
@@ -111,18 +117,17 @@ fieldset[disabled] .btn-custom.active {
     color: #D31B20;
 }
 
-.res-title {
-    color: white;
+.smallpadding {
+    padding: 2.5px;
 }
 
 .btn-res-custom {
     background-color: white;
     color: #E3252A;
-    font-size: 20px;
+    font-size: 18px;
     border: 2px solid #E3252A;
     border-radius: 5px;
     width: 100%;
-    margin-bottom: 5px;
 }
 
 .btn-res-custom:hover,
@@ -149,7 +154,15 @@ fieldset[disabled] .btn-res-custom.active {
     color: #E3252A;
 }
 
-#correct_answer {
+.nopadding {
+    padding: 0;
+}
+
+.smallmargin {
+    margin-top: 15px;
+}
+
+.btn-custom-round {
     margin-top: 15px;
 }
 
@@ -161,7 +174,7 @@ fieldset[disabled] .btn-res-custom.active {
 }
 
 #user_score {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .score-logo {
@@ -173,5 +186,5 @@ fieldset[disabled] .btn-res-custom.active {
     font-size: 50px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0 0 0 10px;
+    margin: 5px 0 0 10px;
 }

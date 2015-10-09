@@ -3,10 +3,10 @@
     "pk": null,
     "model": "politweets.tweet",
     "fields": {
-      "handle": "Savary_Recordon",
-      "text": "L’institution du mariage entre dans le 21e siècle. A l’avenir les couples de même sexe pourront se marier et fonder une famille.",
-      "date": "2015-09-01T15:58:01+00:00",
-      "tweet_id": "638742617006690304"
+      "handle": "CarloSommaruga",
+      "text": "Aux Etats-Unis, les drones équipés de tasers font leur entrée dans la police. Et l'on parle de société de libertés!",
+      "date": "2015-08-27T11:41:14+00:00",
+      "tweet_id": "636866056414449665"
     }
   },
   {
@@ -244,7 +244,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "gaelbourgeois",
-      "text": "Le gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation 🎉\n\n50 jeunes concernés en Valais !",
+      "text": "Le gcvs accepte par 60/44 que les jeunes permis F puissent faire une demande de naturalisation\n\n50 jeunes concernés en Valais !",
       "date": "2015-06-12T09:05:52+00:00",
       "tweet_id": "609285476718125056"
     }

@@ -24,7 +24,7 @@
     "model": "politweets.tweet",
     "fields": {
       "handle": "CvanSinger",
-      "text": "Sur le Blick la liste secrète des «menus achats» de l'armée d'ici 2020: env. 6 milliards ! Mais pas d'adaptation aux risques d'aujourd'hui!",
+      "text": "Sur le Blick la liste secrète des \"menus achats\" de l'armée d'ici 2020: env. 6 milliards ! Mais pas d'adaptation aux risques d'aujourd'hui!",
       "date": "2015-05-18T10:32:11+00:00",
       "tweet_id": "600247502378524672"
     }

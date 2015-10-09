@@ -3,17 +3,6 @@
     "pk": null,
     "model": "politweets.candidate",
     "fields": {
-      "name": "Savary Géraldine",
-      "full_party_name": "PS",
-      "party_key": "ps",
-      "canton": "VD",
-      "handle": "Savary_Recordon"
-    }
-  },
-  {
-    "pk": null,
-    "model": "politweets.candidate",
-    "fields": {
       "name": "Nordmann Roger",
       "full_party_name": "PS",
       "party_key": "ps",
@@ -459,17 +448,6 @@
       "party_key": "plr",
       "canton": "VD",
       "handle": "Lionel_Voincon"
-    }
-  },
-  {
-    "pk": null,
-    "model": "politweets.candidate",
-    "fields": {
-      "name": "Recordon Luc",
-      "full_party_name": "Les Verts",
-      "party_key": "gre",
-      "canton": "VD",
-      "handle": "Savary_Recordon"
     }
   },
   {
@@ -2218,7 +2196,7 @@
       "full_party_name": "PS",
       "party_key": "ps",
       "canton": "FR",
-      "handle": "Valerie_Piller\r\n"
+      "handle": "Valerie_Piller"
     }
   },
   {
